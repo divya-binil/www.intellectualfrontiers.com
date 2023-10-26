@@ -10,6 +10,7 @@ uspto-patent-family-members-publication-numbers:
 application-date: 
 issue-date: 
 expiry-date: 
+excerpt: Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making 
 patent-status: Active
 url: "/ip/integration-of-devices-through-a-social-networking-platform-us9525753b2"
 uspto-patent-pdf:

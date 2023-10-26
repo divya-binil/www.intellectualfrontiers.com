@@ -15,6 +15,10 @@ url: "/ip/integration-of-devices-through-a-social-networking-platform"
 uspto-patent-pdf:
 uspto-patent-url:
 thumbnail: 
+excerpt: Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+tags:
+  - astro
+  - tailwind css
 uspto-patent-citation-label: 
 forward-citations: 
 backward-citations:

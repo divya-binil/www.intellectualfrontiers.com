@@ -23,6 +23,7 @@ abstract-of-the-invention:
 problem-solved-by-the-invention:
 topics: 
 images: 
+excerpt: Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making 
 image: "/images/no-image.jpg"
 external-links: https://patents.google.com/patent/US10643208B2/
 downloadable-documents: 
