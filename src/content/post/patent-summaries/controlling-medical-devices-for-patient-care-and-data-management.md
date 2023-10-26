@@ -50,7 +50,7 @@ This proposed technology addresses the extant challenges in the medical field by
 
 <div class="center-elements"> 
 
-![Figure 1](/images/us10638999b2-image-1.png)
+![Figure 1](/images/patent-summaries/us10638999b2-image-1.png)
 
 **Figure 1** 
 

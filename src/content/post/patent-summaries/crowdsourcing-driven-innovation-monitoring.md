@@ -111,7 +111,7 @@ It paves the way for a more organized, transparent, and efficient avenue for tra
 
 <div class="center-elements"> 
 
-![Figure 1](/images/us11270263b2-image-01.png)
+![Figure 1](/images/patent-summaries/us11270263b2-image-01.png)
 
 </div>
 

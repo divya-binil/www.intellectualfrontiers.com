@@ -56,7 +56,7 @@ Taking a leaf from the playbook of human social networking, devices in this inno
 
 <div class="center-elements"> 
 
-![Figure 1](/images/us11044221b2-image-01.png)
+![Figure 1](/images/patent-summaries/us11044221b2-image-01.png)
 Fig:1
 </div>
 

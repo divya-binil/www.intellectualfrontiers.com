@@ -100,7 +100,7 @@ It is a challenging task to strike a balance between security and usability. Ove
 
 <div class="center-elements"> 
 
-![Figure 1](/images/us10963585b2-image-1.png)
+![Figure 1](/images/patent-summaries/us10963585b2-image-1.png)
 
 **Figure 1** 
 

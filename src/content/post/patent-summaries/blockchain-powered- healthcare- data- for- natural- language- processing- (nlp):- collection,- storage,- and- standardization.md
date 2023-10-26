@@ -116,7 +116,7 @@ Advances in digital architecture have paved the way for numerous breakthroughs i
 
 <div class="center-elements"> 
 
-![Figure 1](/images/us10984913b2-image-01.png)
+![Figure 1](/images/patent-summaries/us10984913b2-image-01.png)
 
 </div>
 
