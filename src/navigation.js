@@ -30,6 +30,10 @@ export const headerData = {
       ],
     },
     {
+      text: 'Use Cases',
+      href: '/our-intellectual-property-assets',
+    },
+    {
       text: 'Google Patents',
       href: 'https://patents.google.com/?inventor=Shahid+N+Shah&status=GRANT&type=PATENT&num=100&oq=inventor:(Shahid+N+Shah)+status:GRANT+type:PATENT',
     },
