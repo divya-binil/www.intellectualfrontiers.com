@@ -20,7 +20,7 @@ export const headerData = {
       links: [
         {
           text: 'Patent List',
-          href: getBlogPermalink(),
+          href: getPermalink('/patent'),
         },
       ],
     },
