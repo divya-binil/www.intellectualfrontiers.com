@@ -15,14 +15,18 @@ export const headerData = {
     //     },
     //   ],
     // },
+    // {
+    //   text: 'Patents',
+    //   links: [
+    //     {
+    //       text: 'Patent List',
+    //       href: getPermalink('/patent'),
+    //     },
+    //   ],
+    // },
     {
       text: 'Patents',
-      links: [
-        {
-          text: 'Patent List',
-          href: getPermalink('/patent'),
-        },
-      ],
+      href: '/patent',
     },
     {
       text: 'Use Cases',
