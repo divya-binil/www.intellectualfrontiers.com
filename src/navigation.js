@@ -3,87 +3,95 @@ import { getPermalink, getBlogPermalink, getAsset } from './utils/permalinks';
 export const headerData = {
   links: [
     {
-      text: 'Homes',
-      href: getPermalink('/homes/startup'),
+      text: 'Home',
+      // links: [
+      //   {
+      //     text: 'SaaS',
+      //     href: getPermalink('/homes/saas'),
+      //   },
+      //   {
+      //     text: 'Startup',
+      //     href: getPermalink('/homes/startup'),
+      //   },
+      //   {
+      //     text: 'Mobile App',
+      //     href: getPermalink('/homes/mobile-app'),
+      //   },
+      //   {
+      //     text: 'Personal',
+      //     href: getPermalink('/homes/personal'),
+      //   },
+      // ],
+      href: '#',
     },
-    // {
-    //   text: 'Landing',
-    //   links: [
-    //     {
-    //       text: 'Lead Generation',
-    //       href: getPermalink('/landing/lead-generation'),
-    //     },
-    //   ],
-    // },
-    // {
-    //   text: 'Patents',
-    //   links: [
-    //     {
-    //       text: 'Patent List',
-    //       href: getPermalink('/patent'),
-    //     },
-    //   ],
-    // },
     {
-      text: 'Patents',
+      text: 'About Us',
+      href: '#',
+    },
+    {
+      text: 'Patient Assets',
+      //   {
+      //     text: 'Lead Generation',
+      //     href: getPermalink('/landing/lead-generation'),
+      //   },
+      //   {
+      //     text: 'Long-form Sales',
+      //     href: getPermalink('/landing/sales'),
+      //   },
+      //   {
+      //     text: 'Click-Through',
+      //     href: getPermalink('/landing/click-through'),
+      //   },
+      //   {
+      //     text: 'Product Details (or Services)',
+      //     href: getPermalink('/landing/product'),
+      //   },
+      //   {
+      //     text: 'Coming Soon or Pre-Launch',
+      //     href: getPermalink('/landing/pre-launch'),
+      //   },
+      //   {
+      //     text: 'Subscription',
+      //     href: getPermalink('/landing/subscription'),
+      //   },
+      // ],
+      href: '#',
+    },
+    {
+      text: 'FAQs',
+      href: '#',
+    },
+    {
+      text: 'Download Center',
+      href: '#',
+    },
+    {
+      text: 'Resources',
       href: '/patent',
     },
-    {
-      text: 'Use Cases',
-      href: '/our-intellectual-property-assets',
-    },
-    {
-      text: 'Google Patents',
-      href: 'https://patents.google.com/?inventor=Shahid+N+Shah&status=GRANT&type=PATENT&num=100&oq=inventor:(Shahid+N+Shah)+status:GRANT+type:PATENT',
-    },
   ],
-  actions: [{ text: 'Download', href: 'https://github.com/onwidget/astrowind', target: '_blank' }],
+  actions: [{ text: 'Contact/Chatbot', href: '/', target: '_blank' }],
 };
 
 export const footerData = {
   links: [
     {
-      title: 'Product',
+      title: 'Quick Links',
       links: [
-        { text: 'Features', href: '#' },
-        { text: 'Security', href: '#' },
-        { text: 'Team', href: '#' },
-        { text: 'Enterprise', href: '#' },
-        { text: 'Customer stories', href: '#' },
-        { text: 'Pricing', href: '#' },
-        { text: 'Resources', href: '#' },
+        { text: 'Download Center', href: '#' },
+        { text: 'About us', href: '#' },
+        { text: 'Faq’s', href: '#' },
+        { text: 'Privacy Policy', href: '#' },
+        { text: 'Terms of Use', href: '#' },
+        // { text: 'Pricing', href: '#' },
+        // { text: 'Resources', href: '#' },
       ],
     },
     {
-      title: 'Platform',
+      title: 'Contact/Chatbot',
       links: [
-        { text: 'Developer API', href: '#' },
-        { text: 'Partners', href: '#' },
-        { text: 'Atom', href: '#' },
-        { text: 'Electron', href: '#' },
-        { text: 'AstroWind Desktop', href: '#' },
-      ],
-    },
-    {
-      title: 'Support',
-      links: [
-        { text: 'Docs', href: '#' },
-        { text: 'Community Forum', href: '#' },
-        { text: 'Professional Services', href: '#' },
-        { text: 'Skills', href: '#' },
-        { text: 'Status', href: '#' },
-      ],
-    },
-    {
-      title: 'Company',
-      links: [
-        { text: 'About', href: '#' },
-        { text: 'Blog', href: '#' },
-        { text: 'Careers', href: '#' },
-        { text: 'Press', href: '#' },
-        { text: 'Inclusion', href: '#' },
-        { text: 'Social Impact', href: '#' },
-        { text: 'Shop', href: '#' },
+        { text: 'consectetur adipiscing elit.', href: '#' },
+        { text: 'hello@intellectualfrontiers.com', href: '#' },
       ],
     },
   ],
