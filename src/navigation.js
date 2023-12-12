@@ -70,7 +70,7 @@ export const headerData = {
       href: '/patent',
     },
   ],
-  actions: [{ text: 'Contact/Chatbot', href: 'contact', target: '_blank' }],
+  actions: [{ text: 'Contact/Chatbot', href: '/contact', target: '_blank' }],
 };
 
 export const footerData = {
