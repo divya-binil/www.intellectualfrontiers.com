@@ -2,8 +2,7 @@
 import { APP_BLOG } from "~/utils/config";
 
 import Grid from "~/components/blog/Grid.astro";
-
-import { getBlogPermalink } from "~/utils/permalinks";
+import { getPermalink } from "~/utils/permalinks";
 import { findLatestPosts } from "~/utils/blog";
 import WidgetWrapper from "~/components/ui/WidgetWrapper.astro";
 import type { Widget } from "~/types";
@@ -20,7 +19,7 @@ export interface Props extends Widget {
 const {
   title = await Astro.slots.render("title"),
   linkText = "View all posts",
-  linkUrl = getBlogPermalink(),
+  linkUrl = getPermalink('/patent'),
   information = await Astro.slots.render("information"),
   count = 4,
 
