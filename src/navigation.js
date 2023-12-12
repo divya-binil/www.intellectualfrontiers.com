@@ -55,7 +55,7 @@ export const headerData = {
       //     href: getPermalink('/landing/subscription'),
       //   },
       // ],
-      href: getPermalink('/patentassets'),
+      href: getPermalink('/patent'),
     },
     {
       text: 'FAQs',
@@ -67,7 +67,7 @@ export const headerData = {
     },
     {
       text: 'Resources',
-      href: '/patent',
+      href: '/resources',
     },
   ],
   actions: [{ text: 'Contact/Chatbot', href: '/contact', target: '_blank' }],
