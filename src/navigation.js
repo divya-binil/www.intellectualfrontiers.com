@@ -66,7 +66,7 @@ export const headerData = {
       href: '/click-through',
     },
     {
-      text: 'Resources',
+      text: 'Blog',
       href: '/resources',
     },
   ],
