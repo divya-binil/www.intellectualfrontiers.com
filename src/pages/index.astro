@@ -11,6 +11,8 @@ import BlogLatestPosts from '~/components/widgets/BlogLatestPosts.astro';
 import FAQs from '~/components/widgets/FAQs.astro';
 import Stats from '~/components/widgets/Stats.astro';
 import CallToAction from '~/components/widgets/CallToAction.astro';
+import FeaturedpatentContent from '../../support/featuredpatent.json';
+import FeaturedTopics from '../../support/featuredtopics.json';
 
 const metadata = {
   title: 'Welcome to Intellectual Frontiers',
@@ -63,33 +65,7 @@ industry leadership with our patent collection.</span
     tagline=""
     title="Featured Patents"
     subtitle=""
-    items={[
-      {
-        title: 'Efficient Response Management System and Method for Crowdsourced Networks',
-        description:
-          `In the rapidly evolving digital era, people increasingly turn to online crowdsourced networks to find answers and solutions to a wide array of queries and challenges. These platforms serve as invaluable resources, connecting individuals with a diverse and knowledgeable community eager to share insights and expertise. However, amid this digital revolution, a formidable problem has emerged, one that casts a shadow of doubt over the reliability and accuracy of the responses offered by the crowd of respondents.`,
-        icon: 'tabler:brand-tailwind',
-      },
-      {
-        title: 'Aggregating Trustworthy Rating Indicators for Enhancing Reputation Management',
-        description:
-          `The existing landscape of online rating and review platforms is fraught with significant challenges in ensuring the accuracy, reliability, and authenticity of the information presented. These platforms host a plethora of reviews and ratings that can vary dramatically in their assessments of a given entity, such as a physician, primarily due to the diverse backgrounds and intentions of reviewers. Moreover, the trustworthiness of these reviews and the credibility of the reviewers themselves remain uncertain.`,
-        icon: 'tabler:components',
-      },
-      {
-        title: 'Integrated Healthcare System with Predictive Analytics and Risk Management through Social Networking',
-        description:
-          'The existing landscape of device interaction and automation, spanning across various domains such as healthcare, manufacturing, and aviation, faces significant challenges. While there have been efforts to facilitate device interconnection and interaction, there remains a pressing need for more sophisticated systems and methods. These systems must not only streamline the communication between devices but also enable seamless integration into a socially aware network. The current state of device management falls short in providing comprehensive solutions to address these challenges.',
-        icon: 'tabler:list-check',
-      },
-      {
-        title: 'Optimizing Rating Aggregation - A Method for Creating Accurate Aggregate Rating Indicators',
-        description:
-          'Existing methods and systems for rating aggregation face significant challenges in providing accurate and reliable aggregate scores for entities, such as professionals or businesses. Review platforms often yield disparate ratings, influenced by various factors like reviewer subjectivity and the authenticity of reviews. While rating aggregation algorithms attempt to collate these ratings to form a single indicator of an entity’s credibility, they often fall short in delivering optimal and dependable results.',
-        icon: 'tabler:rocket',
-      },
-     
-    ]}
+    items={FeaturedpatentContent}
   />
 
   <!-- Features Widget *************** -->
@@ -99,37 +75,7 @@ industry leadership with our patent collection.</span
     tagline=""
     title="Featured Topics"
     subtitle=""
-    items={[
-      {
-        title: 'Precision Learning',
-        description:
-          `Tailored Intellectual Development harnesses 
-advanced technologies and data analytics, offering 
-a nuanced educational experience for professionals 
-to master complex facets of intellectual property 
-and innovation.`,
-        icon: 'tabler:brand-tailwind',
-      },
-      {
-        title: 'Digital Reputation Management',
-        description:
-          `Proactively shaping a positive digital presence, Online Image Optimization involves strategic measures to enhance and safeguard an entity's online reputation.`,
-        icon: 'tabler:components',
-      },
-      {
-        title: 'Medical Device Integration',
-        description:
-          'Seamless incorporation of medical devices into interconnected systems, Medical Device Integration optimizes healthcare workflows, fostering efficient data exchange and enhancing patient care.',
-        icon: 'tabler:list-check',
-      },
-      {
-        title: 'Service Automation',
-        description:
-          'Service Automation streamlines operational workflows by leveraging advanced technologies, optimizing efficiency, and ensuring seamless, error-free execution of routine tasks within a business environment.',
-        icon: 'tabler:rocket',
-      },
-     
-    ]}
+    items={FeaturedTopics}
   />
 
   <!-- Content Widget **************** -->
