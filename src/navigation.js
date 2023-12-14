@@ -67,7 +67,7 @@ export const headerData = {
     },
     {
       text: 'Blog',
-      href: '/resources',
+      href: getPermalink('/blog'),
     },
   ],
   actions: [{ text: 'Contact/Chatbot', href: '/contact' }],
