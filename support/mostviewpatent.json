@@ -1,0 +1,38 @@
+[
+    {
+      "title": "Aggregation of rating indicators",
+      "description": "A computer-implemented method and system for publishing an aggregate rating indicator based on a plurality of discrete rating indicators associated with a rated entity.",
+      "icon": "flat-color-icons:template"
+    },
+    {
+      "title": "Computer-controlled precision education and training",
+      "description": "A system for streaming of contextual micro-content blocks for a workflow task to facilitate task performance by a user.",
+      "icon": "flat-color-icons:gallery"
+    },
+    {
+      "title": "System for controlling medical devices",
+      "description": "Controlling a multi-device module includes a physiological sensor configured to sense physiological characteristics of a subject and generate...",
+      "icon": "flat-color-icons:approval"
+    },
+    {
+      "title": "Digital payment system",
+      "description": "A digital payment system for facilitating seamless transactions from a user system to a buyer system. The system includes a service provider system which further includes a service interaction component...",
+      "icon": "flat-color-icons:document"
+    },
+    {
+      "title": "Networking devices for storing profiles longitudinally",
+      "description": "A method and networking device for tracking change in a computer executable profile includes retrieving computer executable profile information....",
+      "icon": "flat-color-icons:advertising"
+    },
+    {
+      "title": "Crowdsourced responses management to cases",
+      "description": "A response management system and method configured to allow management of responses to a case submitted by an entity in a crowdsourced network.",
+      "icon": "flat-color-icons:currency-exchange"
+    },
+    {
+        "title": "Aggregation of rating indicators",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!",
+        "icon": ""
+      }
+  ]
+  
