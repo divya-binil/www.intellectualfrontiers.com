@@ -1,5 +1,6 @@
 ---
 title: Crowdsourced responses management to cases
+sectiontype: patent
 uspto-canonical-id-label: Patent
 uspto-patent-number: US9418355B2
 inventor: Shah N. Shahid

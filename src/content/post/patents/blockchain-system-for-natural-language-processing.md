@@ -1,5 +1,6 @@
 ---
 title:  Blockchain system for natural language processing
+sectiontype: patent
 uspto-canonical-id-label: Patent
 uspto-patent-number: US-10984913-B2
 inventor: Shah N. Shahid

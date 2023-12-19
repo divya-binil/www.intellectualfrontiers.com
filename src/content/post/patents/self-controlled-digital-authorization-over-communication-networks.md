@@ -1,5 +1,6 @@
 ---
 title: Self-controlled digital authorization over communication networks
+sectiontype: patent
 uspto-canonical-id-label: Patent
 uspto-patent-number: US10963585B2
 inventor: Shah N. Shahid

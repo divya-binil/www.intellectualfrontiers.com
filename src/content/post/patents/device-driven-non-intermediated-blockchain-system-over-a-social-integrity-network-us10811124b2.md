@@ -1,5 +1,6 @@
 ---
 title:  Device-driven non-intermediated blockchain system over a social integrity network
+sectiontype: patent
 uspto-canonical-id-label: Patent
 uspto-patent-number: US1081124B2
 inventor: Shah N. Shahid

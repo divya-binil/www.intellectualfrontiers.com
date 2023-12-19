@@ -1,5 +1,6 @@
 ---
 title:  Blockchain-enabled service delivery evidence system
+sectiontype: patent
 uspto-canonical-id-label: Patent
 uspto-patent-number: US11475441B2
 inventor: Shah N. Shahid

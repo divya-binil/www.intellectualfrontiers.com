@@ -1,5 +1,6 @@
 ---
 title: Patient navigation and situational awareness derived through context-sensitive information blocks delivery
+sectiontype: patent
 uspto-canonical-id-label: Patent
 uspto-patent-number: US-10089492-B2
 inventor: Shah N. Shahid

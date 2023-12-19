@@ -1,5 +1,6 @@
 ---
 title: Computer system for performing reusable software application development from a set of declarative executable specifications.
+sectiontype: patent
 uspto-canonical-id-label: Patent
 uspto-patent-number: US-7039898-B2
 inventor: Shah N. Shahid

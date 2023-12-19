@@ -1,5 +1,6 @@
 ---
 title:  Computer-controlled precision education and training
+sectiontype: patent
 uspto-canonical-id-label: Patent
 uspto-patent-number: US11561884B2
 inventor: Shah N. Shahid

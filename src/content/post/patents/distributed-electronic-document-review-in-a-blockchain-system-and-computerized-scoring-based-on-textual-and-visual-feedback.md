@@ -1,5 +1,6 @@
 ---
 title: Distributed electronic document review in a blockchain system and computerized scoring based on textual and visual feedback
+sectiontype: patent
 uspto-canonical-id-label: Patent
 uspto-patent-number: US9870591B2
 inventor: Shah N. Shahid

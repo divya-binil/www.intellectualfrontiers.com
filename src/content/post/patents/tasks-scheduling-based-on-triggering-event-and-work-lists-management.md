@@ -1,5 +1,6 @@
 ---
 title:  Tasks scheduling based on triggering event and work lists management
+sectiontype: patent
 uspto-canonical-id-label: Patent
 uspto-patent-number: US10403399B2
 inventor: Shah N. Shahid

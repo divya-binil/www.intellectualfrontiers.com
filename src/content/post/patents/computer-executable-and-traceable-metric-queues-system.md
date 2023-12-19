@@ -1,5 +1,6 @@
 ---
 title:  Computer-executable and traceable metric queues system
+sectiontype: patent
 uspto-canonical-id-label: Patent
 uspto-patent-number: US11388077B2
 inventor: Shah N. Shahid

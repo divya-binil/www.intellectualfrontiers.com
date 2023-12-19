@@ -1,5 +1,6 @@
 ---
 title: Multi-source user generated electronic data integration in a blockchain-based transactional system
+sectiontype: patent
 uspto-canonical-id-label: Patent
 uspto-patent-number: US-10839020-B2	
 inventor: Shah N. Shahid

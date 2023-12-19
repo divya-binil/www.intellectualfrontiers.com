@@ -1,5 +1,6 @@
 ---
 title:  System for controlling medical devices
+sectiontype: patent
 uspto-canonical-id-label: Patent
 uspto-patent-number: US-11006920-B2
 inventor: Shah N. Shahid

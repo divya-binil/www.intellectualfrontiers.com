@@ -1,5 +1,6 @@
 ---
 title:  Blockchain-based crowdsourced initiatives tracking system
+sectiontype: patent
 uspto-canonical-id-label: Patent
 uspto-patent-number: US11270263B2	
 inventor: Shah N. Shahid

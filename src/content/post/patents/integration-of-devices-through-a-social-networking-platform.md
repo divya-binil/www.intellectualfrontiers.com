@@ -1,5 +1,6 @@
 ---
 title: Integration of devices through a social networking platform
+sectiontype: patent
 uspto-canonical-id-label: Patent
 uspto-patent-number: US-10320735-B2
 inventor: Shah N. Shahid

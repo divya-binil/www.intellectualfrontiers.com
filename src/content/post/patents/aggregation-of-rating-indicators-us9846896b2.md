@@ -1,5 +1,6 @@
 ---
 title:  Aggregation of rating indicators
+sectiontype: patent
 uspto-canonical-id-label: Patent
 uspto-patent-number: US-9846896-B2
 inventor: Shah N. Shahid
