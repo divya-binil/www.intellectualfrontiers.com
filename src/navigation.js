@@ -1,4 +1,4 @@
-import { getPermalink, getBlogPermalink, getAsset } from './utils/permalinks';
+import { getPermalink, getBlogPermalink, getAsset,getPatentPermalink } from './utils/permalinks';
 
 export const headerData = {
   links: [
@@ -30,32 +30,7 @@ export const headerData = {
     },
     {
       text: 'Patent Assets',
-      //   {
-      //     text: 'Lead Generation',
-      //     href: getPermalink('/landing/lead-generation'),
-      //   },
-      //   {
-      //     text: 'Long-form Sales',
-      //     href: getPermalink('/landing/sales'),
-      //   },
-      //   {
-      //     text: 'Click-Through',
-      //     href: getPermalink('/landing/click-through'),
-      //   },
-      //   {
-      //     text: 'Product Details (or Services)',
-      //     href: getPermalink('/landing/product'),
-      //   },
-      //   {
-      //     text: 'Coming Soon or Pre-Launch',
-      //     href: getPermalink('/landing/pre-launch'),
-      //   },
-      //   {
-      //     text: 'Subscription',
-      //     href: getPermalink('/landing/subscription'),
-      //   },
-      // ],
-      href: getPermalink('/patent'),
+      href: getPatentPermalink('/patent'),
     },
     {
       text: 'FAQs',

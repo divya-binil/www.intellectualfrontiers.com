@@ -58,6 +58,42 @@ export interface AppBlogConfig {
     };
   };
 }
+export interface AppPatentConfig {
+  isEnabled: boolean;
+  postsPerPage: number;
+  post: {
+    isEnabled: boolean;
+    permalink: string;
+    robots: {
+      index: boolean;
+      follow: boolean;
+    };
+  };
+  list: {
+    isEnabled: boolean;
+    pathname: string;
+    robots: {
+      index: boolean;
+      follow: boolean;
+    };
+  };
+  // category: {
+  //   isEnabled: boolean;
+  //   pathname: string;
+  //   robots: {
+  //     index: boolean;
+  //     follow: boolean;
+  //   };
+  // };
+  // tag: {
+  //   isEnabled: boolean;
+  //   pathname: string;
+  //   robots: {
+  //     index: boolean;
+  //     follow: boolean;
+  //   };
+  // };
+}
 export interface AnalyticsConfig {
   vendors: {
     googleAnalytics: {
@@ -73,6 +109,8 @@ const config = yaml.load(fs.readFileSync('src/config.yaml', 'utf8')) as {
   i18n?: I18NConfig;
   apps?: {
     blog?: AppBlogConfig;
+    patent?: AppPatentConfig;
+    
   };
   ui?: unknown;
   analytics?: unknown;
@@ -172,6 +210,46 @@ const getAppBlog = () => {
 
   return merge({}, _default, config?.apps?.blog ?? {}) as AppBlogConfig;
 };
+const getAppPatent = () => {
+  const _default = {
+    isEnabled: false,
+    postsPerPage: 6,
+    post: {
+      isEnabled: true,
+      permalink: '/patent/%slug%',
+      robots: {
+        index: true,
+        follow: true,
+      },
+    },
+    list: {
+      isEnabled: true,
+      pathname: 'patent',
+      robots: {
+        index: true,
+        follow: true,
+      },
+    },
+    category: {
+      isEnabled: true,
+      pathname: 'category',
+      robots: {
+        index: true,
+        follow: true,
+      },
+    },
+    tag: {
+      isEnabled: true,
+      pathname: 'tag',
+      robots: {
+        index: false,
+        follow: true,
+      },
+    },
+  };
+
+  return merge({}, _default, config?.apps?.patent ?? {}) as AppPatentConfig;
+};
 
 const getUI = () => {
   const _default = {
@@ -202,3 +280,4 @@ export const METADATA = getMetadata();
 export const APP_BLOG = getAppBlog();
 export const UI = getUI();
 export const ANALYTICS = getAnalytics();
+export const APP_PATENT = getAppPatent();

@@ -2,19 +2,19 @@ import type { PaginateFunction } from 'astro';
 import { getCollection } from 'astro:content';
 import type { CollectionEntry } from 'astro:content';
 import type { Post } from '~/types';
-import { APP_BLOG } from '~/utils/config';
-import { cleanSlug, trimSlash, BLOG_BASE, POST_PERMALINK_PATTERN, CATEGORY_BASE, TAG_BASE } from './permalinks';
+import { APP_BLOG ,APP_PATENT} from '~/utils/config';
+import { cleanSlug, trimSlash, BLOG_BASE, POST_PERMALINK_PATTERN, CATEGORY_BASE, TAG_BASE,PATENT_BASE,POST_PATENT_PERMALINK_PATTERN } from './permalinks';
 
 const generatePermalink = async ({
   id,
   slug,
   publishDate,
-  category,
+  
 }: {
   id: string;
   slug: string;
   publishDate: Date;
-  category: string | undefined;
+ 
 }) => {
   const year = String(publishDate.getFullYear()).padStart(4, '0');
   const month = String(publishDate.getMonth() + 1).padStart(2, '0');
@@ -25,7 +25,6 @@ const generatePermalink = async ({
 
   const permalink = POST_PERMALINK_PATTERN.replace('%slug%', slug)
     .replace('%id%', id)
-    .replace('%category%', category || '')
     .replace('%year%', year)
     .replace('%month%', month)
     .replace('%day%', day)
@@ -67,7 +66,7 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
   return {
     id: id,
     slug: slug,
-    permalink: await generatePermalink({ id, slug, publishDate, category }),
+    permalink: await generatePermalink({ id, slug, publishDate }),
 
     publishDate: publishDate,
     updateDate: updateDate,
@@ -106,20 +105,22 @@ const load = async function (): Promise<Array<Post>> {
 let _posts: Array<Post>;
 
 /** */
-export const isBlogEnabled = APP_BLOG.isEnabled;
-export const isBlogListRouteEnabled = APP_BLOG.list.isEnabled;
-export const isBlogPostRouteEnabled = APP_BLOG.post.isEnabled;
-export const isBlogCategoryRouteEnabled = APP_BLOG.category.isEnabled;
-export const isBlogTagRouteEnabled = APP_BLOG.tag.isEnabled;
+export const isBlogEnabled = APP_PATENT.isEnabled;
+export const isBlogListRouteEnabled = APP_PATENT.list.isEnabled;
+export const isBlogPostRouteEnabled = APP_PATENT.post.isEnabled;
+// export const isBlogCategoryRouteEnabled = APP_PATENT.category.isEnabled;
+// export const isBlogTagRouteEnabled = APP_PATENT.tag.isEnabled;
 
-export const blogListRobots = APP_BLOG.list.robots;
-export const blogPostRobots = APP_BLOG.post.robots;
-export const blogCategoryRobots = APP_BLOG.category.robots;
-export const blogTagRobots = APP_BLOG.tag.robots;
+export const blogListRobots = APP_PATENT.list.robots;
+export const blogPostRobots = APP_PATENT.post.robots;
+// export const blogCategoryRobots = APP_PATENT.category.robots;
+// export const blogTagRobots = APP_PATENT.tag.robots;
 
-export const blogPostsPerPage = APP_BLOG?.postsPerPage;
+export const blogPostsPerPage = APP_PATENT?.postsPerPage;
 
 /** */
+
+
 export const fetchPatentPosts = async (): Promise<Array<Post>> => {
   if (!_posts) {
     _posts = await load();
@@ -170,17 +171,17 @@ export const findLatestPatentPosts = async ({ count }: { count?: number }): Prom
 export const getStaticPathsPatentList = async ({ paginate }: { paginate: PaginateFunction }) => {
   if (!isBlogEnabled || !isBlogListRouteEnabled) return [];
   return paginate(await fetchPatentPosts(), {
-    params: { blog: BLOG_BASE || undefined },
+    params: { patent: PATENT_BASE || undefined },
     pageSize: blogPostsPerPage,
   });
 };
 
 /** */
 export const getStaticPathsPatentPost = async () => {
-  if (!isBlogEnabled || !isBlogPostRouteEnabled) return [];
+  //if (!isBlogEnabled || !isBlogPostRouteEnabled) return [];
   return (await fetchPatentPosts()).flatMap((post) => ({
     params: {
-      blog: post.permalink,
+      patent: post.permalink,
     },
     props: { post },
   }));
@@ -188,7 +189,7 @@ export const getStaticPathsPatentPost = async () => {
 
 /** */
 export const getStaticPathsBlogCategory = async ({ paginate }: { paginate: PaginateFunction }) => {
-  if (!isBlogEnabled || !isBlogCategoryRouteEnabled) return [];
+  //if (!isBlogEnabled || !isBlogCategoryRouteEnabled) return [];
 
   const posts = await fetchPatentPosts();
   const categories = new Set<string>();
