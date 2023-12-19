@@ -1,22 +1,22 @@
 ---
-import Layout from '~/layouts/PageLayout.astro';
-import BlogList from '~/components/blog/List.astro';
-import Headline from '~/components/blog/Headline.astro';
-import Pagination from '~/components/blog/Pagination.astro';
-// import PostTags from "~/components/blog/Tags.astro";
+import Layout from '../../layouts/PageLayout.astro';
+import BlogList from '../../components/blog/List.astro';
+import Headline from '../../components/blog/Headline.astro';
+import Pagination from '../../components/blog/Pagination.astro';
+// import PostTags from "~/components/blog /Tags.astro";
 
-import { blogListRobots, getStaticPathsBlogList } from '~/utils/blog';
+import { blogListRobots, getStaticPathsPatentList } from '../../utils/patent';
 
 export const prerender = true;
 
 export async function getStaticPaths ({ paginate }) {
-  return await getStaticPathsBlogList({ paginate });
+  return await getStaticPathsPatentList({ paginate });
 }
 
-
+//console.log('-patent---',Astro.props)
 
 const { page } = Astro.props;
-
+//console.log(88888,page)
 
 const currentPage = page.currentPage ?? 1;
 
@@ -36,7 +36,7 @@ const metadata = {
 };
 
 
-//const a = page.data.filter(item => item.id.includes('patent'));
+//const a = page.data.filter(item => item.id.includes('patents'));
 
 
 ---

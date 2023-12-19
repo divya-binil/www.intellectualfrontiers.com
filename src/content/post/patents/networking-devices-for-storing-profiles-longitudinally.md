@@ -1,5 +1,6 @@
 ---
 title: Networking devices for storing profiles longitudinally
+sectiontype: patent
 uspto-canonical-id-label: Patent
 uspto-patent-number: US10586069B2
 inventor: Shah N. Shahid

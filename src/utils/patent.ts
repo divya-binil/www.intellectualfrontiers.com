@@ -81,8 +81,10 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
     author: author,
 
     draft: draft,
-    sectiontype,
+
     metadata,
+    sectiontype,
+
     Content: Content,
     // or 'content' in case you consume from API
 
@@ -118,20 +120,20 @@ export const blogTagRobots = APP_BLOG.tag.robots;
 export const blogPostsPerPage = APP_BLOG?.postsPerPage;
 
 /** */
-export const fetchPosts = async (): Promise<Array<Post>> => {
+export const fetchPatentPosts = async (): Promise<Array<Post>> => {
   if (!_posts) {
     _posts = await load();
   }
 
   //return _posts;
-  return _posts ? _posts.filter(item => item.sectiontype ===('blog')) : [];
+  return _posts ? _posts.filter(item => item.sectiontype===('patent')) : [];
 };
 
 /** */
 export const findPostsBySlugs = async (slugs: Array<string>): Promise<Array<Post>> => {
   if (!Array.isArray(slugs)) return [];
 
-  const posts = await fetchPosts();
+  const posts = await fetchPatentPosts();
 
   return slugs.reduce(function (r: Array<Post>, slug: string) {
     posts.some(function (post: Post) {
@@ -145,7 +147,7 @@ export const findPostsBySlugs = async (slugs: Array<string>): Promise<Array<Post
 export const findPostsByIds = async (ids: Array<string>): Promise<Array<Post>> => {
   if (!Array.isArray(ids)) return [];
 
-  const posts = await fetchPosts();
+  const posts = await fetchPatentPosts();
 
   return ids.reduce(function (r: Array<Post>, id: string) {
     posts.some(function (post: Post) {
@@ -156,27 +158,27 @@ export const findPostsByIds = async (ids: Array<string>): Promise<Array<Post>> =
 };
 
 /** */
-export const findLatestPosts = async ({ count }: { count?: number }): Promise<Array<Post>> => {
+export const findLatestPatentPosts = async ({ count }: { count?: number }): Promise<Array<Post>> => {
   const _count = count || 4;
-  const posts = await fetchPosts();
+  const posts = await fetchPatentPosts();
 
   //return posts ? posts.slice(0, _count) : [];
-  return posts ? posts.filter(item => item.sectiontype===('blog')).slice(0, _count) : [];
+  return posts ? posts.filter(item => item.sectiontype===('patent')).slice(0, _count) : [];
 };
 
 /** */
-export const getStaticPathsBlogList = async ({ paginate }: { paginate: PaginateFunction }) => {
+export const getStaticPathsPatentList = async ({ paginate }: { paginate: PaginateFunction }) => {
   if (!isBlogEnabled || !isBlogListRouteEnabled) return [];
-  return paginate(await fetchPosts(), {
+  return paginate(await fetchPatentPosts(), {
     params: { blog: BLOG_BASE || undefined },
     pageSize: blogPostsPerPage,
   });
 };
 
 /** */
-export const getStaticPathsBlogPost = async () => {
+export const getStaticPathsPatentPost = async () => {
   if (!isBlogEnabled || !isBlogPostRouteEnabled) return [];
-  return (await fetchPosts()).flatMap((post) => ({
+  return (await fetchPatentPosts()).flatMap((post) => ({
     params: {
       blog: post.permalink,
     },
@@ -188,7 +190,7 @@ export const getStaticPathsBlogPost = async () => {
 export const getStaticPathsBlogCategory = async ({ paginate }: { paginate: PaginateFunction }) => {
   if (!isBlogEnabled || !isBlogCategoryRouteEnabled) return [];
 
-  const posts = await fetchPosts();
+  const posts = await fetchPatentPosts();
   const categories = new Set<string>();
   posts.map((post) => {
     typeof post.category === 'string' && categories.add(post.category.toLowerCase());
@@ -210,7 +212,7 @@ export const getStaticPathsBlogCategory = async ({ paginate }: { paginate: Pagin
 export const getStaticPathsBlogTag = async ({ paginate }: { paginate: PaginateFunction }) => {
   if (!isBlogEnabled || !isBlogTagRouteEnabled) return [];
 
-  const posts = await fetchPosts();
+  const posts = await fetchPatentPosts();
   const tags = new Set<string>();
   posts.map((post) => {
     Array.isArray(post.tags) && post.tags.map((tag) => tags.add(tag.toLowerCase()));

@@ -24,6 +24,8 @@ export interface Post {
   image?: ImageMetadata | string;
 
   /**  */
+ sectiontype ?: string;
+  /**  */
   category?: string;
   /**  */
   tags?: Array<string>;
@@ -42,6 +44,8 @@ export interface Post {
 
   /**  */
   readingTime?: number;
+
+  
 }
 
 export interface MetaData {
