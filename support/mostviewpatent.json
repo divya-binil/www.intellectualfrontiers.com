@@ -28,11 +28,7 @@
       "title": "Crowdsourced responses management to cases",
       "description": "A response management system and method configured to allow management of responses to a case submitted by an entity in a crowdsourced network.",
       "icon": "flat-color-icons:currency-exchange"
-    },
-    {
-        "title": "Aggregation of rating indicators",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!",
-        "icon": ""
-      }
+    }
+    
   ]
   
