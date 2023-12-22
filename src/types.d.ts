@@ -192,6 +192,7 @@ export interface ItemGrid {
   columns?: number;
   defaultIcon?: string;
   classes?: Record<string, string>;
+  count:number;
 }
 
 export interface Collapse {

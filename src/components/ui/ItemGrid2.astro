@@ -9,7 +9,9 @@ const {
   columns,
   defaultIcon = "",
   classes = {},
+  count=""
 } = Astro.props as ItemGrid;
+
 
 const {
   container: containerClass = "",
@@ -18,6 +20,7 @@ const {
   title: titleClass = "",
   description: descriptionClass = "",
   icon: defaultIconClass = "text-primary",
+  count: number
 } = classes;
 ---
 
@@ -43,6 +46,7 @@ const {
           description,
           icon,
           callToAction,
+          count,
           classes: itemClasses = {},
         }) => (
           <div
@@ -53,24 +57,23 @@ const {
             )}
           >
             {(icon || defaultIcon) && (
-              <Icon
-                name={icon || defaultIcon}
-                class={twMerge(
-                  "mb-2 w-10 h-10",
-                  defaultIconClass,
-                  itemClasses?.icon
-                )}
-              />
+              <img class="max-w-full object-cover w-full h-20" src={icon} alt="image description">
             )}
+
+            <div class="mt-5"
+            >
+            <p class="text-blue-600 font-bold">{count} Views </p>
+            </div>
             <div
               class={twMerge(
-                "text-xl font-bold",
+                "text-xl font-bold mt-2",
                 titleClass,
                 itemClasses?.title
               )}
             >
               {title}
             </div>
+           
             {description && (
               <p
                 class={twMerge(
