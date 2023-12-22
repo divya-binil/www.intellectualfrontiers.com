@@ -24,7 +24,7 @@ abstract-of-the-invention:
 problem-solved-by-the-invention:
 topics: 
 images: 
-image: "/images/no-image.jpg"
+image: "/images/patents/us7039898b2-image-01.jpg"
 external-links: https://patents.google.com/patent/US7039898B2/
 downloadable-documents: 
   - anchor_text: Download PDF
