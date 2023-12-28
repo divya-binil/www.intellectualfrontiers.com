@@ -47,6 +47,7 @@
   - [Contributing](#contributing)
   - [Acknowledgements](#acknowledgements)
   - [License](#license)
+  - [Type filter in frontmatter](#type-filter-in-frontmatter)
 
 </details>
 
@@ -277,3 +278,6 @@ Initially created by [onWidget](https://onwidget.com) and maintained by a commun
 ## License
 
 **AstroWind** is licensed under the MIT license — see the [LICENSE](./LICENSE.md) file for details.
+
+## Type filter in frontmatter
+We need to add field in frontmatter 'sectiontype' with value as either 'patent' or 'blog' so that all the blog pages are listed under blog Menu and patent are listed under patent Menu
