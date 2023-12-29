@@ -1,39 +1,40 @@
 ---
-title:  Blockchain system for natural language processing
+title: Blockchain system for natural language processing
+excerpt: A blockchain configured system includes a router and a blockchain configured record bank. The router collects data and converts it in a format in accordance with a defined standard.
 uspto-canonical-id-label: Patent
 sectiontype: patent
 uspto-patent-number: US-10984913-B2
 inventor: Shah N. Shahid
 owner-current-assignee: INTELLECTUAL FRONTIERS LLC
-patent-owners-rights: 
+patent-owners-rights:
 territorial-scope: US
 uspto-patent-family-members-publication-numbers:
-application-date: 
-issue-date: 
-expiry-date: 
+application-date:
+issue-date:
+expiry-date:
 patent-status: Active
-url: "/ip/blockchain-system-for-natural-language-processing"
+url: '/ip/blockchain-system-for-natural-language-processing'
 uspto-patent-pdf:
 uspto-patent-url:
-thumbnail: 
-uspto-patent-citation-label: 
-forward-citations: 
+thumbnail:
+uspto-patent-citation-label:
+forward-citations:
 backward-citations:
-abstract-of-the-invention-label: 
-abstract-of-the-invention: 
+abstract-of-the-invention-label:
+abstract-of-the-invention:
 problem-solved-by-the-invention:
-topics: 
-images: 
-image: "/images/patents/us10984913b2-image-001.png"
+topics:
+images:
+image: '/images/patents/us10984913b2-image-001.png'
 external-links: https://patents.google.com/patent/US10984913B2/
-downloadable-documents: 
+downloadable-documents:
   - anchor_text: Download PDF
-    link_url: 
+    link_url:
   - anchor_text: Download Claim Summaries
-    link_url: 
+    link_url:
 ---
 
-<div class="center-elements"> 
+<div class="center-elements">
 
 ![Figure 001](/images/patents/us10984913b2-image-001.png)
 ![Figure 002](/images/patents/us10984913b2-image-002.png)
@@ -139,7 +140,6 @@ system, and master data validation system.
 </div>
 
 </div>
-
 
 ### Description
 
@@ -300,13 +300,13 @@ include all such modifications.
 What is claimed is:
 
 1. A blockchain configured geographically distributed
-architecture-based system connected over a communication network for
-transforming an unstructured or semi-structured dataset to a structured
-computerized dataset for a blockchain configured records database
-communicatively coupled to a plurality of blockchain configured content
-based routers receiving said unstructured or semi-structured dataset
-from a plurality of data provider computers in a blockchain-enabled
-network, said system comprising:
+   architecture-based system connected over a communication network for
+   transforming an unstructured or semi-structured dataset to a structured
+   computerized dataset for a blockchain configured records database
+   communicatively coupled to a plurality of blockchain configured content
+   based routers receiving said unstructured or semi-structured dataset
+   from a plurality of data provider computers in a blockchain-enabled
+   network, said system comprising:
 
 <div style="padding-left:60px">
 
@@ -329,6 +329,7 @@ proxy object, wherein said first proxy object comprises one or more
 references to said first proxy database to establish a connection
 between said first data provider computer and said first proxy database
 through one or more database drivers;
+
 </div>
 
 <div style="padding-left:60px">
@@ -465,15 +466,15 @@ provider computer.
 <div style="padding-left:65px;color:grey">
 
 2. The system of claim 1, wherein said one or more database drivers
-comprising a Java Database Connectivity and Open Database Connectivity
-(JDBC-ODBC) Driver.
+   comprising a Java Database Connectivity and Open Database Connectivity
+   (JDBC-ODBC) Driver.
 
 3. The system of claim 1, wherein said first blockchain configured
-content based router comprises an HL7 content based router that collects
-said data from said first proxy database.
+   content based router comprises an HL7 content based router that collects
+   said data from said first proxy database.
 
 4. The system of claim 1, wherein said master data validation system
-further comprising:
+   further comprising:
 
 a master data validation interface configured as a role-based graphical
 user interface (GUI) to allow user access to said master data;
@@ -501,7 +502,7 @@ ingestion into said master data repository.
 <div style="padding-left:65px;color:grey">
 
 5. The system of claim 1, wherein said metadata validation system
-further comprising:
+   further comprising:
 
 </div>
 
@@ -516,36 +517,37 @@ users who attempt to access said metadata layer object; and
 
 a server to host components and support systems for enabling
 technological infrastructure of said metadata validation system.
+
 </div>
 
 <div style="padding-left:65px;color:grey">
 
 6. The system of claim 1, wherein said machine learning system further
-comprises machine learning models stored within said memory circuit for
-enabling interpretation of said unstructured and semi-structured dataset
-and its components by said mapping by said semantics learning appliance.
+   comprises machine learning models stored within said memory circuit for
+   enabling interpretation of said unstructured and semi-structured dataset
+   and its components by said mapping by said semantics learning appliance.
 
 7. The system of claim 1, wherein said machine learning models comprise
-one or more of a probabilistic model, semantic model, language cue
-models, statistical models, extrapolation models, mathematical models,
-and analytical models.
+   one or more of a probabilistic model, semantic model, language cue
+   models, statistical models, extrapolation models, mathematical models,
+   and analytical models.
 
 8. The system of claim 1, wherein said search engine-enabled crawler is
-configured to fetch said external taxonomies or portions thereof into
-said machine learning system automatically, said search engine-enabled
-crawler including or be coupled to a search engine to run periodic
-searches to find relevant taxonomies externally for computerized
-contextual mapping, computerized categorizing, and computerized
-transformation of said unstructured or semi-structured dataset into said
-structured computerized dataset.
+   configured to fetch said external taxonomies or portions thereof into
+   said machine learning system automatically, said search engine-enabled
+   crawler including or be coupled to a search engine to run periodic
+   searches to find relevant taxonomies externally for computerized
+   contextual mapping, computerized categorizing, and computerized
+   transformation of said unstructured or semi-structured dataset into said
+   structured computerized dataset.
 
 9. The system of claim 1, wherein said master data validation system is
-configured to create a computerized unified view of enterprise data
-specifying each instance of a business element through digital
-identifiers.
+   configured to create a computerized unified view of enterprise data
+   specifying each instance of a business element through digital
+   identifiers.
 
 10. The system of claim 1, wherein said semantics learning appliance is
-further configured to:
+    further configured to:
 
 </div>
 
@@ -571,19 +573,20 @@ said metadata validation system with said inflowing unstructured or
 semi-structured dataset to identify closest possible 'fields' and
 'elements' of said referenced data in-context that resemble said
 'fields' and said 'elements' of said inflowing data.
+
 </div>
 
 <div style="padding-left:65px;color:grey">
 
 11. The system of claim 1, wherein said blockchain configured records
-database comprising a validation appliance configured to compare said
-browser, device, network, and contextual information transmitted by said
-first sensor and said first agent device with pre-stored identity
-information of said first data provider computer to verify said identity
-of said first data provider computer and allow access to said at least a
-portion of said structured computerized dataset upon verification
-through said first blockchain configured access point connected with
-said blockchain configured records database in a distributed facility.
+    database comprising a validation appliance configured to compare said
+    browser, device, network, and contextual information transmitted by said
+    first sensor and said first agent device with pre-stored identity
+    information of said first data provider computer to verify said identity
+    of said first data provider computer and allow access to said at least a
+    portion of said structured computerized dataset upon verification
+    through said first blockchain configured access point connected with
+    said blockchain configured records database in a distributed facility.
 
 12. The system of claim 1, further comprising:
 
@@ -636,7 +639,7 @@ second data provider computer.
 <div style="padding-left:65px;color:grey">
 
 13. The system of claim 1, wherein said semantics learning appliance is
-further configured to:
+    further configured to:
 
 </div>
 
@@ -1091,18 +1094,18 @@ the proxy database **104**, used later to execute methods to backup data
 and create statements on the proxy database **104**. An example using
 such proxy JDBC-ODBC Driver **202** is shown in the code below:
 
-  ```
+```
 
-  // creates a connection object on the proxy databaseConnection
-  con=JDBCDriver.connect("jdbc:odbc:Database");//
-  Load the proxy database drivers
-   Class.forName( "sun.jdbc.odbc.JdbcOdbcDriver") ;
-   // Get a connection to the proxy database through the proxy database
-   drivers
-   Connection con = DriverManager.getConnection(
-   "jdbc:odbc:Database");
+// creates a connection object on the proxy databaseConnection
+con=JDBCDriver.connect("jdbc:odbc:Database");//
+Load the proxy database drivers
+ Class.forName( "sun.jdbc.odbc.JdbcOdbcDriver") ;
+ // Get a connection to the proxy database through the proxy database
+ drivers
+ Connection con = DriverManager.getConnection(
+ "jdbc:odbc:Database");
 
-  ```
+```
 
 In an example, a batch of data may be sent through the clinical data
 provider **102** to backup on the proxy database **104**. The call to
@@ -1131,17 +1134,17 @@ database **104** and may also be garbage collected (upon overriding the
 finalize( ) method). An example using such batch processing is shown
 below as a piece of code.
 
- ```
-  // creates a Connection object on the proxy database
-  Connection connection=JDBCDriver.connect("jdbc:odbc:Database");
-  // -start batch
-  PreparedStatementps=connection.PrepareStatement(String);
-  ps.setString(1, String);
-  ps.setInt(2, int);
-  ps.setDate(3, Date);
-  ResultSetrset=(ResultSet)ps.executeQuery( );
-  //- end batch
- ```
+```
+ // creates a Connection object on the proxy database
+ Connection connection=JDBCDriver.connect("jdbc:odbc:Database");
+ // -start batch
+ PreparedStatementps=connection.PrepareStatement(String);
+ ps.setString(1, String);
+ ps.setInt(2, int);
+ ps.setDate(3, Date);
+ ResultSetrset=(ResultSet)ps.executeQuery( );
+ //- end batch
+```
 
 The proxy database **104** may then interact with the respective HL7
 CBR **108** to convert or translate the data into a common digital
@@ -1202,23 +1205,23 @@ CBR **108** and provide the data to the HL7 CBR **108** using the Put( )
 method. In an example, the metadata is defined from the proxy database
 drivers **202** such as shown in the code below:
 
-  ```
-  classJDBCProxyDatabaseMetaDataExample
-  // Createa connection object on the proxy database
-  Connection con=JDBCDriver.connect("jdbc:odbc:Database");
-  // Load the proxy database drivers
-  Class.forName( "sun.jdbc.odbc.JdbcOdbcDriver" ) ;
-  // Get a connection to the proxy database through the proxy database drivers
-  Connection con = DriverManager.getConnection( "jdbc:odbc:Database")
-  //Metadata configuration data retrieval from the proxy database drivers
-  DatabaseMetaDatametaData = con.getMetaData( )
-  ResultSetrs = metaData.getTypeInfo( );
-  //Query statements for metadata information from the proxy database
-  drivers
-  ResultSetresultSet = st.executeQuery("SELECT \* FROM
-  proxydatabase");
-  ResultSetMetaData md = resultSet.getMetaData( );
- ```
+```
+classJDBCProxyDatabaseMetaDataExample
+// Createa connection object on the proxy database
+Connection con=JDBCDriver.connect("jdbc:odbc:Database");
+// Load the proxy database drivers
+Class.forName( "sun.jdbc.odbc.JdbcOdbcDriver" ) ;
+// Get a connection to the proxy database through the proxy database drivers
+Connection con = DriverManager.getConnection( "jdbc:odbc:Database")
+//Metadata configuration data retrieval from the proxy database drivers
+DatabaseMetaDatametaData = con.getMetaData( )
+ResultSetrs = metaData.getTypeInfo( );
+//Query statements for metadata information from the proxy database
+drivers
+ResultSetresultSet = st.executeQuery("SELECT \* FROM
+proxydatabase");
+ResultSetMetaData md = resultSet.getMetaData( );
+```
 
 In an example, the data logging unit **148** can be configured to deploy
 the metadata configuration as a separate schema into either a directly
@@ -2004,4 +2007,3 @@ herein have been described in terms of preferred embodiments, those
 skilled in the art will recognize that the embodiments herein can be
 practiced with modification within the spirit and scope of the appended
 claims.
-
