@@ -13,7 +13,7 @@ application-date:
 issue-date:
 expiry-date:
 patent-status: Active
-url: '/ip/patient-navigation-and-situational-awareness-derived-through-context-sensitive-information-blocks-delivery'
+url: '/patent/patient-navigation-and-situational-awareness-derived-through-context-sensitive-information-blocks-delivery'
 uspto-patent-pdf:
 uspto-patent-url:
 thumbnail:

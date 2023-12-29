@@ -13,7 +13,7 @@ application-date:
 issue-date:
 expiry-date:
 patent-status: Active
-url: '/ip/system-for-controlling-medical-devices-us10638999b2'
+url: '/patent/system-for-controlling-medical-devices-us10638999b2'
 uspto-patent-pdf:
 uspto-patent-url:
 thumbnail:
