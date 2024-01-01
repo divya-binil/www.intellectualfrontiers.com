@@ -1,35 +1,76 @@
 ---
 title: Efficient Method for Tracking Changes in User Profiles Over Time
+excerpt: From social networking sites to professional platforms, profiles act as a digital representation of individuals and entities, which is why web-based profiles are considered ubiquitous.
+sectiontype: blog
+image: '/images/patents/us10586069b2-image-001.png'
+head:
+  [
+    {
+      tag: 'meta',
+      attrs: { name: 'title', content: 'Enhance Credibility with Profile Tracker | IntellectualFrontiers' },
+    },
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'description',
+          content: 'Discover the groundbreaking profile tracker technology for tracking and verifying online profiles, vital for healthcare and recruitment sectors.',
+        },
+    },
+    {
+      tag: 'meta',
+      attrs: { property: 'og:title', content: 'Enhance Credibility with Profile Tracker | IntellectualFrontiers' },
+    },
+    {
+      tag: 'meta',
+      attrs:
+        {
+          property: 'og:description',
+          content: 'Discover the groundbreaking profile tracker technology for tracking and verifying online profiles, vital for healthcare and recruitment sectors..',
+        },
+    },
+    {
+      tag: 'meta',
+      attrs: { name: 'twitter:title', content: 'Enhance Credibility with Profile Tracker | IntellectualFrontiers' },
+    },
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'twitter:description',
+          content: 'Discover the groundbreaking profile tracker technology for tracking and verifying online profiles, vital for healthcare and recruitment sectors..',
+        },
+    },
+  ]
 uspto-canonical-id-label: Patent
-uspto-patent-number: US-10586069-B2
+uspto-patent-number: US10586069B2
 inventor: Shah N. Shahid
 owner-current-assignee: Netspective Communications LLC
-patent-owners-rights: 
+patent-owners-rights:
 territorial-scope: US
 uspto-patent-family-members-publication-numbers:
-application-date: 
-issue-date: 
-expiry-date: 
+application-date:
+issue-date:
+expiry-date:
 patent-status: Active
-url: "/ip/efficient-method-for-tracking-changes-in-user-profiles-over-time"
+url: '/patent-summaries/efficient-method-for-tracking-changes-in-user-profiles-over-time'
 uspto-patent-pdf:
 uspto-patent-url:
-thumbnail: 
-uspto-patent-citation-label: 
-forward-citations: 
+thumbnail:
+uspto-patent-citation-label:
+forward-citations:
 backward-citations:
-abstract-of-the-invention-label: 
-abstract-of-the-invention: 
+abstract-of-the-invention-label:
+abstract-of-the-invention:
 problem-solved-by-the-invention:
-topics: 
+topics:
 images:
-image: "/images/no-image.jpg"
 external-links: https://patents.google.com/patent/US10586069B2/
-downloadable-documents: 
+downloadable-documents:
   - anchor_text: Download PDF
-    link_url: 
+    link_url:
   - anchor_text: Download Claim Summaries
-    link_url: 
+    link_url:
 ---
 
 From social networking sites to professional platforms, profiles act as a digital representation of individuals and entities, which is why web-based profiles are considered ubiquitous. However, the reliability and authenticity of the information displayed on these platforms can often be questionable. This concern becomes particularly significant in critical sectors such as healthcare, recruitment, and other sectors where the credibility of information is paramount.
@@ -42,7 +83,7 @@ Many online profile platforms amass data from diverse sources to create an indiv
 
 To overcome these challenges, the technology described herein offers a novel approach to track, store, and credential web-based profiles.
 
-The technology under discussion advances web-based profiles through a multi-faceted approach. Initially, computer executable profile information is retrieved and temporarily housed in cloud-based staging repositories. This information then undergoes decomposition into its fundamental data types for meticulous evaluation. The technology further delineates specific fields within a profile, ensuring each associated data component is rigorously scrutinized and validated. After such a thorough process, the profile data is stored in a database. As additional information emerges over time, the technology adeptly maps it to the initial profile, consistently tracking any changes or updates to guarantee the profile's continued authenticity and relevance.
+The technology under discussion advances web-based profile tracker through a multi-faceted approach. Initially, computer executable profile information is retrieved and temporarily housed in cloud-based staging repositories. This information then undergoes decomposition into its fundamental data types for meticulous evaluation with a focus on profile tracker. The technology further delineates specific fields within a profile, ensuring each associated data component is rigorously scrutinized and validated. After such a thorough process, the profile data is stored in a database. As additional information emerges over time, the technology adeptly maps it to the initial profile, consistently tracking any changes or updates to guarantee the profile's continued authenticity and relevance, all thanks to the profile tracker functionality.
 
 ## New Approach for Credentials Management
 
@@ -50,13 +91,13 @@ This innovative technology addresses the long-standing issue of trustworthiness 
 
 The patented technology presented here, centered on networking devices for longitudinal storage of profiles, promises a future where web-based profiles are not just digital representations but trustworthy digital identities.
 
-## Functional Capabilities of the Profile Tracking Technology
+## Functional Capabilities of the Profile Tracker Technology
 
 The developed technology offers an advanced method for monitoring and identifying changes in computer executable profiles associated with registered entities over a period. Below is a detailed breakdown of its functionalities.
 
 ### Profile Retrieval and Staging
 
-The technology retrieves computer executable profile information for registered entities. This profile information encompasses personal data, review details, and aggregated credentialing details derived from multiple credentialing information sources, which once gathered, is staged in cloud repositories.
+The technology retrieves computer executable profile tracker information for registered entities. This profile tracker information encompasses personal data, review details, and aggregated credentialing details derived from multiple credentialing information sources, which once gathered, is staged in cloud repositories.
 
 ### Data Processing and Structuring
 

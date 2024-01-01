@@ -1,5 +1,59 @@
 ---
 title: Efficient Response Management System and Method for Crowdsourced Networks
+excerpt: In the rapidly evolving digital era, people increasingly turn to online crowdsourced networks to find answers and solutions to a wide array of queries and challenges.
+sectiontype: blog
+image: '/images/patents/us9418355b2-image-1.png'
+head:
+  [
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'title',
+          content: 'Efficient Response Management System for Crowdsourced Network | IntellectualFrontiers',
+        },
+    },
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'description',
+          content: 'Addressing the reliability challenge in crowdsourced network with an innovative response management system. Ensure trust in responses with credentialing and compliance.',
+        },
+    },
+    {
+      tag: 'meta',
+      attrs:
+        {
+          property: 'og:title',
+          content: 'Efficient Response Management System for Crowdsourced Network | IntellectualFrontiers',
+        },
+    },
+    {
+      tag: 'meta',
+      attrs:
+        {
+          property: 'og:description',
+          content: 'Addressing the reliability challenge in crowdsourced network with an innovative response management system. Ensure trust in responses with credentialing and compliance..',
+        },
+    },
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'twitter:title',
+          content: 'Efficient Response Management System for Crowdsourced Network | IntellectualFrontiers',
+        },
+    },
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'twitter:description',
+          content: 'Addressing the reliability challenge in crowdsourced network with an innovative response management system. Ensure trust in responses with credentialing and compliance..',
+        },
+    },
+  ]
 uspto-canonical-id-label: Patent
 uspto-patent-number: US9418355B2
 inventor: Shah N. Shahid
@@ -7,33 +61,33 @@ owner-current-assignee: Netspective Communications LLC
 patent-owners-rights: The assignee of this patent is the rightful owner of all associated rights and privileges, including the exclusive right to sell, license, and enforce the patent. Any transfer, sale, or licensing of the patent by parties other than the assignee requires explicit written authorization.
 territorial-scope: US
 uspto-patent-family-members-publication-numbers: None
-application-date: 
-issue-date: 
-expiry-date: 
+application-date:
+issue-date:
+expiry-date:
 patent-status: Active
+url: '/patent-summaries/efficient-response-management-system-and-method-for-crowdsourced-networks'
 uspto-patent-pdf:
 uspto-patent-url:
-thumbnail: 
-uspto-patent-citation-label: 
-forward-citations: 
+thumbnail:
+uspto-patent-citation-label:
+forward-citations:
 backward-citations:
-abstract-of-the-invention-label: 
-abstract-of-the-invention: 
+abstract-of-the-invention-label:
+abstract-of-the-invention:
 problem-solved-by-the-invention:
-topics: 
+topics:
 images:
-image: "/images/no-image.jpg"
-external-links: 
-downloadable-documents: 
+external-links:
+downloadable-documents:
   - anchor_text: Download PDF
     link_url: https://patents.google.com/patent/US9418355B2
   - anchor_text: Download Claim Summaries
-    link_url: 
+    link_url:
 ---
 
 <!-- *Problem solved by invention* -->
 
-In the rapidly evolving digital era, people increasingly turn to online crowdsourced networks to find answers and solutions to a wide array of queries and challenges. 
+In the rapidly evolving digital era, people increasingly turn to online crowdsourced networks to find answers and solutions to a wide array of queries and challenges.
 
 ## The Challenge of Reliability in Crowdsourced Networks
 
@@ -47,13 +101,13 @@ This challenge is paramount, as it jeopardizes the fundamental trust users place
 
 At its core, the problem stems from the absence of robust mechanisms designed to safeguard the authenticity and precision of the responses provided. The lack of effective tools and strategies to validate the credibility of contributors and verify the correctness of their contributions represents a significant impediment. Consequently, users are left navigating a virtual labyrinth of potentially inaccurate, unverified, or even misleading information.
 
-In an age where information is king and the digital realm reigns supreme, the need to address this predicament becomes increasingly urgent. As individuals, businesses, and institutions continue to rely on crowdsourced networks for critical insights and solutions, finding a dependable way to ensure the trustworthiness of responses is imperative. 
+In an age where information is king and the digital realm reigns supreme, the need to address this predicament becomes increasingly urgent. As individuals, businesses, and institutions continue to rely on crowdsourced networks for critical insights and solutions, finding a dependable way to ensure the trustworthiness of responses is imperative.
 
 <!-- *Technical solution* -->
 
 ## Innovative Response Management Technology
 
-To address this issue, the proposed technology aims to revolutionize response management within crowdsourced networks. The core problem it solves is the reliability and correctness of responses by leveraging the collective wisdom of the crowd and implementing rigorous credentialing processes. By doing so, it bridges the gap between user queries and responses, offering a solution that users can confidently rely on for accurate information. 
+To address this issue, the proposed technology aims to revolutionize response management within crowdsourced networks. The core problem it solves is the reliability and correctness of responses by leveraging the collective wisdom of the crowd and implementing rigorous credentialing processes. By doing so, it bridges the gap between user queries and responses, offering a solution that users can confidently rely on for accurate information.
 
 <!-- *Summary* -->
 
@@ -77,12 +131,11 @@ Once responses are collected for all federated cases, the system integrates them
 
 This technology includes an ecosystem as shown in FIG. 1 for managing responses to cases submitted by various entities on a crowdsourced network. The ecosystem allows entities to submit queries or cases for analysis and responses from a crowd of respondents. These respondents can analyze the cases and provide comments and responses. The ecosystem includes a server connected to the crowdsourced network, and it can be accessed through an online platform via client devices.
 
-<div class="center-elements"> 
+<div class="center-elements">
 
 ![Figure 1](/images/patent-summaries/us9418355b2-image-1.png)
 
-
-**Figure 1** 
+**Figure 1**
 
 </div>
 

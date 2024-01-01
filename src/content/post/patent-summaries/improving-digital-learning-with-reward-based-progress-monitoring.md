@@ -1,36 +1,78 @@
 ---
 title: Improving Digital Learning with Reward-Based Progress Monitoring
+excerpt: With the proliferation of internet-based education and training modalities, it has become increasingly vital to streamline and enhance the process of digital education delivery.
+sectiontype: blog
+image: '/images/patent-summaries/us20210143982a1-image-001.png'
+head:
+  [
+    {
+      tag: 'meta',
+      attrs: { name: 'title', content: 'Transform Your Digital Learning Ecosystem | IntellectualFrontiers' },
+    },
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'description',
+          content: 'Transform your digital learning ecosystem with our pioneering approach, focusing on personalization and rewarding progress.',
+        },
+    },
+    {
+      tag: 'meta',
+      attrs: { property: 'og:title', content: 'Transform Your Digital Learning Ecosystem | IntellectualFrontiers' },
+    },
+    {
+      tag: 'meta',
+      attrs:
+        {
+          property: 'og:description',
+          content: 'Transform your digital learning ecosystem with our pioneering approach, focusing on personalization and rewarding progress..',
+        },
+    },
+    {
+      tag: 'meta',
+      attrs: { name: 'twitter:title', content: 'Transform Your Digital Learning Ecosystem | IntellectualFrontiers' },
+    },
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'twitter:description',
+          content: 'Transform your digital learning ecosystem with our pioneering approach, focusing on personalization and rewarding progress..',
+        },
+    },
+  ]
 uspto-canonical-id-label: Patent
-uspto-patent-number: US-20210143982-A1
+uspto-patent-number: US20210143982A1
 inventor: Shah N. Shahid
 owner-current-assignee: INTELLECTUAL FRONTIERS LLC
-patent-owners-rights: 
+patent-owners-rights:
 territorial-scope: US
 uspto-patent-family-members-publication-numbers:
-application-date: 
-issue-date: 
-expiry-date: 
+application-date:
+issue-date:
+expiry-date:
 patent-status: Active
-url: "/ip/improving-digital-learning-with-reward-based-progress-monitoring"
+url: '/patent-summaries/improving-digital-learning-with-reward-based-progress-monitoring'
 uspto-patent-pdf:
 uspto-patent-url:
-thumbnail: 
-uspto-patent-citation-label: 
-forward-citations: 
+thumbnail:
+uspto-patent-citation-label:
+forward-citations:
 backward-citations:
-abstract-of-the-invention-label: 
-abstract-of-the-invention: 
+abstract-of-the-invention-label:
+abstract-of-the-invention:
 problem-solved-by-the-invention:
-topics: 
+topics:
 images:
-image: "/images/no-image.jpg"
 external-links: https://patents.google.com/patent/US20210143982A1/
-downloadable-documents: 
+downloadable-documents:
   - anchor_text: Download PDF
-    link_url: 
+    link_url:
   - anchor_text: Download Claim Summaries
-    link_url: 
+    link_url:
 ---
+
 ## The Evolution of Digital Education
 
 With the proliferation of internet-based education and training modalities, it has become increasingly vital to streamline and enhance the process of digital education delivery. The educational frameworks often fall short in addressing the evolving needs of a modern digital environment. The demand for personalized and relevant content prepared to each learner's unique requirements remains largely unmet. A constant concern in today's digital landscape is the need to motivate and reward users for their educational progress.

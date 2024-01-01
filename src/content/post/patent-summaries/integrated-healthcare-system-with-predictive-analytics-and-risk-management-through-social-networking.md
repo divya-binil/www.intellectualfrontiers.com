@@ -1,49 +1,99 @@
 ---
 title: Integrated Healthcare System with Predictive Analytics and Risk Management through Social Networking
+excerpt: In the evolving landscape of device interaction and automation across domains like healthcare, manufacturing, and aviation, there's a growing demand for advanced solutions.
+sectiontype: blog
+image: '/images/patents/us9525753b2-image-001.png'
+head:
+  [
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'title',
+          content: 'Healthcare Transformation with Predictive Analytics Engine and NFC Channel | IntellectualFrontiers',
+        },
+    },
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'description',
+          content: 'Witness a healthcare revolution with the integration of predictive analytics Engine and NFC channels, fostering device cooperation in a socially aware network.',
+        },
+    },
+    {
+      tag: 'meta',
+      attrs:
+        {
+          property: 'og:title',
+          content: 'Healthcare Transformation with Predictive Analytics Engine and NFC Channel | IntellectualFrontiers',
+        },
+    },
+    {
+      tag: 'meta',
+      attrs:
+        {
+          property: 'og:description',
+          content: 'Witness a healthcare revolution with the integration of predictive analytics Engine and NFC channels, fostering device cooperation in a socially aware network.',
+        },
+    },
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'twitter:title',
+          content: 'Healthcare Transformation with Predictive Analytics Engine and NFC Channel | IntellectualFrontiers',
+        },
+    },
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'twitter:description',
+          content: 'Witness a healthcare revolution with the integration of predictive analytics Engine and NFC channels, fostering device cooperation in a socially aware network.',
+        },
+    },
+  ]
 uspto-canonical-id-label: Patent
 uspto-patent-number: US9525753B2
 inventor: Shah N. Shahid
 owner-current-assignee: Netspective Communications LLC
-patent-owners-rights: 
+patent-owners-rights:
 territorial-scope: US
 uspto-patent-family-members-publication-numbers:
-application-date: 
-issue-date: 
-expiry-date: 
+application-date:
+issue-date:
+expiry-date:
 patent-status: Active
-url: "/ip/integrated-healthcare-system-with-predictive-analytics-and-risk-management-through-social-networking"
+url: '/patent-summaries/integrated-healthcare-system-with-predictive-analytics-and-risk-management-through-social-networking'
 uspto-patent-pdf:
 uspto-patent-url:
-thumbnail: 
-uspto-patent-citation-label: 
-forward-citations: 
+thumbnail:
+uspto-patent-citation-label:
+forward-citations:
 backward-citations:
-abstract-of-the-invention-label: 
-abstract-of-the-invention: 
+abstract-of-the-invention-label:
+abstract-of-the-invention:
 problem-solved-by-the-invention:
-topics: 
+topics:
 images:
-image: "/images/no-image.jpg"
-external-links: https://patents.google.com/patent/US9525753B2 
-downloadable-documents: 
+external-links: https://patents.google.com/patent/US9525753B2
+downloadable-documents:
   - anchor_text: Download PDF
-    link_url: 
+    link_url:
   - anchor_text: Download Claim Summaries
-    link_url: 
+    link_url:
 ---
 
-<!-- *Problem solved by invention* -->
-The existing landscape of device interaction and automation, spanning across various domains such as healthcare, manufacturing, and aviation, faces significant challenges. While there have been efforts to facilitate device interconnection and interaction, there remains a pressing need for more sophisticated systems and methods. These systems must not only streamline the communication between devices but also enable seamless integration into a socially aware network. The current state of device management falls short in providing comprehensive solutions to address these challenges.
+In the evolving landscape of device interaction and automation across domains like healthcare, manufacturing, and aviation, there's a growing demand for advanced solutions. These solutions aim to enhance device interconnection and interaction while fostering seamless integration into a socially aware network. The current state of device management falls short in providing comprehensive solutions for these challenges.
 
-In today's highly interconnected world, the demand for robust social networking services among devices has intensified. Devices are not isolated entities but integral components of complex systems that require efficient coordination and collaboration. The existing approaches often lack the ability to create and manage individual-centric profiles for devices within a socially aware network. This limitation hinders the identification of devices by both participants and networking servers, impeding the potential for meaningful interactions. To address these issues, a novel system and method is developed to enable effective device integration through a social networking platform, revolutionizing the way devices interact and collaborate across various domains.
+In today's highly interconnected world, there is a pressing need for robust social networking services among devices. Devices are no longer isolated entities; they are crucial components of complex systems that require efficient coordination and collaboration. However, existing approaches often struggle to create and manage individual-centric device profiles within a socially aware network. This limitation makes it difficult to identify devices for both participants and networking servers, thus hindering meaningful interactions.
 
-<!-- *Technical solution* -->
+To tackle these issues, the development of a novel system and method has become crucial. This innovation aims to facilitate effective device integration through a social networking platform. This approach has the potential to revolutionize the way devices interact and collaborate across various domains. By implementing a sophisticated predictive analytics engine and incorporating NFC channels, the fault detection capabilities can be significantly improved, making these systems even more robust and reliable for senior healthcare leaders and experts in their field.
 
 ## Technical Solution: A Revolution in Device Collaboration
 
 This revolutionary technology transforms the way devices collaborate within a socially aware network. It enables devices to seamlessly communicate, predict future behaviors, and manage faults. In healthcare, it monitors device health and seamlessly switches to alternatives when issues arise. This innovation opens new possibilities across various domains.
-
-<!-- *Summary* -->
 
 ## A Paradigm Shift in Device Interaction
 
@@ -57,12 +107,11 @@ Imagine a sophisticated healthcare system that acts like a social network for bo
 
 To make this collaboration effective, the system uses the "social profiles" for each medical device. Think of these profiles as digital identities that represent the devices within the network. These profiles help participants, including non-device users, to recognize and interact with the medical devices easily. Additionally, the system employs predictive analytics to anticipate the future behavior of non-device users based on their past social activities, enabling it to provide insights into how medical devices can assist these users in the future.
 
-<div class="center-elements"> 
+<div class="center-elements">
 
 ![Figure 1](/images/patent-summaries/us9525753b2-image-01.png)
 
-
-**Figure 1** 
+**Figure 1**
 
 </div>
 
@@ -70,12 +119,11 @@ To make this collaboration effective, the system uses the "social profiles" for 
 
 One notable feature is the incorporation of Near Field Communication (NFC) channels, allowing devices to communicate with an external controller. This ensures that social content exchange is not confined to a single channel, enhancing the efficiency of device interactions. Moreover, the system provides robust security through an Information Security Facility that encrypts and decrypts social content, ensuring privacy and data integrity.
 
-<div class="center-elements"> 
+<div class="center-elements">
 
 ![Figure 2](/images/patent-summaries/us9525753b2-image-02.png)
 
-
-**Figure 2** 
+**Figure 2**
 
 </div>
 

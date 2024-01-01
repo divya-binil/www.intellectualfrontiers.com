@@ -1,36 +1,87 @@
 ---
 title: Direct Blockchain System for Devices on a Social Trust Network
+excerpt: Blockchain technology, with its inherent security and decentralization features, has dramatically evolved beyond its initial application in cryptocurrencies.
+sectiontype: blog
+image: '/images/patents/us10490304b2-image-001.png'
+head:
+  [
+    {
+      tag: 'meta',
+      attrs:
+        { name: 'title', content: 'Blockchain for Multi-Faceted Communication in Healthcare | IntellectualFrontiers' },
+    },
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'description',
+          content: 'Discover how blockchain ensures secure, real-time multi-faceted communication in healthcare data management',
+        },
+    },
+    {
+      tag: 'meta',
+      attrs:
+        {
+          property: 'og:title',
+          content: 'Blockchain for Multi-Faceted Communication in Healthcare | IntellectualFrontiers',
+        },
+    },
+    {
+      tag: 'meta',
+      attrs:
+        {
+          property: 'og:description',
+          content: 'Discover how blockchain ensures secure, real-time multi-faceted communication in healthcare data management.',
+        },
+    },
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'twitter:title',
+          content: 'Blockchain for Multi-Faceted Communication in Healthcare | IntellectualFrontiers',
+        },
+    },
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'twitter:description',
+          content: 'Discover how blockchain ensures secure, real-time multi-faceted communication in healthcare data management.',
+        },
+    },
+  ]
 uspto-canonical-id-label: Patent
 uspto-patent-number: US10490304B2
 inventor: Shah N. Shahid
 owner-current-assignee: Netspective Communications LLC
-patent-owners-rights: 
+patent-owners-rights:
 territorial-scope: US
 uspto-patent-family-members-publication-numbers:
-application-date: 
-issue-date: 
-expiry-date: 
+application-date:
+issue-date:
+expiry-date:
 patent-status: Active
-url: "/ip/direct-blockchain-system-for-devices-on-a-social-trust-network"
+url: '/patent-summaries/direct-blockchain-system-for-devices-on-a-social-trust-network'
 uspto-patent-pdf:
 uspto-patent-url:
-thumbnail: 
-uspto-patent-citation-label: 
-forward-citations: 
+thumbnail:
+uspto-patent-citation-label:
+forward-citations:
 backward-citations:
-abstract-of-the-invention-label: 
-abstract-of-the-invention: 
+abstract-of-the-invention-label:
+abstract-of-the-invention:
 problem-solved-by-the-invention:
-topics: 
+topics:
 images:
-image: "/images/no-image.jpg"
 external-links:
-downloadable-documents: 
+downloadable-documents:
   - anchor_text: Download PDF
-    link_url: 
+    link_url:
   - anchor_text: Download Claim Summaries
-    link_url: 
+    link_url:
 ---
+
 Blockchain technology, with its inherent security and decentralization
 features, has dramatically evolved beyond its initial application in
 cryptocurrencies. As various sectors explore the potential applications
@@ -89,7 +140,7 @@ The inclusion of a processing component within the blockchain data bank
 ensures that data records from various entities can be efficiently
 processed and managed over the communication network.
 
-### Advanced Validation Techniques 
+### Advanced Validation Techniques
 
 The system introduces novel validation devices leveraging facial
 expression-based techniques and geo-tagging. These validation methods
@@ -98,10 +149,7 @@ authentication that go beyond traditional password-based systems.
 
 ### Real-time Multi-faceted Communication
 
-With the blockchain framework, multiple entities can interact with the
-EHRDB simultaneously. The disintermediated nature of the blockchain
-ensures smooth interaction without any delays or inefficiencies from
-human intervention.
+With the blockchain framework, multiple entities can engage in multi-faceted communication with the EHRDB simultaneously. The disintermediated nature of the blockchain ensures smooth interaction without any delays or inefficiencies from human intervention.
 
 ## Embracing the Power of Blockchain in Data Integrity and Social Interaction
 

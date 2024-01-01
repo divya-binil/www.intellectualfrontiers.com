@@ -1,35 +1,85 @@
 ---
 title: Optimizing Rating Aggregation - A Method for Creating Accurate Aggregate Rating Indicators
+excerpt: Existing methods and systems for rating aggregation face significant challenges in providing accurate and reliable aggregate scores for entities, such as professionals or businesses.
+sectiontype: blog
+image: '/images/patents/us10489830b2-image-01.png'
+head:
+  [
+    {
+      tag: 'meta',
+      attrs:
+        { name: 'title', content: 'Improving Decision-Making with Accurate Aggregate Ratings | IntellectualFrontiers' },
+    },
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'description',
+          content: 'Optimize your decision-making with accurate aggregate ratings. See how our methods improve reliability in rating aggregation, with a focus on sentiment analysis.',
+        },
+    },
+    {
+      tag: 'meta',
+      attrs:
+        {
+          property: 'og:title',
+          content: 'Improving Decision-Making with Accurate Aggregate Ratings | IntellectualFrontiers',
+        },
+    },
+    {
+      tag: 'meta',
+      attrs:
+        {
+          property: 'og:description',
+          content: 'Optimize your decision-making with accurate aggregate ratings. See how our methods improve reliability in rating aggregation, with a focus on sentiment analysis.',
+        },
+    },
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'twitter:title',
+          content: 'Improving Decision-Making with Accurate Aggregate Ratings | IntellectualFrontiers',
+        },
+    },
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'twitter:description',
+          content: 'Optimize your decision-making with accurate aggregate ratings. See how our methods improve reliability in rating aggregation, with a focus on sentiment analysis.',
+        },
+    },
+  ]
 uspto-canonical-id-label: Patent
 uspto-patent-number: US10489830B2
 inventor: Shah N. Shahid
 owner-current-assignee: Netspective Communications LLC
-patent-owners-rights: 
+patent-owners-rights:
 territorial-scope: US
 uspto-patent-family-members-publication-numbers:
-application-date: 
-issue-date: 
-expiry-date: 
+application-date:
+issue-date:
+expiry-date:
 patent-status: Active
-url: "/ip/optimizing-rating-aggregation-a-method-for-creating-accurate-aggregate-rating-indicators"
+url: '/patent-summaries/optimizing-rating-aggregation-a-method-for-creating-accurate-aggregate-rating-indicators'
 uspto-patent-pdf:
 uspto-patent-url:
-thumbnail: 
-uspto-patent-citation-label: 
-forward-citations: 
+thumbnail:
+uspto-patent-citation-label:
+forward-citations:
 backward-citations:
-abstract-of-the-invention-label: 
-abstract-of-the-invention: 
+abstract-of-the-invention-label:
+abstract-of-the-invention:
 problem-solved-by-the-invention:
-topics: 
+topics:
 images:
-image: "/images/no-image.jpg"
 external-links: https://patents.google.com/patent/US10489830B2/
-downloadable-documents: 
+downloadable-documents:
   - anchor_text: Download PDF
-    link_url: 
+    link_url:
   - anchor_text: Download Claim Summaries
-    link_url: 
+    link_url:
 ---
 
 <!-- *Problem solved by invention* -->
@@ -51,10 +101,10 @@ In response to this need, we introduced a patented computer-implemented method a
 ## Mechanics of Rating Aggregation Technology
 
 This system, as shown in Figure 1 includes multiple user devices (referred to as client devices) that are connected through a network to a central server. This server connects to a rating aggregator, which is a tool for gathering and analyzing ratings. These client devices can be any devices with internet access, like computers or smartphones. They are used by users, like individuals or organizations, who want to find ratings or reviews for different entities, such as doctors, hospitals, or other professionals.
-<div class="center-elements"> 
+
+<div class="center-elements">
 
 ![Figure 1](/images/patent-summaries/us10489830b2-image-01.png)
-
 
 </div>
 
@@ -65,12 +115,12 @@ The process includes aggregating ratings from various sources referred to as pub
 The rating aggregator uses different algorithms and methods to calculate these aggregated ratings. It also filters out any unreliable or fraudulent ratings to ensure the final ratings are accurate and trustworthy. The aggregated ratings are then published, either on a separate website or on the same platform as the individual ratings, so users can easily compare them.
 
 As shown in Figure 2, the system consists of several components that work together to collect, filter, process, and publish ratings. The search engine is responsible for finding ratings from various sources on the internet. The filtering engine removes any unreliable or redundant ratings. The rating evaluation unit calculates the aggregated ratings using different methods. The publishing engine shares these aggregated ratings on websites or other platforms. The memory circuit stores all the data, including individual and aggregated ratings, for future reference.
-<div class="center-elements"> 
+
+<div class="center-elements">
 
 ![Figure 2](/images/patent-summaries/us10489830b2-image-02.png)
 
-
-**Figure 2** 
+**Figure 2**
 
 </div>
 
@@ -106,12 +156,11 @@ Why is sentiment analysis such a game-changer in the world of rating aggregation
 
 Figure 3 shows technology components of the sentiment analysis engine integrated with various components of the rating aggregation system to aggregate ratings obtained from a variety of publishers.
 
-<div class="center-elements"> 
+<div class="center-elements">
 
 ![Figure 3](/images/patent-summaries/us10489830b2-image-03.png)
 
-
-**Figure 3** 
+**Figure 3**
 
 </div>
 
@@ -121,4 +170,4 @@ Incorporating sentiment analysis into rating aggregation systems is a step towar
 
 Moreover, this technology isn't limited to just doctors and healthcare. It can be applied to a wide range of industries, making it an invaluable tool for businesses, consumers, and decision-makers alike.
 
-As technology continues to evolve, so does our capacity to make smarter choices. Sentiment analysis is just one example of how innovation is transforming the way we navigate the digital landscape, helping us separate the signal from the noise and make choices that truly align with our needs and preferences. 
+As technology continues to evolve, so does our capacity to make smarter choices. Sentiment analysis is just one example of how innovation is transforming the way we navigate the digital landscape, helping us separate the signal from the noise and make choices that truly align with our needs and preferences.
