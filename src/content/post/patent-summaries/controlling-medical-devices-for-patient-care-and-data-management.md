@@ -1,42 +1,44 @@
 ---
 title: Controlling Medical Devices for Patient Care and Data Management
+excerpt: The evolving framework of health care informatics faces multiple technological hurdles. Predominantly, medical institutions, encompassing tertiary care hospitals, geriatric care facilities, and ambulatory clinics, curate an expansive databank of patient-centric records.
+sectiontype: blog
+image: '/images/patents/us10638999b2-image-001.png'
 uspto-canonical-id-label: Patent
 uspto-patent-number: US10638999B2
 inventor: Shah N. Shahid
 owner-current-assignee: Netspective Communications LLC
-patent-owners-rights: 
+patent-owners-rights:
 territorial-scope: US
 uspto-patent-family-members-publication-numbers:
-application-date: 
-issue-date: 
-expiry-date: 
+application-date:
+issue-date:
+expiry-date:
 patent-status: Active
-url: "/ip/controlling-medical-devices-for-patient-care-and-data-management"
+url: '/patent-summaries/controlling-medical-devices-for-patient-care-and-data-management'
 uspto-patent-pdf:
 uspto-patent-url:
-thumbnail: 
-uspto-patent-citation-label: 
-forward-citations: 
+thumbnail:
+uspto-patent-citation-label:
+forward-citations:
 backward-citations:
-abstract-of-the-invention-label: 
-abstract-of-the-invention: 
+abstract-of-the-invention-label:
+abstract-of-the-invention:
 problem-solved-by-the-invention:
-topics: 
+topics:
 images:
-image: "/images/no-image.jpg"
 external-links: https://patents.google.com/patent/US10638999B2/
-downloadable-documents: 
+downloadable-documents:
   - anchor_text: Download PDF
-    link_url: 
+    link_url:
   - anchor_text: Download Claim Summaries
-    link_url: 
+    link_url:
 ---
 
 The evolving framework of health care informatics faces multiple technological hurdles. Predominantly, medical institutions, encompassing tertiary care hospitals, geriatric care facilities, and ambulatory clinics, curate an expansive databank of patient-centric records. These datasets amalgamate an individual's demographic metadata, longitudinal medical chronicles, diagnostic imageries, therapeutic prescriptions, among other salient clinical descriptors. With so much medical data to handle, there's a constant need for advanced computer systems that can efficiently track patient histories, manage billing, and review long-term medical records, among other tasks.
 
 ## The Imperative of Real-time Health Monitoring
 
-While the use of electronic health record data banks (EHRDB) has been instrumental in centralizing data storage, this technology does not exist without its challenges. For instance, there's the challenge of effective integration with medical devices for real-time and remote care, necessitating a seamless connection between patient records and instantaneous physiological states. Further complicating the matter is the need for timely retrieval of data across various private networks that may undergo frequent changes.
+While the use of electronic health record data banks (EHRDB) has been instrumental in centralizing data storage, this technology does not exist without its challenges. For instance, there's the challenge of effective integration with medical devices for real-time and remote care, necessitating a seamless connection between patient records, medical device management, and instantaneous physiological states. Further complicating the matter is the need for timely retrieval of data across various private networks that may undergo frequent changes.
 
 Additionally, with the rapid advancement of telemedicine and remote health monitoring, there's an increased demand for technologies that can sense and interpret the physiological characteristics of a subject and relay that information for immediate or future care.
 
@@ -48,11 +50,11 @@ Furthermore, with its electronic record (ER) client, the remote-control device c
 
 This proposed technology addresses the extant challenges in the medical field by ensuring efficient real-time monitoring, seamless integration with electronic health record technologies, and unimpeded access to data across changing networks. Such advancements are poised to impact patient care and data management, ensuring better health outcomes and streamlined operational procedures for medical establishments.
 
-<div class="center-elements"> 
+<div class="center-elements">
 
 ![Figure 1](/images/patent-summaries/us10638999b2-image-1.png)
 
-**Figure 1** 
+**Figure 1**
 
 </div>
 

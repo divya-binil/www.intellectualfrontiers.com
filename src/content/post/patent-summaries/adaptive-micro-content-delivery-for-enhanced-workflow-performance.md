@@ -1,79 +1,85 @@
 ---
-title:  Adaptive Micro-Content Delivery for Enhanced Workflow Performance
-head: [
-  {
-    tag: 'meta',
-    attrs: {
-      name: 'title',
-      content: 'Intelligent Workflow Automation for Precision Education | IntellectualFrontiers',
+title: Adaptive Micro-Content Delivery for Enhanced Workflow Performance
+excerpt: Traditional educational and training paradigms are increasingly observed as being less adaptive and effective. With the evolution of technology, our training systems and approaches must also be transformed to cater to context-driven demands.
+sectiontype: blog
+head:
+  [
+    {
+      tag: 'meta',
+      attrs:
+        { name: 'title', content: 'Intelligent Workflow Automation for Precision Education | IntellectualFrontiers' },
     },
-  },
-  {
-    tag: 'meta',
-    attrs: {
-      name: 'description',
-      content: 'Elevate task performance with contextual micro-content streaming. Achieve precision education through intelligent workflow automation.',
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'description',
+          content: 'Elevate task performance with contextual micro-content streaming. Achieve precision education through intelligent workflow automation.',
+        },
     },
-  },
-  {
-    tag: 'meta',
-    attrs: {
-      property: 'og:title',
-      content: 'Intelligent Workflow Automation for Precision Education | IntellectualFrontiers',
+    {
+      tag: 'meta',
+      attrs:
+        {
+          property: 'og:title',
+          content: 'Intelligent Workflow Automation for Precision Education | IntellectualFrontiers',
+        },
     },
-  },
-  {
-    tag: 'meta',
-    attrs: {
-      property: 'og:description',
-      content: 'Elevate task performance with contextual micro-content streaming. Achieve precision education through intelligent workflow automation.',
+    {
+      tag: 'meta',
+      attrs:
+        {
+          property: 'og:description',
+          content: 'Elevate task performance with contextual micro-content streaming. Achieve precision education through intelligent workflow automation.',
+        },
     },
-  },
-  {
-    tag: 'meta',
-    attrs: {
-      name: 'twitter:title',
-      content: 'Intelligent Workflow Automation for Precision Education |IntellectualFrontiers',
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'twitter:title',
+          content: 'Intelligent Workflow Automation for Precision Education |IntellectualFrontiers',
+        },
     },
-  },
-  {
-    tag: 'meta',
-    attrs: {
-      name: 'twitter:description',
-      content: 'Elevate task performance with contextual micro-content streaming. Achieve precision education through intelligent workflow automation.',
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'twitter:description',
+          content: 'Elevate task performance with contextual micro-content streaming. Achieve precision education through intelligent workflow automation.',
+        },
     },
-  },
-]
+  ]
 uspto-canonical-id-label: Patent
 uspto-patent-number: US-11651459-B2
 inventor: Shah N. Shahid
 owner-current-assignee: Netspective Communications LLC
-patent-owners-rights: 
+patent-owners-rights:
 territorial-scope: US
 uspto-patent-family-members-publication-numbers:
-application-date: 
-issue-date: 
-expiry-date: 
+application-date:
+issue-date:
+expiry-date:
 patent-status: Active
-url: "/ip/adaptive-micro-content-delivery-for-enhanced-workflow-performance"
+url: '/patent-summaries/adaptive-micro-content-delivery-for-enhanced-workflow-performance'
 uspto-patent-pdf:
 uspto-patent-url:
-thumbnail: 
-uspto-patent-citation-label: 
-forward-citations: 
+thumbnail:
+uspto-patent-citation-label:
+forward-citations:
 backward-citations:
-abstract-of-the-invention-label: 
-abstract-of-the-invention: 
+abstract-of-the-invention-label:
+abstract-of-the-invention:
 problem-solved-by-the-invention:
-topics: 
+topics:
 images:
 external-links: https://patents.google.com/patent/US11651459B2/
-downloadable-documents: 
+downloadable-documents:
   - anchor_text: Download PDF
-    link_url: 
+    link_url:
   - anchor_text: Download Claim Summaries
-    link_url: 
-image: "/images/no-image.jpg"
+    link_url:
+image: '/images/patents/us11651459b2-image-001.png'
 ---
 
 ## Addressing the Challenge in Modern Education and Training

@@ -1,79 +1,88 @@
 ---
 title: Autonomous Authorization Mechanisms in Modern Communication Networks
-head: [
-  {
-    tag: 'meta',
-    attrs: {
-      name: 'title',
-      content: 'Secure Computerized Record System and Autonomous Authorization in Healthcare | IntellectualFrontiers',
+excerpt: Modern communication networks are inevitably vulnerable to security threats, especially unauthorized access and malicious intrusions.
+sectiontype: blog
+image: '/images/patents/us10963585b2-image-01.png'
+head:
+  [
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'title',
+          content: 'Secure Computerized Record System and Autonomous Authorization in Healthcare | IntellectualFrontiers',
+        },
     },
-  },
-  {
-    tag: 'meta',
-    attrs: {
-      name: 'description',
-      content: 'Explore a secure computerized record system and the convenience of autonomous authorization in healthcare.',
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'description',
+          content: 'Explore a secure computerized record system and the convenience of autonomous authorization in healthcare.',
+        },
     },
-  },
-  {
-    tag: 'meta',
-    attrs: {
-      property: 'og:title',
-      content: 'Secure Computerized Record System and Autonomous Authorization in Healthcare | IntellectualFrontiers',
+    {
+      tag: 'meta',
+      attrs:
+        {
+          property: 'og:title',
+          content: 'Secure Computerized Record System and Autonomous Authorization in Healthcare | IntellectualFrontiers',
+        },
     },
-  },
-  {
-    tag: 'meta',
-    attrs: {
-      property: 'og:description',
-      content: 'Explore a secure computerized record system and the convenience of autonomous authorization in healthcare.',
+    {
+      tag: 'meta',
+      attrs:
+        {
+          property: 'og:description',
+          content: 'Explore a secure computerized record system and the convenience of autonomous authorization in healthcare.',
+        },
     },
-  },
-  {
-    tag: 'meta',
-    attrs: {
-      name: 'twitter:title',
-      content: 'Secure Computerized Record System and Autonomous Authorization in Healthcare | IntellectualFrontiers',
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'twitter:title',
+          content: 'Secure Computerized Record System and Autonomous Authorization in Healthcare | IntellectualFrontiers',
+        },
     },
-  },
-  {
-    tag: 'meta',
-    attrs: {
-      name: 'twitter:description',
-      content: 'Explore a secure computerized record system and the convenience of autonomous authorization in healthcare.',
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'twitter:description',
+          content: 'Explore a secure computerized record system and the convenience of autonomous authorization in healthcare.',
+        },
     },
-  },
-]
+  ]
 uspto-canonical-id-label: Patent
 uspto-patent-number: US10963585B2
 inventor: Shah N. Shahid
 owner-current-assignee: Netspective Communications LLC
-patent-owners-rights: 
+patent-owners-rights:
 territorial-scope: US
 uspto-patent-family-members-publication-numbers:
-application-date: 
-issue-date: 
-expiry-date: 
+application-date:
+issue-date:
+expiry-date:
 patent-status: Active
-url: "/ip/autonomous-authorization-mechanisms-in-modern-communication-networks"
+url: '/patent-summaries/autonomous-authorization-mechanisms-in-modern-communication-networks'
 uspto-patent-pdf:
 uspto-patent-url:
-thumbnail: 
-uspto-patent-citation-label: 
-forward-citations: 
+thumbnail:
+uspto-patent-citation-label:
+forward-citations:
 backward-citations:
-abstract-of-the-invention-label: 
-abstract-of-the-invention: 
+abstract-of-the-invention-label:
+abstract-of-the-invention:
 problem-solved-by-the-invention:
-topics: 
+topics:
 images:
-image: "/images/no-image.jpg"
-external-links:  https://patents.google.com/patent/US10963585B2/
-downloadable-documents: 
+external-links: https://patents.google.com/patent/US10963585B2/
+downloadable-documents:
   - anchor_text: Download PDF
-    link_url: 
+    link_url:
   - anchor_text: Download Claim Summaries
-    link_url: 
+    link_url:
 ---
 
 Modern communication networks are inevitably vulnerable to security threats, especially unauthorized access and malicious intrusions. There rises an imperative need to devise robust mechanisms, such as a computerized record system and autonomous authorization, that can secure user-based operations without compromising on the usability and flexibility of network services.
@@ -98,11 +107,11 @@ It is a challenging task to strike a balance between security and usability. Ove
 
 ## Innovative Approaches to Enhance Digital Authorization with a Computerized Record System
 
-<div class="center-elements"> 
+<div class="center-elements">
 
 ![Figure 1](/images/patent-summaries/us10963585b2-image-1.png)
 
-**Figure 1** 
+**Figure 1**
 
 </div>
 
@@ -141,4 +150,4 @@ Ensuring optimal performance during the authorization process is achieved by mai
 ### Adaptable Authorization with Location Types
 
 This technology harmonizes with location data having pre-set rules, achieving unparalleled accuracy in granting access. Whether based on explicit geographical data or user-defined locations, this method guarantees precise access control.
- The landscape of digital authorization is undergoing transformative shifts. Emphasizing adaptability, user experience, and dynamic context-aware mechanisms, these innovative methods epitomize the next generation of access security. The continuous evolution and integration of factors like geo-location data and bespoke rules ensure that digital authorization remains both robust and flexible in an ever-changing digital age.
+The landscape of digital authorization is undergoing transformative shifts. Emphasizing adaptability, user experience, and dynamic context-aware mechanisms, these innovative methods epitomize the next generation of access security. The continuous evolution and integration of factors like geo-location data and bespoke rules ensure that digital authorization remains both robust and flexible in an ever-changing digital age.

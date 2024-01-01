@@ -1,36 +1,39 @@
 ---
 title: Blockchain-Powered Expertise-Driven Document Review and Scoring
+excerpt: This inventive technology described in this content addresses a critical problem faced by organizations when it comes to evaluating electronic documents, particularly in the context of selecting valuable ideas for financial aid or rewards.
+sectiontype: blog
+image: '/images/patents/us9870591b2-image-1.png'
 uspto-canonical-id-label: Patent
 uspto-patent-number: US9870591B2
 inventor: Shah N. Shahid
 owner-current-assignee: Netspective Communications LLC
-patent-owners-rights: 
+patent-owners-rights:
 territorial-scope: US
 uspto-patent-family-members-publication-numbers:
-application-date: 
-issue-date: 
-expiry-date: 
+application-date:
+issue-date:
+expiry-date:
 patent-status: Active
-url: "/ip/blockchain-powered-expertise-driven-document-review-and-scoring"
+url: '/patent-summaries/blockchain-powered-expertise-driven-document-review-and-scoring'
 uspto-patent-pdf:
 uspto-patent-url:
-thumbnail: 
-uspto-patent-citation-label: 
-forward-citations: 
+thumbnail:
+uspto-patent-citation-label:
+forward-citations:
 backward-citations:
-abstract-of-the-invention-label: 
-abstract-of-the-invention: 
+abstract-of-the-invention-label:
+abstract-of-the-invention:
 problem-solved-by-the-invention:
-topics: 
+topics:
 images:
-image: "/images/no-image.jpg"
 external-links: https://patents.google.com/patent/US9870591B2/
-downloadable-documents: 
+downloadable-documents:
   - anchor_text: Download PDF
-    link_url: 
+    link_url:
   - anchor_text: Download Claim Summaries
-    link_url: 
+    link_url:
 ---
+
 This inventive technology described in this content addresses a critical problem faced by organizations when it comes to evaluating electronic documents, particularly in the context of selecting valuable ideas for financial aid or rewards. In many instances, organizations receive numerous submissions for evaluation, making it challenging to identify the most valuable ones. The traditional approach of relying solely on textual feedback and review comments has proven to be insufficient and unreliable. This is where the distributed electronic document review system utilizing blockchain technology and computerized scoring comes into play.
 
 ## Document Evaluation: Blockchain-Powered Solution

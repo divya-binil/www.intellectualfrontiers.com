@@ -1,83 +1,93 @@
 ---
 title: Aggregating Trustworthy Rating Indicators for Enhancing Reputation Management
-head: [
-  {
-    tag: 'meta',
-    attrs: {
-      name: 'title',
-      content: 'Optimizing Aggregate Ratings for Reputation Management: A Fraud-Resistant Approach | IntellectualFrontiers',
+excerpt: The existing landscape of online rating and review platforms is fraught with significant challenges in ensuring the accuracy, reliability, and authenticity of the information presented.
+sectiontype: blog
+image: '/images/patents/us9846896b2-image-001.png'
+head:
+  [
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'title',
+          content: 'Optimizing Aggregate Ratings for Reputation Management: A Fraud-Resistant Approach | IntellectualFrontiers',
+        },
     },
-  },
-  {
-    tag: 'meta',
-    attrs: {
-      name: 'description',
-      content: 'Learn how to enhance your reputation management through the aggregate rating system. Safeguard against fraudulent ratings and improve the trustworthiness of your entity''s ratings.',
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'description',
+          content: "Learn how to enhance your reputation management through the aggregate rating system. Safeguard against fraudulent ratings and improve the trustworthiness of your entity's ratings.",
+        },
     },
-  },
-  {
-    tag: 'meta',
-    attrs: {
-      property: 'og:title',
-      content: 'Optimizing Aggregate Ratings for Reputation Management: A Fraud-Resistant Approach | IntellectualFrontiers',
+    {
+      tag: 'meta',
+      attrs:
+        {
+          property: 'og:title',
+          content: 'Optimizing Aggregate Ratings for Reputation Management: A Fraud-Resistant Approach | IntellectualFrontiers',
+        },
     },
-  },
-  {
-    tag: 'meta',
-    attrs: {
-      property: 'og:description',
-      content: 'Learn how to enhance your reputation management through the aggregate rating system. Safeguard against fraudulent ratings and improve the trustworthiness of your entity''s ratings.',
+    {
+      tag: 'meta',
+      attrs:
+        {
+          property: 'og:description',
+          content: "Learn how to enhance your reputation management through the aggregate rating system. Safeguard against fraudulent ratings and improve the trustworthiness of your entity's ratings.",
+        },
     },
-  },
-  {
-    tag: 'meta',
-    attrs: {
-      name: 'twitter:title',
-      content: 'Optimizing Aggregate Ratings for Reputation Management: A Fraud-Resistant Approach | IntellectualFrontiers',
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'twitter:title',
+          content: 'Optimizing Aggregate Ratings for Reputation Management: A Fraud-Resistant Approach | IntellectualFrontiers',
+        },
     },
-  },
-  {
-    tag: 'meta',
-    attrs: {
-      name: 'twitter:description',
-      content: 'Learn how to enhance your reputation management through the aggregate rating system. Safeguard against fraudulent ratings and improve the trustworthiness of your entity''s ratings.',
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'twitter:description',
+          content: "Learn how to enhance your reputation management through the aggregate rating system. Safeguard against fraudulent ratings and improve the trustworthiness of your entity's ratings.",
+        },
     },
-  },
-]
+  ]
 uspto-canonical-id-label: Patent
 uspto-patent-number: US9846896B2
 inventor: Shah N. Shahid
 owner-current-assignee: Netspective Communications LLC
-patent-owners-rights: 
+patent-owners-rights:
 territorial-scope: US
 uspto-patent-family-members-publication-numbers:
-application-date: 
-issue-date: 
-expiry-date: 
+application-date:
+issue-date:
+expiry-date:
 patent-status: Active
-url: "/ip/aggregating-trustworthy-rating-indicators-for-enhancing-reputation-management"
+url: '/patent-summaries/aggregating-trustworthy-rating-indicators-for-enhancing-reputation-management'
 uspto-patent-pdf:
 uspto-patent-url:
-thumbnail: 
-uspto-patent-citation-label: 
-forward-citations: 
+thumbnail:
+uspto-patent-citation-label:
+forward-citations:
 backward-citations:
-abstract-of-the-invention-label: 
-abstract-of-the-invention: 
+abstract-of-the-invention-label:
+abstract-of-the-invention:
 problem-solved-by-the-invention:
-topics: 
+topics:
 images:
-image: "/images/no-image.jpg"
 external-links: https://patents.google.com/patent/US9846896B2
-downloadable-documents: 
+downloadable-documents:
   - anchor_text: Download PDF
-    link_url: 
+    link_url:
   - anchor_text: Download Claim Summaries
-    link_url: 
+    link_url:
 ---
+
 ## Challenges in Online Ratings and Reviews
 
-The existing landscape of online rating and review platforms is fraught with significant challenges in ensuring the accuracy, reliability, and authenticity of the information presented. These platforms host a plethora of reviews and ratings that can vary dramatically in their assessments of a given entity, such as a physician, primarily due to the diverse backgrounds and intentions of reviewers. Moreover, the trustworthiness of these reviews and the credibility of the reviewers themselves remain uncertain. 
+The existing landscape of online rating and review platforms is fraught with significant challenges in ensuring the accuracy, reliability, and authenticity of the information presented. These platforms host a plethora of reviews and ratings that can vary dramatically in their assessments of a given entity, such as a physician, primarily due to the diverse backgrounds and intentions of reviewers. Moreover, the trustworthiness of these reviews and the credibility of the reviewers themselves remain uncertain.
 
 ## The Limitations of Existing Rating Aggregation
 
@@ -97,7 +107,7 @@ Imagine you're looking for a doctor and want to rely on online ratings. This tec
 
 Once it has this data, the system uses a special computer program to filter out any potentially fraudulent ratings (refer FIG. 1). It does this by analyzing a range of factors, like whether the person giving the rating is in the same location as the doctor, the reviewer's gender and age, how often they rate this particular doctor, their writing style, how quickly they provide ratings, whether they've submitted multiple ratings from different sources, and more. If a rating is flagged as potentially unreliable or fraudulent based on these factors, it's excluded from the final calculation.
 
-<div class="center-elements"> 
+<div class="text-center">
 
 ![Figure 2](/images/patent-summaries/us9846896b2-image-01.png)
 
@@ -107,7 +117,7 @@ After filtering out the questionable ratings, the technology then combines the r
 
 In addition to healthcare, this technology can be applied to various other industries where online ratings and reviews play a crucial role in decision-making. It aims to provide users with a more trustworthy and comprehensive view of the entities they're researching, ultimately helping them make more informed choices.
 
-## Innovative Key Technology Components for Improved Review and Reputation Management 
+## Innovative Key Technology Components for Improved Review and Reputation Management
 
 The key components of the technology are described herein:
 
@@ -117,20 +127,19 @@ The key components of the technology are described herein:
 
 **Trustworthy Aggregation:** After filtering out the questionable ratings and reviews, the technology combines the remaining data to create an aggregate rating for the entity you're interested in. This aggregate rating aims to provide a more accurate and reliable representation of the entity's quality or performance. It takes into account not only the numerical scores but also the sentiments expressed in the written reviews. This way, you get a more comprehensive and trustworthy view of the entity.
 
-<div class="center-elements"> 
+<div class="center-elements">
 
 ![Figure 2](/images/patent-summaries/us9846896b2-image-02.png)
 
-
-**Figure 2** 
+**Figure 2**
 
 </div>
 
-<div class="center-elements"> 
+<div class="center-elements">
 
 ![Figure 3](/images/patent-summaries/us9846896b2-image-03.png)
 
-**Figure 3** 
+**Figure 3**
 
 </div>
 

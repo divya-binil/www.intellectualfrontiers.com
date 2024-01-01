@@ -1,80 +1,90 @@
 ---
-title:  A Cloud-Based Payment System Empowering Transactions Through Data Worth
-head: [
-  {
-    tag: 'meta',
-    attrs: {
-      name: 'title',
-      content: 'Cloud-Based Payment System Redefining Digital Transactions | IntellectualFrontiers',
+title: A Cloud-Based Payment System Empowering Transactions Through Data Worth
+excerpt: In the domain of digital transaction mechanisms, there's a significant push towards optimizing interoperability between end-users and purchasers and the progression in this sector underscores the imperative of engineering and advanced methodology for payment facilitation.
+sectiontype: blog
+head:
+  [
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'title',
+          content: 'Cloud-Based Payment System Redefining Digital Transactions | IntellectualFrontiers',
+        },
     },
-  },
-  {
-    tag: 'meta',
-    attrs: {
-      name: 'description',
-      content: 'Effortlessly manage payments and user data valuation with the Cloud-Based Payment System. Elevate your digital transaction experience.',
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'description',
+          content: 'Effortlessly manage payments and user data valuation with the Cloud-Based Payment System. Elevate your digital transaction experience.',
+        },
     },
-  },
-  {
-    tag: 'meta',
-    attrs: {
-      property: 'og:title',
-      content: 'Cloud-Based Payment System Redefining Digital Transactions | IntellectualFrontiers	',
+    {
+      tag: 'meta',
+      attrs:
+        {
+          property: 'og:title',
+          content: 'Cloud-Based Payment System Redefining Digital Transactions | IntellectualFrontiers	',
+        },
     },
-  },
-  {
-    tag: 'meta',
-    attrs: {
-      property: 'og:description',
-      content: 'Effortlessly manage payments and user data valuation with the Cloud-Based Payment System. Elevate your digital transaction experience.',
+    {
+      tag: 'meta',
+      attrs:
+        {
+          property: 'og:description',
+          content: 'Effortlessly manage payments and user data valuation with the Cloud-Based Payment System. Elevate your digital transaction experience.',
+        },
     },
-  },
-  {
-    tag: 'meta',
-    attrs: {
-      name: 'twitter:title',
-      content: 'Cloud-Based Payment System Redefining Digital Transactions | IntellectualFrontiers	',
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'twitter:title',
+          content: 'Cloud-Based Payment System Redefining Digital Transactions | IntellectualFrontiers	',
+        },
     },
-  },
-  {
-    tag: 'meta',
-    attrs: {
-      name: 'twitter:description',
-      content: 'Effortlessly manage payments and user data valuation with the Cloud-Based Payment System. Elevate your digital transaction experience.',
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'twitter:description',
+          content: 'Effortlessly manage payments and user data valuation with the Cloud-Based Payment System. Elevate your digital transaction experience.',
+        },
     },
-  },
-]
+  ]
 uspto-canonical-id-label: Patent
 uspto-patent-number: US11568401B2
 inventor: Shah N. Shahid
 owner-current-assignee: Netspective Communications LLC
-patent-owners-rights: 
+patent-owners-rights:
 territorial-scope: US
 uspto-patent-family-members-publication-numbers:
-application-date: 
-issue-date: 
-expiry-date: 
+application-date:
+issue-date:
+expiry-date:
 patent-status: Active
-url: "/ip/a-cloud-based-payment-system-empowering-transactions-through-data-worth"
+url: '/patent-summaries/a-cloud-based-payment-system-empowering-transactions-through-data-worth'
 uspto-patent-pdf:
 uspto-patent-url:
-thumbnail: 
-uspto-patent-citation-label: 
-forward-citations: 
+thumbnail:
+uspto-patent-citation-label:
+forward-citations:
 backward-citations:
-abstract-of-the-invention-label: 
-abstract-of-the-invention: 
+abstract-of-the-invention-label:
+abstract-of-the-invention:
 problem-solved-by-the-invention:
-topics: 
+topics:
 images:
 external-links: https://patents.google.com/patent/US11568401B2/
-downloadable-documents: 
+downloadable-documents:
   - anchor_text: Download PDF
-    link_url: 
+    link_url:
   - anchor_text: Download Claim Summaries
-    link_url: 
-image: "/images/no-image.jpg"
+    link_url:
+image: '/images/patents/us11568401b2-image-001.png'
 ---
+
 In the domain of digital transaction mechanisms, there's a significant push towards optimizing interoperability between end-users and purchasers and the progression in this sector underscores the imperative of engineering and advanced methodology for payment facilitation.This entails a unique technology where a service provider interacts with a user, garnering predefined information. This information collection is intrinsically linked to the digital valuation of the user's data. The subsequent payment process is then based on the transactional worth of this data, ensuring a precise, digital transactional value.
 
 ## Technological Context

@@ -1,80 +1,90 @@
 ---
 title: Blockchain-Powered Healthcare Data for Natural Language Processing (NLP)- Collection, Storage, and Standardization
-head: [
-  {
-    tag: 'meta',
-    attrs: {
-      name: 'title',
-      content: 'Natural Language Processing in Healthcare: A New Paradigm for Data Transformation | IntellectualFrontiers',
+excerpt: The integration of blockchain presents an innovative solution to longstanding problems in the medical data management sector, particularly in the context of natural language processing in healthcare.
+sectiontype: blog
+image: '/images/patents/us10984913b2-image-001.png'
+head:
+  [
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'title',
+          content: 'Natural Language Processing in Healthcare: A New Paradigm for Data Transformation | IntellectualFrontiers',
+        },
     },
-  },
-  {
-    tag: 'meta',
-    attrs: {
-      name: 'description',
-      content: 'Explore how Natural Language Processing in healthcare optimizes data management, collection, storage, and standardization.',
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'description',
+          content: 'Explore how Natural Language Processing in healthcare optimizes data management, collection, storage, and standardization.',
+        },
     },
-  },
-  {
-    tag: 'meta',
-    attrs: {
-      property: 'og:title',
-      content: 'Natural Language Processing in Healthcare: A New Paradigm for Data Transformation | IntellectualFrontiers',
+    {
+      tag: 'meta',
+      attrs:
+        {
+          property: 'og:title',
+          content: 'Natural Language Processing in Healthcare: A New Paradigm for Data Transformation | IntellectualFrontiers',
+        },
     },
-  },
-  {
-    tag: 'meta',
-    attrs: {
-      property: 'og:description',
-      content: 'Explore how Natural Language Processing in healthcare optimizes data management, collection, storage, and standardization.',
+    {
+      tag: 'meta',
+      attrs:
+        {
+          property: 'og:description',
+          content: 'Explore how Natural Language Processing in healthcare optimizes data management, collection, storage, and standardization.',
+        },
     },
-  },
-  {
-    tag: 'meta',
-    attrs: {
-      name: 'twitter:title',
-      content: 'Natural Language Processing in Healthcare: A New Paradigm for Data Transformation | IntellectualFrontiers',
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'twitter:title',
+          content: 'Natural Language Processing in Healthcare: A New Paradigm for Data Transformation | IntellectualFrontiers',
+        },
     },
-  },
-  {
-    tag: 'meta',
-    attrs: {
-      name: 'twitter:description',
-      content: 'Explore how Natural Language Processing in healthcare optimizes data management, collection, storage, and standardization.',
+    {
+      tag: 'meta',
+      attrs:
+        {
+          name: 'twitter:description',
+          content: 'Explore how Natural Language Processing in healthcare optimizes data management, collection, storage, and standardization.',
+        },
     },
-  },
-]
+  ]
 uspto-canonical-id-label: Patent
 uspto-patent-number: US10984913B2
 inventor: Shah N. Shahid
 owner-current-assignee: Netspective Communications LLC
-patent-owners-rights: 
+patent-owners-rights:
 territorial-scope: US
 uspto-patent-family-members-publication-numbers:
-application-date: 
-issue-date: 
-expiry-date: 
+application-date:
+issue-date:
+expiry-date:
 patent-status: Active
-url: "/ip/blockchain-powered- healthcare- data- for- natural- language- processing- (nlp)- collection,- storage,- and- standardization"
+url: '/patent-summaries/blockchain-powered- healthcare- data- for- natural- language- processing- (nlp)- collection,- storage,- and- standardization'
 uspto-patent-pdf:
 uspto-patent-url:
-thumbnail: 
-uspto-patent-citation-label: 
-forward-citations: 
+thumbnail:
+uspto-patent-citation-label:
+forward-citations:
 backward-citations:
-abstract-of-the-invention-label: 
-abstract-of-the-invention: 
+abstract-of-the-invention-label:
+abstract-of-the-invention:
 problem-solved-by-the-invention:
-topics: 
+topics:
 images:
-image: "/images/no-image.jpg"
 external-links: https://patents.google.com/patent/US10984913B2/
-downloadable-documents: 
+downloadable-documents:
   - anchor_text: Download PDF
-    link_url: 
+    link_url:
   - anchor_text: Download Claim Summaries
-    link_url: 
+    link_url:
 ---
+
 The integration of blockchain presents an innovative solution to longstanding problems in the medical data management sector, particularly in the context of natural language processing in healthcare. By providing a blockchain-configured system with natural language processing (NLP) capabilities, the industry stands to gain enhanced security, standardization, and searchability of medical records. This article explores the problems faced by healthcare institutions regarding data management and how a patented novel technology addresses these issues.
 
 ## Challenges in Current Medical Data Management
@@ -95,7 +105,6 @@ Given the vastness and complexity of medical data, locating specific information
 
 ### Blockchain-Configured Record Bank
 
-
 Utilizing a system configured with blockchain principles, encompassing a sophisticated routing mechanism and an integrated blockchain-based data repository, we've inaugurated a robust computational platform that proficiently normalizes the influx of data, addressing and mitigating prevalent challenges of data mismanagement and asynchrony in contemporary processing models. The inherent security and immutability of blockchain technology also ensure that data remains protected against unauthorized access and leakage, particularly when applied to natural language processing in healthcare.
 
 ### Enhanced Data Logging and NLP Capabilities
@@ -114,12 +123,11 @@ Armed with natural language processing (NLP) capabilities, the technology allows
 
 Advances in digital architecture have paved the way for numerous breakthroughs in data management, and the patented technology of a blockchain configured system stands as a testament to these advancements. This technology's significance lies not just in its structural elements but in its overarching functional importance. Fig. 1 is a schematic diagram illustrating a functional overview of the system.
 
-<div class="center-elements"> 
+<div class="center-elements">
 
 ![Figure 1](/images/patent-summaries/us10984913b2-image-01.png)
 
 </div>
-
 
 ### Mastering Data Transformations
 
