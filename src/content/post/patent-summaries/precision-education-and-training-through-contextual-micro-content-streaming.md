@@ -1,7 +1,7 @@
 ---
 title: Precision Education and Training Through Contextual Micro-Content Streaming
 excerpt: Modern education faces the challenge of personalizing content to fit individual learner needs and contexts. The traditional models of education, while effective in their own rights, might not always align with the rapidly evolving technological needs and dynamic environments.
-sectiontype: blog
+
 image: '/images/patents/us11423500b2-image-001.png'
 head:
   [

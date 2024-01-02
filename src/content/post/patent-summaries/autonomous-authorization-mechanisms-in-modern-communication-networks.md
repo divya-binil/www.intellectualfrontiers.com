@@ -1,7 +1,6 @@
 ---
 title: Autonomous Authorization Mechanisms in Modern Communication Networks
 excerpt: Modern communication networks are inevitably vulnerable to security threats, especially unauthorized access and malicious intrusions.
-sectiontype: blog
 image: '/images/patents/us10963585b2-image-01.png'
 head:
   [

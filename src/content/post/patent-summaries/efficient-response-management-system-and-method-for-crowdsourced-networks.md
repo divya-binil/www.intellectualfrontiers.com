@@ -1,7 +1,7 @@
 ---
 title: Efficient Response Management System and Method for Crowdsourced Networks
 excerpt: In the rapidly evolving digital era, people increasingly turn to online crowdsourced networks to find answers and solutions to a wide array of queries and challenges.
-sectiontype: blog
+
 image: '/images/patents/us9418355b2-image-1.png'
 head:
   [

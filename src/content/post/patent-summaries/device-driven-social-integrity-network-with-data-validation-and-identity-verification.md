@@ -1,7 +1,7 @@
 ---
 title: Device-Driven Social Integrity Network with Data Validation and Identity Verification
 excerpt: In healthcare organizations, the maintenance and accessibility of patient data stand as an essential element for effective medical care.
-sectiontype: blog
+
 image: '/images/patents/us10811124b2-image-001.png'
 head:
   [

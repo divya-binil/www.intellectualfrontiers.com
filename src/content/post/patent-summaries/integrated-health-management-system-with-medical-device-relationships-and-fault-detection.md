@@ -1,7 +1,7 @@
 ---
 title: Integrated Health Management System with Medical Device Relationships and Fault Detection
 excerpt: In today's increasingly interconnected world, the need for efficient device management and interaction has become paramount across various industries, including healthcare, manufacturing, and aviation.
-sectiontype: blog
+
 image: '/images/patents/us10320735b2-image-01.png'
 head:
   [

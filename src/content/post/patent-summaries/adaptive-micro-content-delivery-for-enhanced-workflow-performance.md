@@ -1,7 +1,6 @@
 ---
 title: Adaptive Micro-Content Delivery for Enhanced Workflow Performance
 excerpt: Traditional educational and training paradigms are increasingly observed as being less adaptive and effective. With the evolution of technology, our training systems and approaches must also be transformed to cater to context-driven demands.
-sectiontype: blog
 head:
   [
     {

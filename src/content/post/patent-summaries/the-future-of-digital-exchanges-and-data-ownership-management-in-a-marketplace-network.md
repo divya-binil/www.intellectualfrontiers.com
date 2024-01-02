@@ -1,7 +1,7 @@
 ---
 title: The Future of Digital Exchanges and Data Ownership Management in a Marketplace Network
 excerpt: In a world driven by the digital marketplace, where data reigns supreme, this groundbreaking patented technology promises to transform the way we navigate this vast terrain.
-sectiontype: blog
+
 image: '/images/patent-summaries/us20200250719a1-image-001.png'
 head:
   [

@@ -1,7 +1,7 @@
 ---
 title: The Complexities of Data Management in Contemporary Healthcare Solutions
 excerpt: Modern healthcare centers, from sprawling hospitals to intimate nursing homes, meticulously maintain an extensive cache of medical data about their patients.
-sectiontype: blog
+
 image: '/images/patents/us11006920b2-image-01.jpg'
 head:
   [

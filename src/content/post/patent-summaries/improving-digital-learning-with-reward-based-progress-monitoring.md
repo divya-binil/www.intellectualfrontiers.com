@@ -1,7 +1,7 @@
 ---
 title: Improving Digital Learning with Reward-Based Progress Monitoring
 excerpt: With the proliferation of internet-based education and training modalities, it has become increasingly vital to streamline and enhance the process of digital education delivery.
-sectiontype: blog
+
 image: '/images/patent-summaries/us20210143982a1-image-001.png'
 head:
   [

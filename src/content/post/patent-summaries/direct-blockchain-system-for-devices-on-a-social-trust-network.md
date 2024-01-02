@@ -1,7 +1,7 @@
 ---
 title: Direct Blockchain System for Devices on a Social Trust Network
 excerpt: Blockchain technology, with its inherent security and decentralization features, has dramatically evolved beyond its initial application in cryptocurrencies.
-sectiontype: blog
+
 image: '/images/patents/us10490304b2-image-001.png'
 head:
   [

@@ -1,7 +1,7 @@
 ---
 title: Digital Payment Technology as a Seamless Facilitator of Transactions
 excerpt: With the currently evolving Digital Landscape, digital payment methods seeing profound shifts and with the integration of technologies and conventional banking systems, the digital payment domain has been under consistent metamorphosis.
-sectiontype: blog
+
 image: '/images/patents/us10643208b2-image-001.png'
 head:
   [

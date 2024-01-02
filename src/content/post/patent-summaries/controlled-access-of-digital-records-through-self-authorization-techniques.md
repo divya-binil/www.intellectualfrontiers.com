@@ -1,7 +1,7 @@
 ---
 title: Controlled Access of Digital Records Through Self Authorization Techniques
 excerpt: Electronic records signify digitally documented information specific to individual users or owners. Such records, ranging from financial and healthcare data to information services, are curated by professionals, including physicians, analysts, and specialists.
-sectiontype: blog
+
 image: '/images/patents/us10963585b2-image-01.png'
 head:
   [

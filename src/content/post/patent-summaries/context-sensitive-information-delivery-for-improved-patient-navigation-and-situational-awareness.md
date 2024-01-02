@@ -1,7 +1,7 @@
 ---
 title: Context-Sensitive Information Delivery for Improved Patient Navigation and Situational Awareness
 excerpt: Electronic Medical Records (EMRs) have revolutionized modern healthcare, providing a streamlined mechanism to capture, maintain, and analyze patient data electronically.
-sectiontype: blog
+
 image: '/images/patents/us10089492b2-image.png'
 uspto-canonical-id-label: Patent
 uspto-patent-number: US10089492B2
