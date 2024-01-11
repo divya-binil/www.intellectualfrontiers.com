@@ -1,6 +1,6 @@
 import slugify from 'limax';
 
-import { SITE, APP_BLOG,APP_PATENT } from '~/utils/config';
+import { SITE, APP_BLOG,APP_PATENT,APP_ARTICLE } from '~/utils/config';
 
 import { trim } from '~/utils/utils';
 
@@ -31,6 +31,10 @@ export const PATENT_BASE = cleanSlug(APP_PATENT?.list?.pathname);
 
 export const POST_PATENT_PERMALINK_PATTERN = trimSlash(APP_PATENT?.post?.permalink || `${PATENT_BASE}/%slug%`);
 
+export const ARTICLE_BASE = cleanSlug(APP_ARTICLE?.list?.pathname);
+export const ARTICLE_CATEGORY_BASE = cleanSlug(APP_ARTICLE?.category?.pathname);
+export const ARTICLE_TAG_BASE = cleanSlug(APP_ARTICLE?.tag?.pathname) || 'tag';
+
 /** */
 export const getCanonical = (path = ''): string | URL => {
   const url = String(new URL(path, SITE.site));
@@ -51,10 +55,17 @@ export const getPermalink = (slug = '', type = 'page'): string => {
       permalink = createPath(CATEGORY_BASE, trimSlash(slug));
       break;
 
-    case 'tag':
+     case 'tag':
       permalink = createPath(TAG_BASE, trimSlash(slug));
       break;
-
+      
+      case 'articlecategory':
+        permalink = createPath(ARTICLE_CATEGORY_BASE, trimSlash(slug));
+        break;
+  
+      case 'articletag':
+        permalink = createPath(ARTICLE_TAG_BASE, trimSlash(slug));
+        break;
     case 'post':
       permalink = createPath(trimSlash(slug));
       break;
@@ -64,6 +75,8 @@ export const getPermalink = (slug = '', type = 'page'): string => {
       permalink = createPath(slug);
       break;
   }
+
+
  
   return definitivePermalink(permalink);
 };
@@ -76,6 +89,8 @@ export const getHomePermalink = (): string => getPermalink('/');
 export const getBlogPermalink = (): string => getPermalink(BLOG_BASE);
 /** */
 export const getPatentPermalink = (): string => getPermalink(PATENT_BASE);
+
+export const getArticlePermalink = (): string => getPermalink(ARTICLE_BASE);
 
 
 /** */

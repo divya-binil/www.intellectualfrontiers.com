@@ -94,6 +94,43 @@ export interface AppPatentConfig {
   //   };
   // };
 }
+
+export interface AppArticleConfig {
+  isEnabled: boolean;
+  postsPerPage: number;
+  post: {
+    isEnabled: boolean;
+    permalink: string;
+    robots: {
+      index: boolean;
+      follow: boolean;
+    };
+  };
+  list: {
+    isEnabled: boolean;
+    pathname: string;
+    robots: {
+      index: boolean;
+      follow: boolean;
+    };
+  };
+  category: {
+    isEnabled: boolean;
+    pathname: string;
+    robots: {
+      index: boolean;
+      follow: boolean;
+    };
+  };
+  tag: {
+    isEnabled: boolean;
+    pathname: string;
+    robots: {
+      index: boolean;
+      follow: boolean;
+    };
+  };
+}
 export interface AnalyticsConfig {
   vendors: {
     googleAnalytics: {
@@ -110,6 +147,7 @@ const config = yaml.load(fs.readFileSync('src/config.yaml', 'utf8')) as {
   apps?: {
     blog?: AppBlogConfig;
     patent?: AppPatentConfig;
+    article?: AppArticleConfig;
     
   };
   ui?: unknown;
@@ -250,6 +288,46 @@ const getAppPatent = () => {
 
   return merge({}, _default, config?.apps?.patent ?? {}) as AppPatentConfig;
 };
+const getAppArticle = () => {
+  const _default = {
+    isEnabled: false,
+    postsPerPage: 6,
+    post: {
+      isEnabled: true,
+      permalink: '/article/%slug%',
+      robots: {
+        index: true,
+        follow: true,
+      },
+    },
+    list: {
+      isEnabled: true,
+      pathname: 'article',
+      robots: {
+        index: true,
+        follow: true,
+      },
+    },
+    category: {
+      isEnabled: true,
+      pathname: 'category',
+      robots: {
+        index: true,
+        follow: true,
+      },
+    },
+    tag: {
+      isEnabled: true,
+      pathname: 'tag',
+      robots: {
+        index: false,
+        follow: true,
+      },
+    },
+  };
+
+  return merge({}, _default, config?.apps?.article ?? {}) as AppArticleConfig;
+};
 
 const getUI = () => {
   const _default = {
@@ -281,3 +359,4 @@ export const APP_BLOG = getAppBlog();
 export const UI = getUI();
 export const ANALYTICS = getAnalytics();
 export const APP_PATENT = getAppPatent();
+export const APP_ARTICLE = getAppArticle();

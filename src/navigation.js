@@ -1,4 +1,4 @@
-import { getPermalink, getBlogPermalink, getAsset,getPatentPermalink } from './utils/permalinks';
+import { getPermalink, /*getBlogPermalink, getAsset,*/getPatentPermalink,getArticlePermalink } from './utils/permalinks';
 
 export const headerData = {
   links: [
@@ -40,10 +40,14 @@ export const headerData = {
       text: 'Download Center',
       href: '/click-through',
     },
+    // {
+    //   //text: 'Blog',
+    //   //href: getPermalink('/blog'),
+    // },
     {
-      text: 'Blog',
-      href: getPermalink('/blog'),
-    },
+      text: 'Article',
+      href: getPermalink('/article'),
+    }
   ],
   actions: [{ text: 'Contact/Chatbot', href: '/contact' }],
 };

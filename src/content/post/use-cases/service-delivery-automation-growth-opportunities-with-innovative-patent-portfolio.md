@@ -2,6 +2,10 @@
 title: Service Delivery Automation - Growth Opportunities with Innovative Patent Portfolio
 excerpt: Service delivery market is poised for unprecedented growth with an astronomical surge signifying not just a trend but a transformative shift in how enterprises operate and deliver services.
 sectiontype: article
+category: Use Case
+tags:
+  - astro
+  - front-end
 patent-id: US11475441B2
 uspto-canonical-id-label: Patent
 uspto-patent-number: US11475441B2
