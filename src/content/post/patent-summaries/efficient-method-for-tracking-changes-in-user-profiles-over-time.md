@@ -1,8 +1,9 @@
 ---
 title: Efficient Method for Tracking Changes in User Profiles Over Time
 excerpt: From social networking sites to professional platforms, profiles act as a digital representation of individuals and entities, which is why web-based profiles are considered ubiquitous.
-
+sectiontype: article
 image: '/images/patents/us10586069b2-image-001.png'
+patent-id: US10586069B2
 head:
   [
     {

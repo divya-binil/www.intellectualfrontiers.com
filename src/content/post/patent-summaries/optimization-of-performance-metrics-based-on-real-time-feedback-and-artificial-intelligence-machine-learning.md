@@ -1,8 +1,9 @@
 ---
 title: Optimization of Performance Metrics Based on Real-Time Feedback and Artificial Intelligence / Machine Learning
 excerpt: In the age of rapid technological advancements, devices play a pivotal role across diverse environments—be it medical, manufacturing, or avionics.
-
+sectiontype: article
 image: '/images/patents/us11561884b2-image-001.png'
+patent-id: US11561884B2
 head:
   [
     {

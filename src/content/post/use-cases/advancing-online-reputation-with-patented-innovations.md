@@ -1,7 +1,7 @@
 ---
 title: Advancing Online Reputation with Patented Innovations
 excerpt: Businesses across the globe, recognizing the crucial role of trust in Online Reputation Management (ORM), are diligently prioritizing the protection and enhancement of their online image.
-sectiontype: use-cases
+sectiontype: article
 patent-id: US10489830B2
 uspto-canonical-id-label: Patent
 uspto-patent-number: US10489830B2

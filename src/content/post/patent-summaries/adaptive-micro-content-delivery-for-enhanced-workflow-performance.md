@@ -1,6 +1,8 @@
 ---
 title: Adaptive Micro-Content Delivery for Enhanced Workflow Performance
 excerpt: Traditional educational and training paradigms are increasingly observed as being less adaptive and effective. With the evolution of technology, our training systems and approaches must also be transformed to cater to context-driven demands.
+sectiontype: article
+patent-id: US11651459B2
 head:
   [
     {
@@ -50,7 +52,7 @@ head:
     },
   ]
 uspto-canonical-id-label: Patent
-uspto-patent-number: US-11651459-B2
+uspto-patent-number: US11651459B2
 inventor: Shah N. Shahid
 owner-current-assignee: Netspective Communications LLC
 patent-owners-rights:

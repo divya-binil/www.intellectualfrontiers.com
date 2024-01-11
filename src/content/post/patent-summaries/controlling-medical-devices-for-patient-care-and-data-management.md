@@ -1,8 +1,9 @@
 ---
 title: Controlling Medical Devices for Patient Care and Data Management
 excerpt: The evolving framework of health care informatics faces multiple technological hurdles. Predominantly, medical institutions, encompassing tertiary care hospitals, geriatric care facilities, and ambulatory clinics, curate an expansive databank of patient-centric records.
-
+sectiontype: article
 image: '/images/patents/us10638999b2-image-001.png'
+patent-id: US10638999B2
 uspto-canonical-id-label: Patent
 uspto-patent-number: US10638999B2
 inventor: Shah N. Shahid

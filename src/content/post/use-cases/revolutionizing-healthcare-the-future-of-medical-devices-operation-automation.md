@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Healthcare - The Future of Medical Devices Operation Automation
 excerpt: Many medical devices still require manual setup and operation, which introduces the potential for human error.
-sectiontype: use-cases
+sectiontype: article
 patent-id: US11006920B2
 uspto-canonical-id-label: Patent
 uspto-patent-number: US11006920B2

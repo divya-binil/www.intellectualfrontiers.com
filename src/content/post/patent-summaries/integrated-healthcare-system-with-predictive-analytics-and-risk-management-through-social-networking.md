@@ -1,8 +1,9 @@
 ---
 title: Integrated Healthcare System with Predictive Analytics and Risk Management through Social Networking
 excerpt: In the evolving landscape of device interaction and automation across domains like healthcare, manufacturing, and aviation, there's a growing demand for advanced solutions.
-
+sectiontype: article
 image: '/images/patents/us9525753b2-image-001.png'
+patent-id: US9525753B2
 head:
   [
     {

@@ -1,8 +1,9 @@
 ---
 title: Digital Evaluation and Tracking of Performance Metrics
 excerpt: The technology described herein offers an innovation that digitally evaluates computer-executable and traceable performance metrics.
-
+sectiontype: article
 image: '/images/patents/us11388077b2-image-001.png'
+patent-id: US11388077B2
 head:
   [
     {

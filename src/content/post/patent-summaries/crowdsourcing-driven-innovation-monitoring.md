@@ -1,8 +1,9 @@
 ---
 title: Crowdsourcing-Driven Innovation Monitoring
 excerpt: This technology establishes a secure and trust-based system for exchanging crowdsourcing innovation in an ecosystem.
-
+sectiontype: article
 image: '/images/patents/us11270263b2-image-001.png'
+patent-id: US11270263B2
 head:
   [
     {

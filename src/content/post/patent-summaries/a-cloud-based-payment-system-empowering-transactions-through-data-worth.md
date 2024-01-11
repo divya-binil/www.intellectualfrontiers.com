@@ -1,6 +1,8 @@
 ---
 title: A Cloud-Based Payment System Empowering Transactions Through Data Worth
 excerpt: In the domain of digital transaction mechanisms, there's a significant push towards optimizing interoperability between end-users and purchasers and the progression in this sector underscores the imperative of engineering and advanced methodology for payment facilitation.
+sectiontype: article
+patent-id: US11568401B2
 head:
   [
     {

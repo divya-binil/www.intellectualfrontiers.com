@@ -1,8 +1,9 @@
 ---
 title: Reusable Software Development with Declarative Executable Specifications
 excerpt: In the progression of computer software applications, the primary objective has always been enhancing the productivity of entities, ranging from individual professionals to vast enterprises.
-
+sectiontype: article
 image: '/images/patents/us7039898-image-01.jpg'
+patent-id: US7039898B2
 head:
   [
     {

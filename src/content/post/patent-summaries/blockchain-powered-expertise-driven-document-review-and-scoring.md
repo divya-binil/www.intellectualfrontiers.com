@@ -1,8 +1,9 @@
 ---
 title: Blockchain-Powered Expertise-Driven Document Review and Scoring
 excerpt: This inventive technology described in this content addresses a critical problem faced by organizations when it comes to evaluating electronic documents, particularly in the context of selecting valuable ideas for financial aid or rewards.
-
+sectiontype: article
 image: '/images/patents/us9870591b2-image-1.png'
+patent-id: US9870591B2
 uspto-canonical-id-label: Patent
 uspto-patent-number: US9870591B2
 inventor: Shah N. Shahid

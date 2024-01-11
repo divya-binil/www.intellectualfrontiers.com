@@ -1,7 +1,7 @@
 ---
 title: Digital Payment Systems- Evolving Markets and Emerging Trends
 excerpt: The Digital Payments market is set to witness significant growth in the coming years according to reports by Statista
-sectiontype: use-cases
+sectiontype: article
 patent-id: US10643208B2
 uspto-canonical-id-label: Patent
 uspto-patent-number: US10643208B2
