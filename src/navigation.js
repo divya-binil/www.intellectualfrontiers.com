@@ -45,7 +45,7 @@ export const headerData = {
     //   //href: getPermalink('/blog'),
     // },
     {
-      text: 'Article',
+      text: 'Articles',
       href: getPermalink('/article'),
     }
   ],

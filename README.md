@@ -288,7 +288,7 @@ Add sectiontype in each pages as shown below example .
 sectiontype: article
 
 ## Add Category and Tag
- Add category and tags in each pages as shown below example .
+ Add category and tags in frontmatter on each pages as shown below example .
 
 category: Use Case
 tags:
