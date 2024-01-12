@@ -4,6 +4,7 @@ excerpt: With the currently evolving Digital Landscape, digital payment methods 
 sectiontype: article
 image: '/images/patents/us10643208b2-image-001.png'
 patent-id: US10643208B2
+category: Patent Summaries
 head:
   [
     {

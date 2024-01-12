@@ -4,6 +4,7 @@ excerpt: This technology establishes a secure and trust-based system for exchang
 sectiontype: article
 image: '/images/patents/us11270263b2-image-001.png'
 patent-id: US11270263B2
+category: Patent Summaries
 head:
   [
     {

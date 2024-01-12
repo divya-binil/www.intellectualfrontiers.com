@@ -4,6 +4,7 @@ excerpt: In the evolving landscape of device interaction and automation across d
 sectiontype: article
 image: '/images/patents/us9525753b2-image-001.png'
 patent-id: US9525753B2
+category: Patent Summaries
 head:
   [
     {

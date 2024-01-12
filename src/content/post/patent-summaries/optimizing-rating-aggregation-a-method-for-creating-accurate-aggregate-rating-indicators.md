@@ -4,6 +4,7 @@ excerpt: Existing methods and systems for rating aggregation face significant ch
 sectiontype: article
 image: '/images/patents/us10489830b2-image-01.png'
 patent-id: US10489830B2
+category: Patent Summaries
 head:
   [
     {

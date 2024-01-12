@@ -4,6 +4,7 @@ excerpt: In healthcare organizations, the maintenance and accessibility of patie
 sectiontype: article
 image: '/images/patents/us10811124b2-image-001.png'
 patent-id: US10811124B2
+category: Patent Summaries
 head:
   [
     {

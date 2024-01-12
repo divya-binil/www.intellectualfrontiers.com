@@ -4,6 +4,7 @@ excerpt: This inventive technology described in this content addresses a critica
 sectiontype: article
 image: '/images/patents/us9870591b2-image-1.png'
 patent-id: US9870591B2
+category: Patent Summaries
 uspto-canonical-id-label: Patent
 uspto-patent-number: US9870591B2
 inventor: Shah N. Shahid

@@ -4,6 +4,7 @@ excerpt: The existing landscape of online rating and review platforms is fraught
 image: '/images/patents/us9846896b2-image-001.png'
 sectiontype: article
 patent-id: US9846896B2
+category: Patent Summaries
 head:
   [
     {

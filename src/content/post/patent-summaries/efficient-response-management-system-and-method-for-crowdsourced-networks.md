@@ -4,6 +4,7 @@ excerpt: In the rapidly evolving digital era, people increasingly turn to online
 sectiontype: article
 image: '/images/patents/us9418355b2-image-1.png'
 patent-id: US9418355B2
+category: Patent Summaries
 head:
   [
     {

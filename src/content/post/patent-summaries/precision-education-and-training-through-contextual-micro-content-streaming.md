@@ -4,6 +4,7 @@ excerpt: Modern education faces the challenge of personalizing content to fit in
 sectiontype: article
 image: '/images/patents/us11423500b2-image-001.png'
 patent-id: US11423500B2
+category: Patent Summaries
 head:
   [
     {

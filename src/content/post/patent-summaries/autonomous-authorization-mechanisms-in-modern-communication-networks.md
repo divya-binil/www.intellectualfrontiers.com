@@ -4,6 +4,7 @@ excerpt: Modern communication networks are inevitably vulnerable to security thr
 image: '/images/patents/us10963585b2-image-01.png'
 sectiontype: article
 patent-id: US10963585B2
+category: Patent Summaries
 head:
   [
     {

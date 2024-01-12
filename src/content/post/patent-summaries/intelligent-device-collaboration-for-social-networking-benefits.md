@@ -4,6 +4,7 @@ excerpt: In the age of rapid technological advancements, devices play a pivotal 
 sectiontype: article
 image: '/images/patents/us11044221b2-image-001.png'
 patent-id: US11044221B2
+category: Patent Summaries
 head:
   [
     {

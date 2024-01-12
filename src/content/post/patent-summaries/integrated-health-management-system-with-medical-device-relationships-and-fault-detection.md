@@ -4,6 +4,7 @@ excerpt: In today's increasingly interconnected world, the need for efficient de
 sectiontype: article
 image: '/images/patents/us10320735b2-image-01.png'
 patent-id: US10320735B2
+category: Patent Summaries
 head:
   [
     {

@@ -2,7 +2,7 @@
 title: Revolutionizing Healthcare - The Future of Medical Devices Operation Automation
 excerpt: Many medical devices still require manual setup and operation, which introduces the potential for human error.
 sectiontype: article
-category: Use Case
+category: Use Cases
 tags:
   - astro
   - front-end

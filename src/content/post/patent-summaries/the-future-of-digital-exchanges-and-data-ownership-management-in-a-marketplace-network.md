@@ -4,6 +4,7 @@ excerpt: In a world driven by the digital marketplace, where data reigns supreme
 sectiontype: article
 image: '/images/patent-summaries/us20200250719a1-image-001.png'
 patent-id: US20200250719A1
+category: Patent Summaries
 head:
   [
     {

@@ -4,6 +4,7 @@ excerpt: Electronic records signify digitally documented information specific to
 sectiontype: article
 image: '/images/patents/us10963585b2-image-01.png'
 patent-id: US10963585B2
+category: Patent Summaries
 head:
   [
     {

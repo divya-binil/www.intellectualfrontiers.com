@@ -2,6 +2,7 @@
 title: 'Maximizing Competitive Edge: Strategic Patent Acquisition and Management'
 excerpt: Patents represent not just inventions, but strategic assets that can significantly alter the competitive landscape of industries
 sectiontype: article
+category: Blogs
 image: '/images/no-image.jpg'
 patent-id: US11568401B2
 head:

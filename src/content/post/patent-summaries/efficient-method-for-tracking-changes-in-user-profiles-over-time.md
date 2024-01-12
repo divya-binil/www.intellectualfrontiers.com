@@ -4,6 +4,7 @@ excerpt: From social networking sites to professional platforms, profiles act as
 sectiontype: article
 image: '/images/patents/us10586069b2-image-001.png'
 patent-id: US10586069B2
+category: Patent Summaries
 head:
   [
     {

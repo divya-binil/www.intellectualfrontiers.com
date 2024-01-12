@@ -4,6 +4,7 @@ excerpt: In the progression of computer software applications, the primary objec
 sectiontype: article
 image: '/images/patents/us7039898-image-01.jpg'
 patent-id: US7039898B2
+category: Patent Summaries
 head:
   [
     {

@@ -4,6 +4,7 @@ excerpt: User Generated Electronic Data (UGED), termed as Consumer Generated Ele
 sectiontype: article
 image: '/images/patents/us10839020b2-image-001.png'
 patent-id: US10839020B2
+category: Patent Summaries
 head:
   [
     {

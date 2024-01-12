@@ -2,7 +2,7 @@
 title: Digital Payment Systems- Evolving Markets and Emerging Trends
 excerpt: The Digital Payments market is set to witness significant growth in the coming years according to reports by Statista
 sectiontype: article
-category: Use Case
+category: Use Cases
 tags:
   - astro
   - front-end

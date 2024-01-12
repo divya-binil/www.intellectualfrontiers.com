@@ -4,6 +4,7 @@ excerpt: Modern healthcare centers, from sprawling hospitals to intimate nursing
 sectiontype: article
 image: '/images/patents/us11006920b2-image-01.jpg'
 patent-id: US11006920B2
+category: Patent Summaries
 head:
   [
     {

@@ -2,7 +2,7 @@
 title: Advancing Online Reputation with Patented Innovations
 excerpt: Businesses across the globe, recognizing the crucial role of trust in Online Reputation Management (ORM), are diligently prioritizing the protection and enhancement of their online image.
 sectiontype: article
-category: Use Case
+category: Use Cases
 tags:
   - astro
   - front-end

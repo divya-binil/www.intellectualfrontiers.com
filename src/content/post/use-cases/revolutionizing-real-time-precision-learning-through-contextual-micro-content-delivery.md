@@ -3,7 +3,7 @@ title: Revolutionizing Real-Time Precision Learning Through Contextual Micro-Con
 excerpt: The demand for knowledge and skills has reached unprecedented levels. Traditional, one-size-fits-all training and education models are no longer sufficient to keep up with the rapid pace of change.
 image: '/images/use-cases/use-cases-us11651459b2-1.jpg'
 sectiontype: article
-category: Use Case
+category: Use Cases
 tags:
   - astro
   - front-end

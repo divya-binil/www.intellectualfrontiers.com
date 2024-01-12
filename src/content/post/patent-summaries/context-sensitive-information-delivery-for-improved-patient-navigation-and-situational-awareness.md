@@ -4,6 +4,7 @@ excerpt: Electronic Medical Records (EMRs) have revolutionized modern healthcare
 sectiontype: article
 image: '/images/patents/us10089492b2-image.png'
 patent-id: US10089492B2
+category: Patent Summaries
 uspto-canonical-id-label: Patent
 uspto-patent-number: US10089492B2
 inventor: Shah N. Shahid

@@ -4,6 +4,7 @@ excerpt: Healthcare systems, medical devices, and software often operate in isol
 sectiontype: article
 image: '/images/patents/us10403399b2-image-001.png'
 patent-id: US10403399B2
+category: Patent Summaries
 head:
   [
     {

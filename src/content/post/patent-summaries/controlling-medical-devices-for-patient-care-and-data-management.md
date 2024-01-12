@@ -4,6 +4,7 @@ excerpt: The evolving framework of health care informatics faces multiple techno
 sectiontype: article
 image: '/images/patents/us10638999b2-image-001.png'
 patent-id: US10638999B2
+category: Patent Summaries
 uspto-canonical-id-label: Patent
 uspto-patent-number: US10638999B2
 inventor: Shah N. Shahid

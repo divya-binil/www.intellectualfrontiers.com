@@ -4,6 +4,7 @@ excerpt: With the proliferation of internet-based education and training modalit
 sectiontype: article
 image: '/images/patent-summaries/us20210143982a1-image-001.png'
 patent-id: US20210143982A1
+category: Patent Summaries
 head:
   [
     {

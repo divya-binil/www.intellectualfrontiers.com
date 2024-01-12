@@ -4,6 +4,7 @@ excerpt: The integration of blockchain presents an innovative solution to longst
 image: '/images/patents/us10984913b2-image-001.png'
 sectiontype: article
 patent-id: US10984913B2
+category: Patent Summaries
 head:
   [
     {

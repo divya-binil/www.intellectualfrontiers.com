@@ -4,6 +4,7 @@ excerpt: The technology described herein offers an innovation that digitally eva
 sectiontype: article
 image: '/images/patents/us11388077b2-image-001.png'
 patent-id: US11388077B2
+category: Patent Summaries
 head:
   [
     {
