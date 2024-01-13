@@ -5,50 +5,26 @@ sectiontype: article
 image: '/images/patents/us7039898-image-01.jpg'
 patent-id: US7039898B2
 category: Patent Summaries
-head:
-  [
-    {
-      tag: 'meta',
-      attrs: { name: 'title', content: 'Efficient Code Reusability in Software Development | IntellectualFrontiers' },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'description',
-          content: 'Discover declarable executable specifications for reusable software development. Create efficient applications with code reusability, testing, and security.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        { property: 'og:title', content: 'Efficient Code Reusability in Software Development | IntellectualFrontiers' },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:description',
-          content: 'Discover declarable executable specifications for reusable software development. Create efficient applications with code reusability, testing, and security.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:title',
-          content: 'Efficient Code Reusability in Software Development | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:description',
-          content: 'Discover declarable executable specifications for reusable software development. Create efficient applications with code reusability, testing, and security.',
-        },
-    },
-  ]
+metadata:
+  title: Efficient Code Reusability in Software Development
+  description: Discover declarable executable specifications for reusable software development. Create efficient applications with code reusability, testing, and security.
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    title: Efficient Code Reusability in Software Development | IntellectualFrontiers
+    site_name: IntellectualFrontiers
+    description: Discover declarable executable specifications for reusable software development. Create efficient applications with code reusability, testing, and security.
+    images:
+      - url: '/images/no-image.jpg'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@twitter_user'
+    site: '@twitter_user'
+    cardType: summary_large_image
+publishDate: 2023-10-25
 uspto-canonical-id-label: Patent
 uspto-patent-number: US7039898B2
 inventor: Shah N. Shahid

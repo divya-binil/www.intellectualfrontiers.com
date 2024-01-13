@@ -5,57 +5,26 @@ image: '/images/patents/us10984913b2-image-001.png'
 sectiontype: article
 patent-id: US10984913B2
 category: Patent Summaries
-head:
-  [
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'title',
-          content: 'Natural Language Processing in Healthcare: A New Paradigm for Data Transformation | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'description',
-          content: 'Explore how Natural Language Processing in healthcare optimizes data management, collection, storage, and standardization.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:title',
-          content: 'Natural Language Processing in Healthcare: A New Paradigm for Data Transformation | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:description',
-          content: 'Explore how Natural Language Processing in healthcare optimizes data management, collection, storage, and standardization.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:title',
-          content: 'Natural Language Processing in Healthcare: A New Paradigm for Data Transformation | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:description',
-          content: 'Explore how Natural Language Processing in healthcare optimizes data management, collection, storage, and standardization.',
-        },
-    },
-  ]
+metadata:
+  title: 'Natural Language Processing in Healthcare: A New Paradigm for Data Transformation'
+  description: Explore how Natural Language Processing in healthcare optimizes data management, collection, storage, and standardization.
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    title: 'Natural Language Processing in Healthcare: A New Paradigm for Data Transformation | IntellectualFrontiers'
+    site_name: IntellectualFrontiers
+    description: Explore how Natural Language Processing in healthcare optimizes data management, collection, storage, and standardization.
+    images:
+      - url: '/images/no-image.jpg'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@twitter_user'
+    site: '@twitter_user'
+    cardType: summary_large_image
+publishDate: 2023-10-25
 uspto-canonical-id-label: Patent
 uspto-patent-number: US10984913B2
 inventor: Shah N. Shahid

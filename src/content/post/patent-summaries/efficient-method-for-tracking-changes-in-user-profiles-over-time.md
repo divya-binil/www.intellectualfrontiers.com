@@ -5,45 +5,26 @@ sectiontype: article
 image: '/images/patents/us10586069b2-image-001.png'
 patent-id: US10586069B2
 category: Patent Summaries
-head:
-  [
-    {
-      tag: 'meta',
-      attrs: { name: 'title', content: 'Enhance Credibility with Profile Tracker | IntellectualFrontiers' },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'description',
-          content: 'Discover the groundbreaking profile tracker technology for tracking and verifying online profiles, vital for healthcare and recruitment sectors.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs: { property: 'og:title', content: 'Enhance Credibility with Profile Tracker | IntellectualFrontiers' },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:description',
-          content: 'Discover the groundbreaking profile tracker technology for tracking and verifying online profiles, vital for healthcare and recruitment sectors..',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs: { name: 'twitter:title', content: 'Enhance Credibility with Profile Tracker | IntellectualFrontiers' },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:description',
-          content: 'Discover the groundbreaking profile tracker technology for tracking and verifying online profiles, vital for healthcare and recruitment sectors..',
-        },
-    },
-  ]
+metadata:
+  title: Enhance Credibility with Profile Tracker
+  description: Discover the groundbreaking profile tracker technology for tracking and verifying online profiles, vital for healthcare and recruitment sectors
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    title: Enhance Credibility with Profile Tracker | IntellectualFrontiers
+    site_name: IntellectualFrontiers
+    description: Discover the groundbreaking profile tracker technology for tracking and verifying online profiles, vital for healthcare and recruitment sectors
+    images:
+      - url: '/images/no-image.jpg'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@twitter_user'
+    site: '@twitter_user'
+    cardType: summary_large_image
+publishDate: 2023-10-26
 uspto-canonical-id-label: Patent
 uspto-patent-number: US10586069B2
 inventor: Shah N. Shahid

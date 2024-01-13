@@ -5,57 +5,26 @@ image: '/images/patents/us10963585b2-image-01.png'
 sectiontype: article
 patent-id: US10963585B2
 category: Patent Summaries
-head:
-  [
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'title',
-          content: 'Secure Computerized Record System and Autonomous Authorization in Healthcare | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'description',
-          content: 'Explore a secure computerized record system and the convenience of autonomous authorization in healthcare.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:title',
-          content: 'Secure Computerized Record System and Autonomous Authorization in Healthcare | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:description',
-          content: 'Explore a secure computerized record system and the convenience of autonomous authorization in healthcare.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:title',
-          content: 'Secure Computerized Record System and Autonomous Authorization in Healthcare | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:description',
-          content: 'Explore a secure computerized record system and the convenience of autonomous authorization in healthcare.',
-        },
-    },
-  ]
+metadata:
+  title: Secure Computerized Record System and Autonomous Authorization in Healthcare | IntellectualFrontiers
+  description: Explore a secure computerized record system and the convenience of autonomous authorization in healthcare.
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    title: Secure Computerized Record System and Autonomous Authorization in Healthcare | IntellectualFrontiers
+    site_name: IntellectualFrontiers
+    description: Explore a secure computerized record system and the convenience of autonomous authorization in healthcare.
+    images:
+      - url: '/images/no-image.jpg'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@twitter_user'
+    site: '@twitter_user'
+    cardType: summary_large_image
+publishDate: 2023-10-20
 uspto-canonical-id-label: Patent
 uspto-patent-number: US10963585B2
 inventor: Shah N. Shahid

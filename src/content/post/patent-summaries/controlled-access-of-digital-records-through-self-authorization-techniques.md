@@ -5,47 +5,26 @@ sectiontype: article
 image: '/images/patents/us10963585b2-image-01.png'
 patent-id: US10963585B2
 category: Patent Summaries
-head:
-  [
-    {
-      tag: 'meta',
-      attrs: { name: 'title', content: 'Digital Authorization: Securing Access Control | IntellectualFrontiers' },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'description',
-          content: 'Learn how digital authorization methods bolster access control and data security in the modern digital landscape.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        { property: 'og:title', content: 'Digital Authorization: Securing Access Control | IntellectualFrontiers' },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:description',
-          content: 'Learn how digital authorization methods bolster access control and data security in the modern digital landscape.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        { name: 'twitter:title', content: 'Digital Authorization: Securing Access Control | IntellectualFrontiers' },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:description',
-          content: 'Learn how digital authorization methods bolster access control and data security in the modern digital landscape.',
-        },
-    },
-  ]
+metadata:
+  title: 'Digital Authorization: Securing Access Control'
+  description: Learn how digital authorization methods bolster access control and data security in the modern digital landscape
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    title: 'Digital Authorization: Securing Access Control | IntellectualFrontiers'
+    site_name: IntellectualFrontiers
+    description: Learn how digital authorization methods bolster access control and data security in the modern digital landscape.
+    images:
+      - url: '/images/no-image.jpg'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@twitter_user'
+    site: '@twitter_user'
+    cardType: summary_large_image
+publishDate: 2023-11-02
 uspto-canonical-id-label: Patent
 uspto-patent-number: US10963585B2
 inventor: Shah N. Shahid

@@ -5,6 +5,26 @@ sectiontype: article
 image: '/images/patents/us10089492b2-image.png'
 patent-id: US10089492B2
 category: Patent Summaries
+metadata:
+  title: Patient Navigation in Electronic Medical Record Application Surveillance
+  description: Surveillance system for Electronic Medical Record app navigation. Monitor and ensure consistency in patient navigation through EMR application interfaces.
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    title: Patient Navigation in Electronic Medical Record Application Surveillance | IntellectualFrontiers
+    site_name: IntellectualFrontiers
+    description: Surveillance system for Electronic Medical Record app navigation. Monitor and ensure consistency in patient navigation through EMR application interfaces.
+    images:
+      - url: '/images/no-image.jpg'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@twitter_user'
+    site: '@twitter_user'
+    cardType: summary_large_image
+publishDate: 2023-10-25
 uspto-canonical-id-label: Patent
 uspto-patent-number: US10089492B2
 inventor: Shah N. Shahid

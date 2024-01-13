@@ -5,54 +5,26 @@ sectiontype: article
 image: '/images/patents/us10489830b2-image-01.png'
 patent-id: US10489830B2
 category: Patent Summaries
-head:
-  [
-    {
-      tag: 'meta',
-      attrs:
-        { name: 'title', content: 'Improving Decision-Making with Accurate Aggregate Ratings | IntellectualFrontiers' },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'description',
-          content: 'Optimize your decision-making with accurate aggregate ratings. See how our methods improve reliability in rating aggregation, with a focus on sentiment analysis.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:title',
-          content: 'Improving Decision-Making with Accurate Aggregate Ratings | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:description',
-          content: 'Optimize your decision-making with accurate aggregate ratings. See how our methods improve reliability in rating aggregation, with a focus on sentiment analysis.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:title',
-          content: 'Improving Decision-Making with Accurate Aggregate Ratings | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:description',
-          content: 'Optimize your decision-making with accurate aggregate ratings. See how our methods improve reliability in rating aggregation, with a focus on sentiment analysis.',
-        },
-    },
-  ]
+metadata:
+  title: Improving Decision-Making with Accurate Aggregate Ratings
+  description: Optimize your decision-making with accurate aggregate ratings. See how our methods improve reliability in rating aggregation, with a focus on sentiment analysis
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    title: Improving Decision-Making with Accurate Aggregate Ratings | IntellectualFrontiers
+    site_name: IntellectualFrontiers
+    description: Optimize your decision-making with accurate aggregate ratings. See how our methods improve reliability in rating aggregation, with a focus on sentiment analysis
+    images:
+      - url: '/images/no-image.jpg'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@twitter_user'
+    site: '@twitter_user'
+    cardType: summary_large_image
+publishDate: 2023-10-28
 uspto-canonical-id-label: Patent
 uspto-patent-number: US10489830B2
 inventor: Shah N. Shahid

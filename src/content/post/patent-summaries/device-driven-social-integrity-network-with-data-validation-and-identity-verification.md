@@ -5,57 +5,26 @@ sectiontype: article
 image: '/images/patents/us10811124b2-image-001.png'
 patent-id: US10811124B2
 category: Patent Summaries
-head:
-  [
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'title',
-          content: 'Data Integrity Reinvented: Social Networking Integration Solution | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'description',
-          content: 'Experience a groundbreaking approach to data integrity with our social networking integration in healthcare management.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:title',
-          content: 'Data Integrity Reinvented: Social Networking Integration Solution | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:description',
-          content: 'Experience a groundbreaking approach to data integrity with our social networking integration in healthcare management.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:title',
-          content: 'Data Integrity Reinvented: Social Networking Integration Solution | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:description',
-          content: 'Experience a groundbreaking approach to data integrity with our social networking integration in healthcare management.',
-        },
-    },
-  ]
+metadata:
+  title: 'Data Integrity Reinvented: Social Networking Integration Solution'
+  description: Experience a groundbreaking approach to data integrity with our social networking integration in healthcare management.
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    title: 'Data Integrity Reinvented: Social Networking Integration Solution | IntellectualFrontiers'
+    site_name: IntellectualFrontiers
+    description: Experience a groundbreaking approach to data integrity with our social networking integration in healthcare management.
+    images:
+      - url: '/images/no-image.jpg'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@twitter_user'
+    site: '@twitter_user'
+    cardType: summary_large_image
+publishDate: 2023-10-25
 uspto-canonical-id-label: Patent
 uspto-patent-number: US10811124B2
 inventor: Shah N. Shahid

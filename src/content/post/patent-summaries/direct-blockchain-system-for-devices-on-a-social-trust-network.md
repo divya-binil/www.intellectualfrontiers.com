@@ -5,54 +5,26 @@ sectiontype: article
 image: '/images/patents/us10490304b2-image-001.png'
 patent-id: US10490304B2
 category: Patent Summaries
-head:
-  [
-    {
-      tag: 'meta',
-      attrs:
-        { name: 'title', content: 'Blockchain for Multi-Faceted Communication in Healthcare | IntellectualFrontiers' },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'description',
-          content: 'Discover how blockchain ensures secure, real-time multi-faceted communication in healthcare data management',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:title',
-          content: 'Blockchain for Multi-Faceted Communication in Healthcare | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:description',
-          content: 'Discover how blockchain ensures secure, real-time multi-faceted communication in healthcare data management.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:title',
-          content: 'Blockchain for Multi-Faceted Communication in Healthcare | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:description',
-          content: 'Discover how blockchain ensures secure, real-time multi-faceted communication in healthcare data management.',
-        },
-    },
-  ]
+metadata:
+  title: Blockchain for Multi-Faceted Communication in Healthcare
+  description: Discover how blockchain ensures secure, real-time multi-faceted communication in healthcare data management.
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    title: Blockchain for Multi-Faceted Communication in Healthcare | IntellectualFrontiers
+    site_name: IntellectualFrontiers
+    description: Discover how blockchain ensures secure, real-time multi-faceted communication in healthcare data management.
+    images:
+      - url: '/images/no-image.jpg'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@twitter_user'
+    site: '@twitter_user'
+    cardType: summary_large_image
+publishDate: 2023-10-26
 uspto-canonical-id-label: Patent
 uspto-patent-number: US10490304B2
 inventor: Shah N. Shahid

@@ -5,57 +5,26 @@ sectiontype: article
 image: '/images/patents/us11388077b2-image-001.png'
 patent-id: US11388077B2
 category: Patent Summaries
-head:
-  [
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'title',
-          content: ' Digital Evaluation Metrics: Tracking Performance Innovations | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'description',
-          content: 'Explore cutting-edge digital evaluation metrics technology for accurate performance tracking. Enhance quality measures with automated assessment. Learn more.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:title',
-          content: 'Digital Evaluation Metrics: Tracking Performance Innovations | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:description',
-          content: 'Explore cutting-edge digital evaluation metrics technology for accurate performance tracking. Enhance quality measures with automated assessment. Learn more.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:title',
-          content: 'Digital Evaluation Metrics: Tracking Performance Innovations | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:description',
-          content: 'Explore cutting-edge digital evaluation metrics technology for accurate performance tracking. Enhance quality measures with automated assessment. Learn more.',
-        },
-    },
-  ]
+metadata:
+  title: 'Digital Evaluation Metrics: Tracking Performance Innovations'
+  description: Explore cutting-edge digital evaluation metrics technology for accurate performance tracking. Enhance quality measures with automated assessment. Learn more.
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    title: 'Digital Evaluation Metrics: Tracking Performance Innovations | IntellectualFrontiers'
+    site_name: IntellectualFrontiers
+    description: Explore cutting-edge digital evaluation metrics technology for accurate performance tracking. Enhance quality measures with automated assessment. Learn more.
+    images:
+      - url: '/images/no-image.jpg'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@twitter_user'
+    site: '@twitter_user'
+    cardType: summary_large_image
+publishDate: 2023-10-26
 uspto-canonical-id-label: Patent
 uspto-patent-number: US11388077B2
 inventor: Shah N. Shahid

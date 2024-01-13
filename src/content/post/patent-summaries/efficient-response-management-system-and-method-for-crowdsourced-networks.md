@@ -5,57 +5,26 @@ sectiontype: article
 image: '/images/patents/us9418355b2-image-1.png'
 patent-id: US9418355B2
 category: Patent Summaries
-head:
-  [
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'title',
-          content: 'Efficient Response Management System for Crowdsourced Network | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'description',
-          content: 'Addressing the reliability challenge in crowdsourced network with an innovative response management system. Ensure trust in responses with credentialing and compliance.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:title',
-          content: 'Efficient Response Management System for Crowdsourced Network | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:description',
-          content: 'Addressing the reliability challenge in crowdsourced network with an innovative response management system. Ensure trust in responses with credentialing and compliance..',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:title',
-          content: 'Efficient Response Management System for Crowdsourced Network | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:description',
-          content: 'Addressing the reliability challenge in crowdsourced network with an innovative response management system. Ensure trust in responses with credentialing and compliance..',
-        },
-    },
-  ]
+metadata:
+  title: Efficient Response Management System for Crowdsourced Network
+  description: Addressing the reliability challenge in crowdsourced network with an innovative response management system. Ensure trust in responses with credentialing and compliance.
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    title: Efficient Response Management System for Crowdsourced Network | IntellectualFrontiers
+    site_name: IntellectualFrontiers
+    description: Addressing the reliability challenge in crowdsourced network with an innovative response management system. Ensure trust in responses with credentialing and compliance.
+    images:
+      - url: '/images/no-image.jpg'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@twitter_user'
+    site: '@twitter_user'
+    cardType: summary_large_image
+publishDate: 2023-10-26
 uspto-canonical-id-label: Patent
 uspto-patent-number: US9418355B2
 inventor: Shah N. Shahid

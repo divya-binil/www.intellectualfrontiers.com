@@ -5,54 +5,26 @@ sectiontype: article
 image: '/images/patents/us11270263b2-image-001.png'
 patent-id: US11270263B2
 category: Patent Summaries
-head:
-  [
-    {
-      tag: 'meta',
-      attrs:
-        { name: 'title', content: 'Crowdsourcing Innovation: Revolutionizing Idea Management | IntellectualFrontiers' },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'description',
-          content: 'Discover how crowdsourcing innovation is transforming idea management. Explore a blockchain-based ecosystem for secure idea sharing, evaluation, and digital identity validation.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:title',
-          content: 'Crowdsourcing Innovation: Revolutionizing Idea Management | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:description',
-          content: 'Discover how crowdsourcing innovation is transforming idea management. Explore a blockchain-based ecosystem for secure idea sharing, evaluation, and digital identity validation.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:title',
-          content: 'Crowdsourcing Innovation: Revolutionizing Idea Management | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:description',
-          content: 'Discover how crowdsourcing innovation is transforming idea management. Explore a blockchain-based ecosystem for secure idea sharing, evaluation, and digital identity validation.',
-        },
-    },
-  ]
+metadata:
+  title: 'Crowdsourcing Innovation: Revolutionizing Idea Management'
+  description: Discover how crowdsourcing innovation is transforming idea management. Explore a blockchain-based ecosystem for secure idea sharing, evaluation, and digital identity validation.
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    title: 'Crowdsourcing Innovation: Revolutionizing Idea Management | IntellectualFrontiers'
+    site_name: IntellectualFrontiers
+    description: Discover how crowdsourcing innovation is transforming idea management. Explore a blockchain-based ecosystem for secure idea sharing, evaluation, and digital identity validation.
+    images:
+      - url: '/images/no-image.jpg'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@twitter_user'
+    site: '@twitter_user'
+    cardType: summary_large_image
+publishDate: 2023-10-25
 uspto-canonical-id-label: Patent
 uspto-patent-number: US11270263B2
 inventor: Shah N. Shahid

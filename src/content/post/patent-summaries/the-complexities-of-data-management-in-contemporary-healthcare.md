@@ -5,57 +5,26 @@ sectiontype: article
 image: '/images/patents/us11006920b2-image-01.jpg'
 patent-id: US11006920B2
 category: Patent Summaries
-head:
-  [
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'title',
-          content: 'Optimizing Data Management with Contemporary Healthcare Solutions | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'description',
-          content: 'Unlock the power of contemporary healthcare solutions for efficient data management and real-time patient care in modern medical facilities',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:title',
-          content: 'Optimizing Data Management with Contemporary Healthcare Solutions | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:description',
-          content: 'Unlock the power of contemporary healthcare solutions for efficient data management and real-time patient care in modern medical facilities',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:title',
-          content: 'Optimizing Data Management with Contemporary Healthcare Solutions | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:description',
-          content: 'Unlock the power of contemporary healthcare solutions for efficient data management and real-time patient care in modern medical facilities',
-        },
-    },
-  ]
+metadata:
+  title: Optimizing Data Management with Contemporary Healthcare Solutions
+  description: Unlock the power of contemporary healthcare solutions for efficient data management and real-time patient care in modern medical facilities
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    title: Optimizing Data Management with Contemporary Healthcare Solutions | IntellectualFrontiers
+    site_name: IntellectualFrontiers
+    description: Unlock the power of contemporary healthcare solutions for efficient data management and real-time patient care in modern medical facilities
+    images:
+      - url: '/images/no-image.jpg'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@twitter_user'
+    site: '@twitter_user'
+    cardType: summary_large_image
+publishDate: 2023-10-28
 uspto-canonical-id-label: Patent
 uspto-patent-number: US11006920B2
 inventor: Shah N. Shahid

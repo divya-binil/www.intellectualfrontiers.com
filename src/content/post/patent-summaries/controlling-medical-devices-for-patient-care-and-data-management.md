@@ -5,6 +5,26 @@ sectiontype: article
 image: '/images/patents/us10638999b2-image-001.png'
 patent-id: US10638999B2
 category: Patent Summaries
+metadata:
+  title: 'Efficiency Meets Care: Real-time Health Monitoring and Medical Device Management'
+  description: Discover how efficiency and patient care converge with real-time health monitoring and advanced medical device management.
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    title: 'Efficiency Meets Care: Real-time Health Monitoring and Medical Device Management | IntellectualFrontiers'
+    site_name: IntellectualFrontiers
+    description: Discover how efficiency and patient care converge with real-time health monitoring and advanced medical device management.
+    images:
+      - url: '/images/no-image.jpg'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@twitter_user'
+    site: '@twitter_user'
+    cardType: summary_large_image
+publishDate: 2023-10-25
 uspto-canonical-id-label: Patent
 uspto-patent-number: US10638999B2
 inventor: Shah N. Shahid

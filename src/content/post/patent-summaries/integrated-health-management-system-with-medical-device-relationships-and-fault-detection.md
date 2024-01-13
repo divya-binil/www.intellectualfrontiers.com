@@ -5,53 +5,26 @@ sectiontype: article
 image: '/images/patents/us10320735b2-image-01.png'
 patent-id: US10320735B2
 category: Patent Summaries
-head:
-  [
-    {
-      tag: 'meta',
-      attrs: { name: 'title', content: 'Integrated Health Management System: Fault Detection | IntellectualFrontiers' },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'description',
-          content: 'Explore health management system  with fault detection, enabling seamless device interaction and advanced fault resolution in interconnected networks.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:title',
-          content: 'Integrated Health Management System: Fault Detection | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:description',
-          content: 'Explore health management system  with fault detection, enabling seamless device interaction and advanced fault resolution in interconnected networks.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:title',
-          content: 'Integrated Health Management System: Fault Detection | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:description',
-          content: 'Explore health management system  with fault detection, enabling seamless device interaction and advanced fault resolution in interconnected networks.',
-        },
-    },
-  ]
+metadata:
+  title: 'Integrated Health Management System: Fault Detection'
+  description: Explore health management system with fault detection, enabling seamless device interaction and advanced fault resolution in interconnected networks.
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    title: 'Integrated Health Management System: Fault Detection | IntellectualFrontiers'
+    site_name: IntellectualFrontiers
+    description: Explore health management system with fault detection, enabling seamless device interaction and advanced fault resolution in interconnected networks.
+    images:
+      - url: '/images/no-image.jpg'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@twitter_user'
+    site: '@twitter_user'
+    cardType: summary_large_image
+publishDate: 2023-10-27
 uspto-canonical-id-label: Patent
 uspto-patent-number: US10320735B2
 inventor: Shah N. Shahid

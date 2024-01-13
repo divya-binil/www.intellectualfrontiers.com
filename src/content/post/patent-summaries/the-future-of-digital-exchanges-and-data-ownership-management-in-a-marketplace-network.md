@@ -5,54 +5,26 @@ sectiontype: article
 image: '/images/patent-summaries/us20200250719a1-image-001.png'
 patent-id: US20200250719A1
 category: Patent Summaries
-head:
-  [
-    {
-      tag: 'meta',
-      attrs:
-        { name: 'title', content: 'Digital Transaction Management in Marketplace Networks | IntellectualFrontiers' },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'description',
-          content: 'Explore innovative digital transaction management technology revolutionizing digital exchanges and data ownership in marketplace networks. Enhance security and streamline transactions with cutting-edge solutions.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:title',
-          content: 'Digital Transaction Management in Marketplace Networks | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:description',
-          content: 'Explore innovative digital transaction management technology revolutionizing digital exchanges and data ownership in marketplace networks. Enhance security and streamline transactions with cutting-edge solutions.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:title',
-          content: 'Digital Transaction Management in Marketplace Networks | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:description',
-          content: 'Explore innovative digital transaction management technology revolutionizing digital exchanges and data ownership in marketplace networks. Enhance security and streamline transactions with cutting-edge solutions.',
-        },
-    },
-  ]
+metadata:
+  title: Digital Transaction Management in Marketplace Networks
+  description: Explore innovative digital transaction management technology revolutionizing digital exchanges and data ownership in marketplace networks. Enhance security and streamline transactions with cutting-edge solutions
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    title: Digital Transaction Management in Marketplace Networks | IntellectualFrontiers
+    site_name: IntellectualFrontiers
+    description: Explore innovative digital transaction management technology revolutionizing digital exchanges and data ownership in marketplace networks. Enhance security and streamline transactions with cutting-edge solutions
+    images:
+      - url: '/images/no-image.jpg'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@twitter_user'
+    site: '@twitter_user'
+    cardType: summary_large_image
+publishDate: 2023-10-28
 uspto-canonical-id-label: Patent
 uspto-patent-number: US20200250719A1
 inventor: Shah N. Shahid

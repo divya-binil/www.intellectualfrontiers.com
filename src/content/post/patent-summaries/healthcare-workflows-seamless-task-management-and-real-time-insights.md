@@ -5,57 +5,26 @@ sectiontype: article
 image: '/images/patents/us10403399b2-image-001.png'
 patent-id: US10403399B2
 category: Patent Summaries
-head:
-  [
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'title',
-          content: 'Healthcare Workflows & Automation in Healthcare: Streamlining Tasks | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'description',
-          content: 'Optimize healthcare workflows with seamless task management and real-time insights. Discover how automation in healthcare enhances patient care.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:title',
-          content: 'Healthcare Workflows & Automation in Healthcare: Streamlining Tasks| IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:description',
-          content: 'Optimize healthcare workflows with seamless task management and real-time insights. Discover how automation in healthcare enhances patient care..',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:title',
-          content: 'Healthcare Workflows & Automation in Healthcare: Streamlining Tasks | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:description',
-          content: 'Optimize healthcare workflows with seamless task management and real-time insights. Discover how automation in healthcare enhances patient care..',
-        },
-    },
-  ]
+metadata:
+  title: 'Healthcare Workflows & Automation in Healthcare: Streamlining Tasks'
+  description: Optimize healthcare workflows with seamless task management and real-time insights. Discover how automation in healthcare enhances patient care
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    title: 'Healthcare Workflows & Automation in Healthcare: Streamlining Tasks | IntellectualFrontiers'
+    site_name: IntellectualFrontiers
+    description: Optimize healthcare workflows with seamless task management and real-time insights. Discover how automation in healthcare enhances patient care
+    images:
+      - url: '/images/no-image.jpg'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@twitter_user'
+    site: '@twitter_user'
+    cardType: summary_large_image
+publishDate: 2023-10-28
 uspto-canonical-id-label: Patent
 uspto-patent-number: US10403399B2
 inventor: Shah N. Shahid

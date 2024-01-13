@@ -5,57 +5,26 @@ sectiontype: article
 image: '/images/patents/us11044221b2-image-001.png'
 patent-id: US11044221B2
 category: Patent Summaries
-head:
-  [
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'title',
-          content: 'Elevating Device Collaboration: Benefits of Social Networking | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'description',
-          content: 'Discover the benefits of social networking in revolutionizing device interactions with our inventive system.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:title',
-          content: 'Elevating Device Collaboration: Benefits of Social Networking | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:description',
-          content: 'Discover the benefits of social networking in revolutionizing device interactions with our inventive system.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:title',
-          content: 'Elevating Device Collaboration: Benefits of Social Networking | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:description',
-          content: 'Discover the benefits of social networking in revolutionizing device interactions with our inventive system.',
-        },
-    },
-  ]
+metadata:
+  title: 'Elevating Device Collaboration: Benefits of Social Networking'
+  description: Discover the benefits of social networking in revolutionizing device interactions with our inventive system
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    title: 'Elevating Device Collaboration: Benefits of Social Networking | IntellectualFrontiers'
+    site_name: IntellectualFrontiers
+    description: Discover the benefits of social networking in revolutionizing device interactions with our inventive system
+    images:
+      - url: '/images/no-image.jpg'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@twitter_user'
+    site: '@twitter_user'
+    cardType: summary_large_image
+publishDate: 2023-10-27
 uspto-canonical-id-label: Patent
 uspto-patent-number: US11044221B2
 inventor: Shah N. Shahid

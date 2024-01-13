@@ -5,6 +5,26 @@ sectiontype: article
 image: '/images/patents/us9870591b2-image-1.png'
 patent-id: US9870591B2
 category: Patent Summaries
+metadata:
+  title: 'Enhancing Review with Blockchain: Electronic Document Expertise'
+  description: Utilize blockchain for expert-driven electronic document reviews. Crowdsource expertise, reputation, and officiality to score documents accurately.
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    title: 'Enhancing Review with Blockchain: Electronic Document Expertise | IntellectualFrontiers'
+    site_name: IntellectualFrontiers
+    description: Utilize blockchain for expert-driven electronic document reviews. Crowdsource expertise, reputation, and officiality to score documents accurately.
+    images:
+      - url: '/images/no-image.jpg'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@twitter_user'
+    site: '@twitter_user'
+    cardType: summary_large_image
+publishDate: 2023-10-25
 uspto-canonical-id-label: Patent
 uspto-patent-number: US9870591B2
 inventor: Shah N. Shahid

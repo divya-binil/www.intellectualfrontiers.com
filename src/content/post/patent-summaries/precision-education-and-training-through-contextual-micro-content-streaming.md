@@ -5,46 +5,26 @@ sectiontype: article
 image: '/images/patents/us11423500b2-image-001.png'
 patent-id: US11423500B2
 category: Patent Summaries
-head:
-  [
-    {
-      tag: 'meta',
-      attrs: { name: 'title', content: 'Adaptive Learning via Micro-Content Streaming | IntellectualFrontiers' },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'description',
-          content: 'Discover how micro-content adapts to your needs, ensuring the right knowledge at the right time.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs: { property: 'og:title', content: 'Adaptive Learning via Micro-Content Streaming | IntellectualFrontiers' },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:description',
-          content: 'Discover how micro-content adapts to your needs, ensuring the right knowledge at the right time.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        { name: 'twitter:title', content: 'Adaptive Learning via Micro-Content Streaming | IntellectualFrontiers' },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:description',
-          content: 'Discover how micro-content adapts to your needs, ensuring the right knowledge at the right time.',
-        },
-    },
-  ]
+metadata:
+  title: Adaptive Learning via Micro-Content Streaming
+  description: Discover how micro-content adapts to your needs, ensuring the right knowledge at the right time
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    title: Adaptive Learning via Micro-Content Streaming | IntellectualFrontiers
+    site_name: IntellectualFrontiers
+    description: Discover how micro-content adapts to your needs, ensuring the right knowledge at the right time
+    images:
+      - url: '/images/no-image.jpg'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@twitter_user'
+    site: '@twitter_user'
+    cardType: summary_large_image
+publishDate: 2023-10-28
 uspto-canonical-id-label: Patent
 uspto-patent-number: US11423500B2
 inventor: Shah N. Shahid

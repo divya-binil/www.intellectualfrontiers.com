@@ -7,57 +7,26 @@ tags:
   - astro
   - front-end
 patent-id: US11568401B2
-head:
-  [
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'title',
-          content: 'Cloud-Based Payment System Redefining Digital Transactions | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'description',
-          content: 'Effortlessly manage payments and user data valuation with the Cloud-Based Payment System. Elevate your digital transaction experience.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:title',
-          content: 'Cloud-Based Payment System Redefining Digital Transactions | IntellectualFrontiers	',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:description',
-          content: 'Effortlessly manage payments and user data valuation with the Cloud-Based Payment System. Elevate your digital transaction experience.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:title',
-          content: 'Cloud-Based Payment System Redefining Digital Transactions | IntellectualFrontiers	',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:description',
-          content: 'Effortlessly manage payments and user data valuation with the Cloud-Based Payment System. Elevate your digital transaction experience.',
-        },
-    },
-  ]
+metadata:
+  title: Cloud-Based Payment System Redefining Digital Transactions
+  description: Effortlessly manage payments and user data valuation with the Cloud-Based Payment System. Elevate your digital transaction experience
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    title: Cloud-Based Payment System Redefining Digital Transactions
+    site_name: IntellectualFrontiers
+    description: Effortlessly manage payments and user data valuation with the Cloud-Based Payment System. Elevate your digital transaction experience
+    images:
+      - url: '/images/no-image.jpg'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@twitter_user'
+    site: '@twitter_user'
+    cardType: summary_large_image
+publishDate: 2023-10-18
 uspto-canonical-id-label: Patent
 uspto-patent-number: US11568401B2
 inventor: Shah N. Shahid

@@ -5,57 +5,26 @@ sectiontype: article
 image: '/images/patents/us11561884b2-image-001.png'
 patent-id: US11561884B2
 category: Patent Summaries
-head:
-  [
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'title',
-          content: 'AI-Enhanced Real-Time Feedback and Fault Detection for Network Optimization | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'description',
-          content: 'Harness the power of AI and machine learning for real-time feedback and fault detection to optimize network performance and digital metrics.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:title',
-          content: 'AI-Enhanced Real-Time Feedback and Fault Detection for Network Optimization | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:description',
-          content: 'Harness the power of AI and machine learning for real-time feedback and fault detection to optimize network performance and digital metrics.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:title',
-          content: 'AI-Enhanced Real-Time Feedback and Fault Detection for Network Optimization | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:description',
-          content: 'Harness the power of AI and machine learning for real-time feedback and fault detection to optimize network performance and digital metrics.',
-        },
-    },
-  ]
+metadata:
+  title: AI-Enhanced Real-Time Feedback and Fault Detection for Network Optimization
+  description: Harness the power of AI and machine learning for real-time feedback and fault detection to optimize network performance and digital metrics
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    title: AI-Enhanced Real-Time Feedback and Fault Detection for Network Optimization | IntellectualFrontiers
+    site_name: IntellectualFrontiers
+    description: Harness the power of AI and machine learning for real-time feedback and fault detection to optimize network performance and digital metrics
+    images:
+      - url: '/images/no-image.jpg'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@twitter_user'
+    site: '@twitter_user'
+    cardType: summary_large_image
+publishDate: 2023-10-28
 uspto-canonical-id-label: Patent
 uspto-patent-number: US11561884B2
 inventor: Shah N. Shahid

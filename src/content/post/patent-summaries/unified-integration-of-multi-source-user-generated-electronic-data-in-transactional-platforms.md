@@ -5,57 +5,26 @@ sectiontype: article
 image: '/images/patents/us10839020b2-image-001.png'
 patent-id: US10839020B2
 category: Patent Summaries
-head:
-  [
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'title',
-          content: 'Revolutionizing Data Trust: Multi-Source User-Generated Data Integration | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'description',
-          content: 'Explore advanced technology for seamless integration and trust in multi-source user-generated data, revolutionizing electronic transactions.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:title',
-          content: 'Revolutionizing Data Trust: Multi-Source User-Generated Data Integration | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:description',
-          content: 'Explore advanced technology for seamless integration and trust in multi-source user-generated data, revolutionizing electronic transactions.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:title',
-          content: 'Revolutionizing Data Trust: Multi-Source User-Generated Data Integration | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:description',
-          content: 'Explore advanced technology for seamless integration and trust in multi-source user-generated data, revolutionizing electronic transactions.',
-        },
-    },
-  ]
+metadata:
+  title: 'Revolutionizing Data Trust: Multi-Source User-Generated Data Integration'
+  description: Explore advanced technology for seamless integration and trust in multi-source user-generated data, revolutionizing electronic transactions
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    title: 'Revolutionizing Data Trust: Multi-Source User-Generated Data Integration | IntellectualFrontiers'
+    site_name: IntellectualFrontiers
+    description: Explore advanced technology for seamless integration and trust in multi-source user-generated data, revolutionizing electronic transactions
+    images:
+      - url: '/images/no-image.jpg'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@twitter_user'
+    site: '@twitter_user'
+    cardType: summary_large_image
+publishDate: 2023-10-28
 uspto-canonical-id-label: Patent
 uspto-patent-number: US10839020B2
 inventor: Shah N. Shahid

@@ -5,57 +5,26 @@ image: '/images/patents/us9846896b2-image-001.png'
 sectiontype: article
 patent-id: US9846896B2
 category: Patent Summaries
-head:
-  [
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'title',
-          content: 'Optimizing Aggregate Ratings for Reputation Management: A Fraud-Resistant Approach | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'description',
-          content: "Learn how to enhance your reputation management through the aggregate rating system. Safeguard against fraudulent ratings and improve the trustworthiness of your entity's ratings.",
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:title',
-          content: 'Optimizing Aggregate Ratings for Reputation Management: A Fraud-Resistant Approach | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:description',
-          content: "Learn how to enhance your reputation management through the aggregate rating system. Safeguard against fraudulent ratings and improve the trustworthiness of your entity's ratings.",
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:title',
-          content: 'Optimizing Aggregate Ratings for Reputation Management: A Fraud-Resistant Approach | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:description',
-          content: "Learn how to enhance your reputation management through the aggregate rating system. Safeguard against fraudulent ratings and improve the trustworthiness of your entity's ratings.",
-        },
-    },
-  ]
+metadata:
+  title: 'Optimizing Aggregate Ratings for Reputation Management: A Fraud-Resistant Approach'
+  description: Learn how to enhance your reputation management through the aggregate rating system. Safeguard against fraudulent ratings and improve the trustworthiness of your entity's ratings.
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    title: 'Optimizing Aggregate Ratings for Reputation Management: A Fraud-Resistant Approach | IntellectualFrontiers'
+    site_name: IntellectualFrontiers
+    description: Learn how to enhance your reputation management through the aggregate rating system. Safeguard against fraudulent ratings and improve the trustworthiness of your entity's ratings.
+    images:
+      - url: '/images/no-image.jpg'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@twitter_user'
+    site: '@twitter_user'
+    cardType: summary_large_image
+publishDate: 2023-10-19
 uspto-canonical-id-label: Patent
 uspto-patent-number: US9846896B2
 inventor: Shah N. Shahid

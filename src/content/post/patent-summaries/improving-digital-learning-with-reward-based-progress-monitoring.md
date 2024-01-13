@@ -5,45 +5,26 @@ sectiontype: article
 image: '/images/patent-summaries/us20210143982a1-image-001.png'
 patent-id: US20210143982A1
 category: Patent Summaries
-head:
-  [
-    {
-      tag: 'meta',
-      attrs: { name: 'title', content: 'Transform Your Digital Learning Ecosystem | IntellectualFrontiers' },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'description',
-          content: 'Transform your digital learning ecosystem with our pioneering approach, focusing on personalization and rewarding progress.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs: { property: 'og:title', content: 'Transform Your Digital Learning Ecosystem | IntellectualFrontiers' },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:description',
-          content: 'Transform your digital learning ecosystem with our pioneering approach, focusing on personalization and rewarding progress..',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs: { name: 'twitter:title', content: 'Transform Your Digital Learning Ecosystem | IntellectualFrontiers' },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:description',
-          content: 'Transform your digital learning ecosystem with our pioneering approach, focusing on personalization and rewarding progress..',
-        },
-    },
-  ]
+metadata:
+  title: Transform Your Digital Learning Ecosystem
+  description: Transform your digital learning ecosystem with our pioneering approach, focusing on personalization and rewarding progress
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    title: Transform Your Digital Learning Ecosystem | IntellectualFrontiers
+    site_name: IntellectualFrontiers
+    description: Transform your digital learning ecosystem with our pioneering approach, focusing on personalization and rewarding progress
+    images:
+      - url: '/images/no-image.jpg'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@twitter_user'
+    site: '@twitter_user'
+    cardType: summary_large_image
+publishDate: 2023-10-28
 uspto-canonical-id-label: Patent
 uspto-patent-number: US20210143982A1
 inventor: Shah N. Shahid

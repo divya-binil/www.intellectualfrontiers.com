@@ -5,57 +5,26 @@ sectiontype: article
 image: '/images/patents/us9525753b2-image-001.png'
 patent-id: US9525753B2
 category: Patent Summaries
-head:
-  [
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'title',
-          content: 'Healthcare Transformation with Predictive Analytics Engine and NFC Channel | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'description',
-          content: 'Witness a healthcare revolution with the integration of predictive analytics Engine and NFC channels, fostering device cooperation in a socially aware network.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:title',
-          content: 'Healthcare Transformation with Predictive Analytics Engine and NFC Channel | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:description',
-          content: 'Witness a healthcare revolution with the integration of predictive analytics Engine and NFC channels, fostering device cooperation in a socially aware network.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:title',
-          content: 'Healthcare Transformation with Predictive Analytics Engine and NFC Channel | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:description',
-          content: 'Witness a healthcare revolution with the integration of predictive analytics Engine and NFC channels, fostering device cooperation in a socially aware network.',
-        },
-    },
-  ]
+metadata:
+  title: Healthcare Transformation with Predictive Analytics Engine and NFC Channel
+  description: Witness a healthcare revolution with the integration of predictive analytics Engine and NFC channels, fostering device cooperation in a socially aware network
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    title: Healthcare Transformation with Predictive Analytics Engine and NFC Channel | IntellectualFrontiers
+    site_name: IntellectualFrontiers
+    description: Witness a healthcare revolution with the integration of predictive analytics Engine and NFC channels, fostering device cooperation in a socially aware network
+    images:
+      - url: '/images/no-image.jpg'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@twitter_user'
+    site: '@twitter_user'
+    cardType: summary_large_image
+publishDate: 2023-10-27
 uspto-canonical-id-label: Patent
 uspto-patent-number: US9525753B2
 inventor: Shah N. Shahid

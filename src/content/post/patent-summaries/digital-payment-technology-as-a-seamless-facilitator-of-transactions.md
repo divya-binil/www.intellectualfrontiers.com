@@ -5,47 +5,26 @@ sectiontype: article
 image: '/images/patents/us10643208b2-image-001.png'
 patent-id: US10643208B2
 category: Patent Summaries
-head:
-  [
-    {
-      tag: 'meta',
-      attrs: { name: 'title', content: 'Seamless Transactions: Digital Payment Technology | IntellectualFrontiers' },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'description',
-          content: 'Seamless Transactions: Explore digital payment technology revolutionizing transactions with data worth and user consent, ensuring a dynamic and secure experience in the evolving landscape.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        { property: 'og:title', content: 'Seamless Transactions: Digital Payment Technology | IntellectualFrontiers' },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:description',
-          content: 'Seamless Transactions: Explore digital payment technology revolutionizing transactions with data worth and user consent, ensuring a dynamic and secure experience in the evolving landscape.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        { name: 'twitter:title', content: 'Seamless Transactions: Digital Payment Technology | IntellectualFrontiers' },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:description',
-          content: 'Seamless Transactions: Explore digital payment technology revolutionizing transactions with data worth and user consent, ensuring a dynamic and secure experience in the evolving landscape.',
-        },
-    },
-  ]
+metadata:
+  title: 'Seamless Transactions: Digital Payment Technology'
+  description: 'Seamless Transactions: Explore digital payment technology revolutionizing transactions with data worth and user consent, ensuring a dynamic and secure experience in the evolving landscape'
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    title: 'Seamless Transactions: Digital Payment Technology | IntellectualFrontiers'
+    site_name: IntellectualFrontiers
+    description: 'Seamless Transactions: Explore digital payment technology revolutionizing transactions with data worth and user consent, ensuring a dynamic and secure experience in the evolving landscape'
+    images:
+      - url: '/images/no-image.jpg'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@twitter_user'
+    site: '@twitter_user'
+    cardType: summary_large_image
+publishDate: 2023-10-26
 uspto-canonical-id-label: Patent
 uspto-patent-number: US10643208B2
 inventor: Shah N. Shahid

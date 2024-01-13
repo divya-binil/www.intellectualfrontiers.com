@@ -8,57 +8,26 @@ tags:
   - astro
   - front-end
 patent-id: US11651459B2
-head:
-  [
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'title',
-          content: 'Advanced Precision Learning Techniques for Pioneering Innovations | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'description',
-          content: 'Discover the transformative power of advanced precision learning, driving groundbreaking innovations across diverse industry landscapes.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:title',
-          content: 'Advanced Precision Learning Techniques for Pioneering Innovations | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:description',
-          content: 'Discover the transformative power of advanced precision learning, driving groundbreaking innovations across diverse industry landscapes.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:title',
-          content: 'Advanced Precision Learning Techniques for Pioneering Innovations | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:description',
-          content: 'Discover the transformative power of advanced precision learning, driving groundbreaking innovations across diverse industry landscapes.',
-        },
-    },
-  ]
+metadata:
+  title: Advanced Precision Learning Techniques for Pioneering Innovations
+  description: Discover the transformative power of advanced precision learning, driving groundbreaking innovations across diverse industry landscapes
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    title: Advanced Precision Learning Techniques for Pioneering Innovations
+    site_name: 'IntellectualFrontiers'
+    description: Discover the transformative power of advanced precision learning, driving groundbreaking innovations across diverse industry landscapes
+    images:
+      - url: '/images/no-image.jpg'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@twitter_user'
+    site: '@twitter_user'
+    cardType: summary_large_image
+publishDate: 2023-12-19
 uspto-canonical-id-label: Patent
 uspto-patent-number: US11651459B2
 inventor: Shah N. Shahid

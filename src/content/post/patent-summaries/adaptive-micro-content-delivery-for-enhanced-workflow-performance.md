@@ -4,54 +4,28 @@ excerpt: Traditional educational and training paradigms are increasingly observe
 sectiontype: article
 patent-id: US11651459B2
 category: Patent Summaries
-head:
-  [
-    {
-      tag: 'meta',
-      attrs:
-        { name: 'title', content: 'Intelligent Workflow Automation for Precision Education | IntellectualFrontiers' },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'description',
-          content: 'Elevate task performance with contextual micro-content streaming. Achieve precision education through intelligent workflow automation.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:title',
-          content: 'Intelligent Workflow Automation for Precision Education | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:description',
-          content: 'Elevate task performance with contextual micro-content streaming. Achieve precision education through intelligent workflow automation.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:title',
-          content: 'Intelligent Workflow Automation for Precision Education |IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:description',
-          content: 'Elevate task performance with contextual micro-content streaming. Achieve precision education through intelligent workflow automation.',
-        },
-    },
-  ]
+metadata:
+  title: Intelligent Workflow Automation for Precision Education | IntellectualFrontiers
+  description: Elevate task performance with contextual micro-content streaming. Achieve precision education through intelligent workflow automation.
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    title:
+      content: Intelligent Workflow Automation for Precision Education | IntellectualFrontiers
+    site_name: IntellectualFrontiers
+    description:
+      content: Elevate task performance with contextual micro-content streaming. Achieve precision education through intelligent workflow automation.
+    images:
+      - url: '/images/no-image.jpg'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@twitter_user'
+    site: '@twitter_user'
+    cardType: summary_large_image
+publishDate: 2023-10-18
 uspto-canonical-id-label: Patent
 uspto-patent-number: US11651459B2
 inventor: Shah N. Shahid
