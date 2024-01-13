@@ -5,57 +5,25 @@ sectiontype: article
 category: Blogs
 image: '/images/no-image.jpg'
 patent-id: US11568401B2
-head:
-  [
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'title',
-          content: 'Strategic Patent Acquisition for Competitive Business Growth | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'description',
-          content: 'Explore how strategic patent acquisition and management can drive business innovation and competitive advantage in the technology sector.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:title',
-          content: 'Strategic Patent Acquisition for Competitive Business Growth | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          property: 'og:description',
-          content: 'Explore how strategic patent acquisition and management can drive business innovation and competitive advantage in the technology sector.',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:title',
-          content: 'Strategic Patent Acquisition for Competitive Business Growth | IntellectualFrontiers',
-        },
-    },
-    {
-      tag: 'meta',
-      attrs:
-        {
-          name: 'twitter:description',
-          content: 'Explore how strategic patent acquisition and management can drive business innovation and competitive advantage in the technology sector.',
-        },
-    },
-  ]
+metadata:
+  title: Strategic Patent Acquisition for Competitive Business Growth
+  description: 'Explore how strategic patent acquisition and management can drive business innovation and competitive advantage in the technology sector'
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    title: Strategic Patent Acquisition for Competitive Business Growth | IntellectualFrontiers
+    site_name: 'IntellectualFrontiers'
+    description: Explore how strategic patent acquisition and management can drive business innovation and competitive advantage in the technology sector
+    images:
+      - url: '/images/no-image.jpg'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@twitter_user'
+    site: '@twitter_user'
+    cardType: summary_large_image
 url: '/blogs/maximizing-competitive-edge-strategic-patent-acquisition-and-management/'
 ---
 

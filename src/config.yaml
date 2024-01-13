@@ -1,6 +1,6 @@
 site:
-  name: AstroWind
-  site: 'https://astrowind.vercel.app'
+  name: IntellectualFrontiers
+  site: 'https://intellectual-frontiers.deno.dev/'
   base: '/'
   trailingSlash: false
 
@@ -9,14 +9,14 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: AstroWind
-    template: '%s — AstroWind'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+    default: IntellectualFrontiers
+    template: '%s | IntellectualFrontiers'
+  description: "Shahid Shah's Intellectual Property Holdings"
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: AstroWind
+    site_name: IntellectualFrontiers
     images:
       - url: '~/assets/images/default.png'
         width: 1200
@@ -47,7 +47,7 @@ apps:
       pathname: 'blog' # Blog main path, you can change this to "articles" (/articles)
       robots:
         index: true
-   
+
     category:
       isEnabled: true
       pathname: 'category' # Category main path /category/some-category, you can change this to "group" (/group/some-category)
@@ -100,7 +100,7 @@ apps:
       pathname: 'article' # Blog main path, you can change this to "articles" (/articles)
       robots:
         index: true
-   
+
     category:
       isEnabled: true
       pathname: 'category' # Category main path /category/some-category, you can change this to "group" (/group/some-category)
@@ -111,8 +111,8 @@ apps:
       isEnabled: true
       pathname: 'tag' # Tag main path /tag/some-tag, you can change this to "topics" (/topics/some-category)
       robots:
-        index: false       
-    
+        index: false
+
 analytics:
   vendors:
     googleAnalytics:
