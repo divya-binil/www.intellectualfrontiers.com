@@ -3,6 +3,7 @@ title: Computer-controlled precision education and training
 excerpt: A system for streaming of contextual micro-content blocks for a workflow task to facilitate task performance by a user. The system includes a context sensing engine that processes one or more context inputs and generates an output based on the context inputs received from a front-end context monitoring appliance.
 sectiontype: patent
 uspto-canonical-id-label: Patent
+publishDate: 2023-05-16
 uspto-patent-number: US11651459B2
 inventor: Shah N. Shahid
 owner-current-assignee: INTELLECTUAL FRONTIERS LLC

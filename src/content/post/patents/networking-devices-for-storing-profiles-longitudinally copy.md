@@ -3,6 +3,7 @@ title: Networking devices for storing profiles longitudinally
 excerpt: A method and networking device for tracking change in a computer executable profile includes retrieving computer executable profile information. The method and device may include staging the computer executable profile information in cloud staging repositories.
 sectiontype: patent
 uspto-canonical-id-label: Patent
+publishDate: 2020-03-10
 uspto-patent-number: US10586069B2
 inventor: Shah N. Shahid
 owner-current-assignee: INTELLECTUAL FRONTIERS LLC

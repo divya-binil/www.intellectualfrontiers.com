@@ -3,6 +3,7 @@ title: Computer-controlled precision education and training
 excerpt: An electronic evaluation device and method thereof for optimizing an operation of computer-controlled metric appliances in a network.
 uspto-canonical-id-label: Patent
 sectiontype: patent
+publishDate: 2023-01-24
 uspto-patent-number: US11561884B2
 inventor: Shah N. Shahid
 owner-current-assignee: INTELLECTUAL FRONTIERS LLC

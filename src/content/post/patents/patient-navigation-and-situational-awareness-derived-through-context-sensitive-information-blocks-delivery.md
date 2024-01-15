@@ -3,7 +3,8 @@ title: Patient navigation and situational awareness derived through context-sens
 excerpt: A surveillance system for monitoring of Electronic Medical Record (EMR) application navigation through a plurality of navigation interfaces of an EMR application. The system includes an EMR system that includes the EMR application.
 sectiontype: patent
 uspto-canonical-id-label: Patent
-uspto-patent-number: US-10089492-B2
+publishDate: 2018-10-02
+uspto-patent-number: US10089492B2
 inventor: Shah N. Shahid
 owner-current-assignee: Netspective Communications LLC
 patent-owners-rights:

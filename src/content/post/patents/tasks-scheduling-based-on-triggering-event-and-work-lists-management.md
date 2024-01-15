@@ -3,6 +3,7 @@ title: Tasks scheduling based on triggering event and work lists management
 excerpt: A computer-implemented method for scheduling, tracking, and executing performance of a set of tasks includes defining a time series, associating a current time occurrence on the time series, and associating a future time occurrence on the time series.
 sectiontype: patent
 uspto-canonical-id-label: Patent
+publishDate: 2019-09-03
 uspto-patent-number: US10403399B2
 inventor: Shah N. Shahid
 owner-current-assignee: INTELLECTUAL FRONTIERS LLC

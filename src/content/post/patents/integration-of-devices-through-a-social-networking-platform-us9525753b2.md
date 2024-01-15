@@ -2,6 +2,7 @@
 title: Integration of devices through a social networking platform
 sectiontype: patent
 uspto-canonical-id-label: Patent
+publishDate: 2016-12-20
 uspto-patent-number: US9525753B2
 inventor: Shah N. Shahid
 owner-current-assignee: INTELLECTUAL FRONTIERS LLC

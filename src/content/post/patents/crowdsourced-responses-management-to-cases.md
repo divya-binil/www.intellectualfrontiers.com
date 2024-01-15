@@ -3,6 +3,7 @@ title: Crowdsourced responses management to cases
 excerpt: A response management system and method configured to allow management of responses to a case submitted by an entity in a crowdsourced network.
 sectiontype: patent
 uspto-canonical-id-label: Patent
+publishDate: 2016-08-16
 uspto-patent-number: US9418355B2
 inventor: Shah N. Shahid
 owner-current-assignee: Netspective Communications LLC

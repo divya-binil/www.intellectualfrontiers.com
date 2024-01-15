@@ -2,6 +2,7 @@
 title: Aggregation of rating indicators
 excerpt: A computer-implemented method and system for publishing an aggregate rating indicator based on a plurality of discrete rating indicators associated with a rated entity.
 sectiontype: patent
+publishDate: 2019-11-26
 uspto-canonical-id-label: Patent
 uspto-patent-number: US10489830B2
 inventor: Shah N. Shahid

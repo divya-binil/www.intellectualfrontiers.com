@@ -3,7 +3,8 @@ title: System for controlling medical devices
 excerpt: Controlling a multi-device module includes a physiological sensor configured to sense physiological characteristics of a subject and generate a signal indicative of an instantaneous physiological state.
 sectiontype: patent
 uspto-canonical-id-label: Patent
-uspto-patent-number: US-11006920-B2
+publishDate: 2021-05-18
+uspto-patent-number: US11006920B2
 inventor: Shah N. Shahid
 owner-current-assignee: INTELLECTUAL FRONTIERS LLC
 patent-owners-rights:

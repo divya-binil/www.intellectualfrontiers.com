@@ -3,7 +3,8 @@ title: Multi-source user generated electronic data integration in a blockchain-b
 excerpt: A system is provided for aggregating user generated electronic data associated with a user from a plurality of computing machines located separately without user intervention.
 sectiontype: patent
 uspto-canonical-id-label: Patent
-uspto-patent-number: US-10839020-B2
+publishDate: 2020-11-17
+uspto-patent-number: US10839020B2
 inventor: Shah N. Shahid
 owner-current-assignee: Netspective Communications LLC
 patent-owners-rights:

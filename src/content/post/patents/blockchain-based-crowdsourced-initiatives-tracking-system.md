@@ -2,6 +2,7 @@
 title: Blockchain-based crowdsourced initiatives tracking system
 excerpt: An embodiment herein provides a blockchain configured crowdsourced initiatives exchange ecosystem that includes a plurality of computing terminals associated with respective plurality of innovators which serve as sources of initiatives identified as innovations and respective sub-innovations.
 uspto-canonical-id-label: Patent
+publishDate: 2022-03-08
 sectiontype: patent
 uspto-patent-number: US11270263B2
 inventor: Shah N. Shahid

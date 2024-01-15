@@ -2,6 +2,7 @@
 title: Computer-executable and traceable metric queues system
 excerpt: A computer-controlled system for digitally evaluating one or more computer-executable and traceable metrics associated with a machine at a node.
 sectiontype: patent
+publishDate: 2022-07-12
 uspto-canonical-id-label: Patent
 uspto-patent-number: US11388077B2
 inventor: Shah N. Shahid

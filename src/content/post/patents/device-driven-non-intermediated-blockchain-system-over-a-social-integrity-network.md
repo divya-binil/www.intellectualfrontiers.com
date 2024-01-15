@@ -3,6 +3,7 @@ title: Device-driven non-intermediated blockchain system over a social integrity
 excerpt: A blockchain configured device-driven disintermediated distributed system for facilitating multi-faceted communication over a network.
 sectiontype: patent
 uspto-canonical-id-label: Patent
+publishDate: 2019-11-26
 uspto-patent-number: US10490304B2
 inventor: Shah N. Shahid
 owner-current-assignee: Netspective Communications LLC

@@ -3,6 +3,7 @@ title: Self-controlled digital authorization over communication networks
 excerpt: A system for authorizing an external device to access computerized records. The system includes a server. The server includes a computerized records data-store.
 sectiontype: patent
 uspto-canonical-id-label: Patent
+publishDate: 2021-03-30
 uspto-patent-number: US10963585B2
 inventor: Shah N. Shahid
 owner-current-assignee: Netspective Communications LLC

@@ -2,8 +2,9 @@
 title: Computer system for performing reusable software application development from a set of declarative executable specifications
 excerpt: A computer system executing a method for performing reusable software application development comprises integrating a data processing system, providing a set of keywords and attributes.
 sectiontype: patent
+publishDate: 2005-05-02
 uspto-canonical-id-label: Patent
-uspto-patent-number: US-7039898-B2
+uspto-patent-number: US7039898B2
 inventor: Shah N. Shahid
 owner-current-assignee: Netspective Communications LLC
 patent-owners-rights:

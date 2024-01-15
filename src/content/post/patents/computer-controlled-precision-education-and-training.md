@@ -3,7 +3,8 @@ title: Computer-controlled precision education and training
 excerpt: A system for streaming of contextual micro-content blocks for a workflow task to facilitate task performance by a user.
 sectiontype: patent
 uspto-canonical-id-label: Patent
-uspto-patent-number: US-11423500-B2
+publishDate: 2022-08-23
+uspto-patent-number: US11423500B2
 inventor: Shah N. Shahid
 owner-current-assignee: INTELLECTUAL FRONTIERS LLC
 patent-owners-rights:

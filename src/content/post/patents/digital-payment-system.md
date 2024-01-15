@@ -2,7 +2,8 @@
 title: Digital payment system
 uspto-canonical-id-label: Patent
 sectiontype: patent
-uspto-patent-number: US-10643208-B2
+publishDate: 2020-05-05
+uspto-patent-number: US10643208B2
 inventor: Shah N. Shahid
 owner-current-assignee: INTELLECTUAL FRONTIERS LLC
 patent-owners-rights:
