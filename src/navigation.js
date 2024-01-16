@@ -51,7 +51,7 @@ export const headerData = {
 export const footerData = {
   links: [
     {
-      title: 'Categoris',
+      title: 'Categories',
       links: [
         { text: 'Patent Summaries', href: '/category/patent-summaries' },
         { text: 'Market Potential', href: '/category/market-potential' },
