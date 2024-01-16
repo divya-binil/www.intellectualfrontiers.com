@@ -2,7 +2,8 @@
 title: Revolutionizing Healthcare - The Future of Medical Devices Operation Automation
 excerpt: Many medical devices still require manual setup and operation, which introduces the potential for human error.
 sectiontype: article
-category: Use Cases
+category: Market Potential
+publishDate: 2023-10-28
 tags:
   - astro
   - front-end
@@ -29,7 +30,7 @@ abstract-of-the-invention-label:
 abstract-of-the-invention:
 problem-solved-by-the-invention:
 topics:
-image: '/images/use-cases/use-case-us-11006920-b2-1.png'
+image: '/images/market-potential/market-potential-us-11006920-b2-1.png'
 external-links: https://patents.google.com/patent/US11006920B2/
 downloadable-documents:
   - anchor_text: Download PDF
@@ -100,7 +101,7 @@ effectively.
 
 <div class="center-elements">
 
-![Figure 1](/images/use-cases/use-case-us-11006920-b2-1.png)
+![Figure 1](/images/market-potential/market-potential-us-11006920-b2-1.png)
 
 </div>
 
@@ -337,7 +338,7 @@ factor in enhancing patient safety and improving overall outcomes.
 
 <div class="center-elements">
 
-![Figure 2](/images/use-cases/use-case-us-11006920-b2-2.png)
+![Figure 2](/images/market-potential/market-potential-us-11006920-b2-2.png)
 
 </div>
 
@@ -560,7 +561,7 @@ billion by 2030, as detailed in a report by Fortune Business Insights.
 
 <div class="center-elements">
 
-![Figure 3](/images/use-cases/use-case-us-11006920-b2-3.png)
+![Figure 3](/images/market-potential/market-potential-us-11006920-b2-3.png)
 
 </div>
 
@@ -588,7 +589,7 @@ Valued by Markets and Markets at \$84.2 billion by 2027 and boasting a CAGR of 2
 
 <div class="center-elements">
 
-![Figure 4](/images/use-cases/use-case-us-11006920-b2-4.png)
+![Figure 4](/images/market-potential/market-potential-us-11006920-b2-4.png)
 
 </div>
 

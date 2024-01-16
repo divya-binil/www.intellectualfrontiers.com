@@ -2,7 +2,8 @@
 title: Service Delivery Automation - Growth Opportunities with Innovative Patent Portfolio
 excerpt: Service delivery market is poised for unprecedented growth with an astronomical surge signifying not just a trend but a transformative shift in how enterprises operate and deliver services.
 sectiontype: article
-category: Use Cases
+category: Market Potential
+publishDate: 2023-11-22
 tags:
   - astro
   - front-end
@@ -29,7 +30,7 @@ abstract-of-the-invention-label:
 abstract-of-the-invention:
 problem-solved-by-the-invention:
 topics:
-image: '/images/use-cases/use-case-us-11475441-b2-1.png'
+image: '/images/market-potential/market-potential-us-11475441-b2-1.png'
 external-links: https://patents.google.com/patent/US11475441B2/
 downloadable-documents:
   - anchor_text: Download PDF
@@ -88,9 +89,9 @@ The adoption of service delivery automation has [increased in various industries
 
 <div class="center-elements">
 
-![Service Delivery Automation Market by Component](/images/use-cases/use-case-us-11475441-b2-1.png)
+![Service Delivery Automation Market by Component](/images/market-potential/market-potential-us-11475441-b2-1.png)
 
-![Service Delivery Automation Market by Region](/images/use-cases/use-case-us-11475441-b2-2.png)
+![Service Delivery Automation Market by Region](/images/market-potential/market-potential-us-11475441-b2-2.png)
 
 Source: ([alliedmarketresearch.com](https://www.alliedmarketresearch.com/service-delivery-automation-market))
 
@@ -132,7 +133,7 @@ As far as recent innovation and patent landscape of service delivery automation 
 
 <div class="center-elements">
 
-![Patents Published in 2021 Chart](/images/use-cases/use-case-us-11475441-b2-4.png)
+![Patents Published in 2021 Chart](/images/market-potential/market-potential-us-11475441-b2-4.png)
 
 </div>
 
@@ -180,7 +181,7 @@ The service delivery automation landscape is rich with opportunities, as evidenc
 
 <div class="center-elements">
 
-![Niche application areas of service delivery automation technologies chart](/images/use-cases/use-case-us-11475441-b2-5.png)
+![Niche application areas of service delivery automation technologies chart](/images/market-potential/market-potential-us-11475441-b2-5.png)
 
 </div>
 
@@ -190,7 +191,7 @@ The landscape of service delivery automation, as illuminated by the 2021 patent 
 
 <div class="center-elements">
 
-![Chart](/images/use-cases/use-case-us-11475441-b2-6.png)
+![Chart](/images/market-potential/market-potential-us-11475441-b2-6.png)
 
 </div>
 
@@ -342,7 +343,7 @@ The elevated cost of implementing high-performance service delivery automation s
 
 <div class="center-elements">
 
-![Key Challenges Chart](/images/use-cases/use-case-us-11475441-b2-3.png)
+![Key Challenges Chart](/images/market-potential/market-potential-us-11475441-b2-3.png)
 
 </div>
 

@@ -2,7 +2,8 @@
 title: Digital Payment Systems- Evolving Markets and Emerging Trends
 excerpt: The Digital Payments market is set to witness significant growth in the coming years according to reports by Statista
 sectiontype: article
-category: Use Cases
+category: Market Potential
+publishDate: 2023-12-19
 tags:
   - astro
   - front-end
@@ -29,7 +30,7 @@ abstract-of-the-invention-label:
 abstract-of-the-invention:
 problem-solved-by-the-invention:
 topics:
-image: '/images/use-cases/use-cases-us-10643208-B2-1.png'
+image: '/images/market-potential/market-potential-us-10643208-B2-1.png'
 external-links: https://patents.google.com/patent/US10643208B2/
 downloadable-documents:
   - anchor_text: Download PDF
@@ -53,7 +54,7 @@ to amass a total transaction value of US\$3,639.00 billion in 2023.
 
 <div class="center-elements">
 
-![Figure 1](/images/use-cases/use-cases-us-10643208-B2-1.png)
+![Figure 1](/images/market-potential/market-potential-us-10643208-B2-1.png)
 
 </div>
 
@@ -319,7 +320,7 @@ innovations.
 
 <div class="center-elements">
 
-![Figure 1](/images/use-cases/use-cases-us-10643208-B2-2.png)
+![Figure 1](/images/market-potential/market-potential-us-10643208-B2-2.png)
 
 </div>
 
@@ -637,7 +638,7 @@ security, and optimized value extraction.
 
 <div class="center-elements">
 
-![Figure 1](/images/use-cases/use-cases-us-10643208-B2-3.png)
+![Figure 1](/images/market-potential/market-potential-us-10643208-B2-3.png)
 
 </div>
 
@@ -719,7 +720,7 @@ efficient payment solutions for the future.
 
 <div class="center-elements">
 
-![Figure 1](/images/use-cases/use-cases-us-10643208-B2-01.png)
+![Figure 1](/images/market-potential/market-potential-us-10643208-B2-01.png)
 
 </div>
 

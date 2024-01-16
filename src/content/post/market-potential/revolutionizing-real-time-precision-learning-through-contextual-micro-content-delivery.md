@@ -1,9 +1,10 @@
 ---
 title: Revolutionizing Real-Time Precision Learning Through Contextual Micro-Content Delivery
 excerpt: The demand for knowledge and skills has reached unprecedented levels. Traditional, one-size-fits-all training and education models are no longer sufficient to keep up with the rapid pace of change.
-image: '/images/use-cases/use-cases-us11651459b2-1.jpg'
+image: '/images/market-potential/market-potential-us11651459b2-1.jpg'
 sectiontype: article
-category: Use Cases
+category: Market Potential
+publishDate: 2023-12-19
 tags:
   - astro
   - front-end
@@ -27,7 +28,6 @@ metadata:
     handle: '@twitter_user'
     site: '@twitter_user'
     cardType: summary_large_image
-publishDate: 2023-12-19
 uspto-canonical-id-label: Patent
 uspto-patent-number: US11651459B2
 inventor: Shah N. Shahid
@@ -94,7 +94,7 @@ dynamic approach to learning and skill development.
 
 <div class="center-elements">
 
-![Figure 1](/images/use-cases/use-cases-us11651459b2-1.jpg)
+![Figure 1](/images/market-potential/market-potential-us11651459b2-1.jpg)
 
 </div>
 
@@ -127,7 +127,7 @@ is driven by several factors:
 
 <div class="center-elements">
 
-![Figure 2](/images/use-cases/use-cases-us11651459b2-2.jpg)
+![Figure 2](/images/market-potential/market-potential-us11651459b2-2.jpg)
 
 </div>
 
@@ -216,7 +216,7 @@ attributed to several factors:
 
 <div class="center-elements">
 
-![Figure 3](/images/use-cases/use-cases-us11651459b2-3.png)
+![Figure 3](/images/market-potential/market-potential-us11651459b2-3.png)
 
 </div>
 
@@ -333,7 +333,7 @@ offers a promising path to overcoming these challenges.
 
 <div class="center-elements">
 
-![Figure 4](/images/use-cases/use-cases-us11651459b2-4.png)
+![Figure 4](/images/market-potential/market-potential-us11651459b2-4.png)
 
 </div>
 

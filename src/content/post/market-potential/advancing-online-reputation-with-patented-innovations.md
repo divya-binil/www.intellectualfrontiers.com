@@ -2,7 +2,8 @@
 title: Advancing Online Reputation with Patented Innovations
 excerpt: Businesses across the globe, recognizing the crucial role of trust in Online Reputation Management (ORM), are diligently prioritizing the protection and enhancement of their online image.
 sectiontype: article
-category: Use Cases
+category: Market Potential
+publishDate: 2023-12-13
 tags:
   - astro
   - front-end
@@ -30,7 +31,7 @@ abstract-of-the-invention:
 problem-solved-by-the-invention:
 topics:
 images:
-image: '/images/use-cases/use-case-us-10489830-b2-1.png'
+image: '/images/market-potential/market-potential-us-10489830-b2-1.png'
 external-links: https://patents.google.com/patent/US10489830B2/
 downloadable-documents:
   - anchor_text: Download PDF
@@ -73,9 +74,9 @@ Social media has a significant impact on purchasing decisions[. 76% of American 
 
 The ORM services market can be segmented into Review Management, Identity Monitoring, Search Engine Suppression, and Internet Removal. In terms of services, Review Management is the largest segment. Based on application, the market can be divided into small and medium-sized enterprises and Large Enterprises. In terms of application, Large Enterprises are the largest segment.
 
-<div class="center-elements">
+<div class="flex flex-col items-center">
 
-![](/images/use-cases/use-case-us-10489830-b2-1.png)
+![Online Reputation Management Services Market Share](/images/market-potential/market-potential-us-10489830-b2-1.png)
 
 Source: ([businessresearchinsights.com](https://www.businessresearchinsights.com/market-reports/online-reputation-management-services-market-103046))
 
@@ -87,9 +88,9 @@ For industry stakeholders, a thorough understanding of technological evolution a
 
 The following statistics chart the course of patenting trends in the industry, providing a quantitative foundation for our exploration.
 
-<div class="center-elements">
+<div class="flex justify-center">
 
-![](/images/use-cases/use-case-us-10489830-b2-2.png)
+![Patenting Trends](/images/market-potential/market-potential-us-10489830-b2-2.png)
 
 </div>
 
@@ -182,9 +183,9 @@ Recognizing the diverse needs of businesses, patents in specialized business ser
 
 ## <a name="_hlk152065455"></a>**Overcoming Top Challenges in Today’s Online Reputation Management**
 
-<div class="center-elements">
+<div class="flex justify-center">
 
-![](/images/use-cases/use-case-us-10489830-b2-3.png)
+![Overcoming Top Challenges in Today’s Online Reputation Management](/images/market-potential/market-potential-us-10489830-b2-3.png)
 
 </div>
 
@@ -210,9 +211,9 @@ Unforeseen events can trigger reputation crises. New technological advancements 
 
 ## **Whitespaces and Opportunities in Online Reputation Management**
 
-<div class="center-elements">
+<div class="flex justify-center">
 
-![](/images/use-cases/use-case-us-10489830-b2-4.png)
+![Whitespaces and Opportunities in Online Reputation Management](/images/market-potential/market-potential-us-10489830-b2-4.png)
 
 </div>
 
@@ -407,9 +408,9 @@ For potential licensees and buyers, the key takeaway is straightforward: strateg
 
 ## **Applications of the Patented ORM Technology Across Industries**
 
-<div class="center-elements">
+<div class="flex justify-center">
 
-![](/images/use-cases/use-case-us-10489830-b2-5.png)
+![Applications of the Patented ORM Technology Across Industries](/images/market-potential/market-potential-us-10489830-b2-5.png)
 
 </div>
 
