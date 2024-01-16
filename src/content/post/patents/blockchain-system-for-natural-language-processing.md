@@ -3,7 +3,8 @@ title: Blockchain system for natural language processing
 excerpt: A blockchain configured system includes a router and a blockchain configured record bank. The router collects data and converts it in a format in accordance with a defined standard.
 uspto-canonical-id-label: Patent
 sectiontype: patent
-uspto-patent-number: US-10984913-B2
+patent-id: US10984913B2
+uspto-patent-number: US10984913B2
 inventor: Shah N. Shahid
 owner-current-assignee: INTELLECTUAL FRONTIERS LLC
 patent-owners-rights:

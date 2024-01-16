@@ -19,7 +19,7 @@ application-date:
 issue-date:
 expiry-date:
 patent-status: Active
-url: '/use-cases/revolutionizing-healthcare-the-future-of-medical-devices-operation-automation'
+url: '/market-potential/revolutionizing-healthcare-the-future-of-medical-devices-operation-automation'
 uspto-patent-pdf:
 uspto-patent-url:
 thumbnail:
@@ -99,7 +99,7 @@ ventilators. But their manual operation proved to be a significant
 hindrance, with the overwhelmed staff struggling to use them
 effectively.
 
-<div class="center-elements">
+<div class="flex justify-center">
 
 ![Figure 1](/images/market-potential/market-potential-us-11006920-b2-1.png)
 
@@ -336,7 +336,7 @@ Reduced Human Error: By automating critical functions, the patented
 solution significantly minimizes the margin of human error, a pivotal
 factor in enhancing patient safety and improving overall outcomes.
 
-<div class="center-elements">
+<div class="flex justify-center">
 
 ![Figure 2](/images/market-potential/market-potential-us-11006920-b2-2.png)
 
@@ -559,13 +559,9 @@ The global medical devices market size was valued at \$512.29 billion in
 2022 and is projected to grow from \$536.12 billion in 2023 to \$799.67
 billion by 2030, as detailed in a report by Fortune Business Insights.
 
-<div class="center-elements">
+<div class="flex flex-col items-center">
 
 ![Figure 3](/images/market-potential/market-potential-us-11006920-b2-3.png)
-
-</div>
-
-<div style="padding-left:100px">
 
 [North America Medical Devices market size
 (2019-2030)](https://www.fortunebusinessinsights.com/industry-reports/medical-devices-market-100085)
@@ -587,13 +583,9 @@ The automation market in healthcare is expected to reach \$58.98 billion by 2027
 
 Valued by Markets and Markets at \$84.2 billion by 2027 and boasting a CAGR of 26.5%, the healthcare analytics market is heavily contingent on real-time patient data. Our technology directly harnesses this potential, facilitating instant data-driven adjustments, ensuring optimal device functionality.
 
-<div class="center-elements">
+<div class="flex flex-col items-center">
 
 ![Figure 4](/images/market-potential/market-potential-us-11006920-b2-4.png)
-
-</div>
-
-<div style="padding-left:120px">
 
 [Global medical devices market share (2022)](https://www.fortunebusinessinsights.com/industry-reports/medical-devices-market-100085)
 

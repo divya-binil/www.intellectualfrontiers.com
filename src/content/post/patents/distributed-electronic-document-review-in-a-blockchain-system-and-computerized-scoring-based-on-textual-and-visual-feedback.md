@@ -4,6 +4,7 @@ excerpt: A blockchain configured system and a method for facilitating an experti
 sectiontype: patent
 publishDate: 2018-01-16
 uspto-canonical-id-label: Patent
+patent-id: US9870591B2
 uspto-patent-number: US9870591B2
 inventor: Shah N. Shahid
 owner-current-assignee: Netspective Communications LLC

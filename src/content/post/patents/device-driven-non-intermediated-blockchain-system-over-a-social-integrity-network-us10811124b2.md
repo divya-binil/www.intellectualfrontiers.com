@@ -4,6 +4,7 @@ excerpt: A blockchain configured device-driven disintermediated distributed syst
 sectiontype: patent
 publishDate: 2020-10-20
 uspto-canonical-id-label: Patent
+patent-id: US1081124B2
 uspto-patent-number: US1081124B2
 inventor: Shah N. Shahid
 owner-current-assignee: INTELLECTUAL FRONTIERS LLC

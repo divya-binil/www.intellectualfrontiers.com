@@ -4,6 +4,7 @@ excerpt: A response management system and method configured to allow management 
 sectiontype: patent
 uspto-canonical-id-label: Patent
 publishDate: 2016-08-16
+patent-id: US9418355B2
 uspto-patent-number: US9418355B2
 inventor: Shah N. Shahid
 owner-current-assignee: Netspective Communications LLC

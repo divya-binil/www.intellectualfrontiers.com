@@ -4,6 +4,7 @@ excerpt: A computer-controlled system for digitally evaluating one or more compu
 sectiontype: patent
 publishDate: 2022-07-12
 uspto-canonical-id-label: Patent
+patent-id: US11388077B2
 uspto-patent-number: US11388077B2
 inventor: Shah N. Shahid
 owner-current-assignee: INTELLECTUAL FRONTIERS LLC

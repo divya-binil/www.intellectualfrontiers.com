@@ -4,6 +4,7 @@ excerpt: A system is provided for automated recording of evidence of delivery of
 uspto-canonical-id-label: Patent
 publishDate: 2012-10-18
 sectiontype: patent
+patent-id: US11475441B2
 uspto-patent-number: US11475441B2
 inventor: Shah N. Shahid
 owner-current-assignee: INTELLECTUAL FRONTIERS LLC

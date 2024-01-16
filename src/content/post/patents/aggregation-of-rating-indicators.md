@@ -4,6 +4,7 @@ excerpt: A computer-implemented method and system for publishing an aggregate ra
 sectiontype: patent
 publishDate: 2019-11-26
 uspto-canonical-id-label: Patent
+patent-id: US10489830B2
 uspto-patent-number: US10489830B2
 inventor: Shah N. Shahid
 owner-current-assignee: Netspective Communications LLC

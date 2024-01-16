@@ -4,6 +4,7 @@ excerpt: A method and networking device for tracking change in a computer execut
 sectiontype: patent
 uspto-canonical-id-label: Patent
 publishDate: 2020-03-10
+patent-id: US10586069B2
 uspto-patent-number: US10586069B2
 inventor: Shah N. Shahid
 owner-current-assignee: INTELLECTUAL FRONTIERS LLC

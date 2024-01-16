@@ -4,6 +4,7 @@ excerpt: A system is provided for aggregating user generated electronic data ass
 sectiontype: patent
 uspto-canonical-id-label: Patent
 publishDate: 2020-11-17
+patent-id: US10839020B2
 uspto-patent-number: US10839020B2
 inventor: Shah N. Shahid
 owner-current-assignee: Netspective Communications LLC

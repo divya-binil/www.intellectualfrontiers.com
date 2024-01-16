@@ -19,7 +19,7 @@ application-date:
 issue-date:
 expiry-date:
 patent-status: Active
-url: '/use-cases/service-delivery-automation-growth-opportunities-with-innovative-patent-portfolio'
+url: '/market-potential/service-delivery-automation-growth-opportunities-with-innovative-patent-portfolio'
 uspto-patent-pdf:
 uspto-patent-url:
 thumbnail:
@@ -87,7 +87,7 @@ In January 2023, UiPath [announced](https://www.mordorintelligence.com/industry-
 
 The adoption of service delivery automation has [increased in various industries](https://www.alliedmarketresearch.com/service-delivery-automation-market) like BFSI, healthcare, transportation railway & aerospace, and electrical sectors. Banks and payment providers are looking into shifting customer preferences, wavering consumer loyalty, and increased pressure to reduce costs while improving the customer experience and growing their business.
 
-<div class="center-elements">
+<div class="flex flex-col items-center">
 
 ![Service Delivery Automation Market by Component](/images/market-potential/market-potential-us-11475441-b2-1.png)
 
@@ -131,7 +131,7 @@ The landscape of service delivery automation is continually evolving, driven by 
 
 As far as recent innovation and patent landscape of service delivery automation is concerned, 2021 marked a significant year of innovation and technological advancement. As we look into the nuances of this field, a meticulous analysis of patent trends provides invaluable insights for businesses seeking to stay at the forefront of this dynamic sector. Here are the most prominent trends and developments, highlighting opportunities for growth and advancement.
 
-<div class="center-elements">
+<div class="flex justify-center">
 
 ![Patents Published in 2021 Chart](/images/market-potential/market-potential-us-11475441-b2-4.png)
 
@@ -179,7 +179,7 @@ Finally, innovations in machine learning technologies, covered by 466 patents, r
 
 The service delivery automation landscape is rich with opportunities, as evidenced by the diverse range of patents published in 2021. These innovations not only signify recent technological advancement but also present practical solutions for businesses striving to enhance efficiency, improve customer engagement, and maintain competitive edge.
 
-<div class="center-elements">
+<div class="flex justify-center">
 
 ![Niche application areas of service delivery automation technologies chart](/images/market-potential/market-potential-us-11475441-b2-5.png)
 
@@ -189,7 +189,7 @@ The service delivery automation landscape is rich with opportunities, as evidenc
 
 The landscape of service delivery automation, as illuminated by the 2021 patent trends, offers a fertile ground for innovation and growth. This analysis aims to identify the key whitespaces and untapped opportunities in this domain, providing strategic insights for businesses seeking to carve a niche or expand their presence in this competitive market through developing or licensing or purchasing patent portfolio.
 
-<div class="center-elements">
+<div class="flex justify-center">
 
 ![Chart](/images/market-potential/market-potential-us-11475441-b2-6.png)
 
@@ -341,7 +341,7 @@ The need for skilled professionals is a significant gap. According to a report b
 
 The elevated cost of implementing high-performance service delivery automation solutions poses a challenge. Automation tools and robotics can be easily deployed into an operation, and with autonomous mobile robots (AMRs), they can be deployed without infrastructure changes. Mobile automation solutions can be automatically updated and easily adapted to any growing business. These flexible tools alleviate current labor concerns and provide predictability, enabling companies to remain flexible in the face of changing circumstances and adapt when faced with future disruptions.
 
-<div class="center-elements">
+<div class="flex justify-center">
 
 ![Key Challenges Chart](/images/market-potential/market-potential-us-11475441-b2-3.png)
 

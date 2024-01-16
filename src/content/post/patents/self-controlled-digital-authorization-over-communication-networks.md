@@ -4,6 +4,7 @@ excerpt: A system for authorizing an external device to access computerized reco
 sectiontype: patent
 uspto-canonical-id-label: Patent
 publishDate: 2021-03-30
+patent-id: US10963585B2
 uspto-patent-number: US10963585B2
 inventor: Shah N. Shahid
 owner-current-assignee: Netspective Communications LLC

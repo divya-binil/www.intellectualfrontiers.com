@@ -39,7 +39,7 @@ application-date:
 issue-date:
 expiry-date:
 patent-status: Active
-url: '/use-cases/revolutionizing-real-time-precision-learning-through-contextual-micro-content-delivery'
+url: '/market-potential/revolutionizing-real-time-precision-learning-through-contextual-micro-content-delivery'
 uspto-patent-pdf:
 uspto-patent-url:
 thumbnail:
@@ -92,13 +92,9 @@ the ever-evolving needs of the corporate world. In a rapidly changing
 business landscape, staying competitive demands a more efficient and
 dynamic approach to learning and skill development.
 
-<div class="center-elements">
+<div class="flex flex-col items-center">
 
 ![Figure 1](/images/market-potential/market-potential-us11651459b2-1.jpg)
-
-</div>
-
-<div style="padding-left:200px">
 
 [Market Size
 Outlook](https://www.technavio.com/report/microlearning-market-industry-analysis)
@@ -125,7 +121,7 @@ product knowledge dissemination.
 The current demand for precision education and microlearning solutions
 is driven by several factors:
 
-<div class="center-elements">
+<div class="flex justify-center">
 
 ![Figure 2](/images/market-potential/market-potential-us11651459b2-2.jpg)
 
@@ -214,13 +210,9 @@ attributed to several factors:
     providers.
 7.  **Gamification in Training:** The increasing adoption of gamified education and training mechanisms is expected to present further growth avenues for the microlearning industry.
 
-<div class="center-elements">
+<div class="flex flex-col items-center">
 
 ![Figure 3](/images/market-potential/market-potential-us11651459b2-3.png)
-
-</div>
-
-<div style="padding-left:230px">
 
 [**Microlearning market
 analysis**](https://www.technavio.com/report/microlearning-market-industry-analysis)
@@ -331,7 +323,7 @@ solution, \"[Adaptive Micro-Content Delivery for Enhanced Workflow
 Performance](https://intellectualfrontiers.com/patents/computer-controlled-precision-education-and-training-us11651459b2/),\"
 offers a promising path to overcoming these challenges.
 
-<div class="center-elements">
+<div class="flex justify-center">
 
 ![Figure 4](/images/market-potential/market-potential-us11651459b2-4.png)
 

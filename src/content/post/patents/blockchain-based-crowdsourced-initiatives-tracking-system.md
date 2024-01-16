@@ -4,6 +4,7 @@ excerpt: An embodiment herein provides a blockchain configured crowdsourced init
 uspto-canonical-id-label: Patent
 publishDate: 2022-03-08
 sectiontype: patent
+patent-id: US11270263B2
 uspto-patent-number: US11270263B2
 inventor: Shah N. Shahid
 owner-current-assignee: INTELLECTUAL FRONTIERS LLC

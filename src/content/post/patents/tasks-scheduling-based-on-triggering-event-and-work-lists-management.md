@@ -4,6 +4,7 @@ excerpt: A computer-implemented method for scheduling, tracking, and executing p
 sectiontype: patent
 uspto-canonical-id-label: Patent
 publishDate: 2019-09-03
+patent-id: US10403399B2
 uspto-patent-number: US10403399B2
 inventor: Shah N. Shahid
 owner-current-assignee: INTELLECTUAL FRONTIERS LLC

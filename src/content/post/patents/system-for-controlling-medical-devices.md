@@ -4,6 +4,7 @@ excerpt: Controlling a multi-device module includes a physiological sensor confi
 sectiontype: patent
 uspto-canonical-id-label: Patent
 publishDate: 2021-05-18
+patent-id: US11006920B2
 uspto-patent-number: US11006920B2
 inventor: Shah N. Shahid
 owner-current-assignee: INTELLECTUAL FRONTIERS LLC

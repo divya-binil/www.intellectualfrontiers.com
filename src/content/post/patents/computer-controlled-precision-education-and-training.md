@@ -4,6 +4,7 @@ excerpt: A system for streaming of contextual micro-content blocks for a workflo
 sectiontype: patent
 uspto-canonical-id-label: Patent
 publishDate: 2022-08-23
+patent-id: US11423500B2
 uspto-patent-number: US11423500B2
 inventor: Shah N. Shahid
 owner-current-assignee: INTELLECTUAL FRONTIERS LLC

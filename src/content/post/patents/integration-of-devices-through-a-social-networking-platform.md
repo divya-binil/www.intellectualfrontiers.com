@@ -3,6 +3,7 @@ title: Integration of devices through a social networking platform
 sectiontype: patent
 uspto-canonical-id-label: Patent
 publishDate: 2019-06-11
+patent-id: US10320735B2
 uspto-patent-number: US10320735B2
 inventor: Shah N. Shahid
 owner-current-assignee: Netspective Communications LLC

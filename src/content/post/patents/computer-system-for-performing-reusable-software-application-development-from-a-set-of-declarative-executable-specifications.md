@@ -4,6 +4,7 @@ excerpt: A computer system executing a method for performing reusable software a
 sectiontype: patent
 publishDate: 2005-05-02
 uspto-canonical-id-label: Patent
+patent-id: US7039898B2
 uspto-patent-number: US7039898B2
 inventor: Shah N. Shahid
 owner-current-assignee: Netspective Communications LLC

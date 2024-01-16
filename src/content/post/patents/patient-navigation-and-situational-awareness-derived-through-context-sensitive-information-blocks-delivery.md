@@ -4,6 +4,7 @@ excerpt: A surveillance system for monitoring of Electronic Medical Record (EMR)
 sectiontype: patent
 uspto-canonical-id-label: Patent
 publishDate: 2018-10-02
+patent-id: US10089492B2
 uspto-patent-number: US10089492B2
 inventor: Shah N. Shahid
 owner-current-assignee: Netspective Communications LLC

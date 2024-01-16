@@ -1,5 +1,5 @@
 ---
-title: Digital Payment Systems- Evolving Markets and Emerging Trends
+title: Digital Payment Systems - Evolving Markets and Emerging Trends
 excerpt: The Digital Payments market is set to witness significant growth in the coming years according to reports by Statista
 sectiontype: article
 category: Market Potential
@@ -19,7 +19,7 @@ application-date:
 issue-date:
 expiry-date:
 patent-status: Active
-url: '/use-cases/digital-payment-systems-evolving-markets-and-emerging-trends'
+url: '/market-potential/digital-payment-systems-evolving-markets-and-emerging-trends'
 uspto-patent-pdf:
 uspto-patent-url:
 thumbnail:
@@ -52,13 +52,9 @@ transaction value of US\$6.03 trillion in 2023. On a global scale, China
 stands out as a frontrunner in the digital payments landscape, expected
 to amass a total transaction value of US\$3,639.00 billion in 2023.
 
-<div class="center-elements">
+<div class="flex flex-col items-center">
 
 ![Figure 1](/images/market-potential/market-potential-us-10643208-B2-1.png)
-
-</div>
-
-<div style="padding-left:200px">
 
 [Statista Market
 Insights](https://www.statista.com/outlook/dmo/fintech/digital-payments/worldwide#transaction-value)
@@ -318,7 +314,7 @@ of life for residents. Predictions indicate that the smart city market
 will see substantial growth in the coming years due to data-driven
 innovations.
 
-<div class="center-elements">
+<div class="flex justify-center">
 
 ![Figure 1](/images/market-potential/market-potential-us-10643208-B2-2.png)
 
@@ -636,7 +632,7 @@ into the digital transaction process, backed by robust consent
 management and communication systems, ensuring operational efficiency,
 security, and optimized value extraction.
 
-<div class="center-elements">
+<div class="flex justify-center">
 
 ![Figure 1](/images/market-potential/market-potential-us-10643208-B2-3.png)
 
@@ -718,13 +714,9 @@ efficient payment solutions for the future.
 
 ## Leading Innovators in Digital Payment Systems: Key IP Developers of 2022 and Their Target Market and Synergy with Our Patented Portfolio
 
-<div class="center-elements">
+<div class="flex flex-col items-center">
 
 ![Figure 1](/images/market-potential/market-potential-us-10643208-B2-01.png)
-
-</div>
-
-<div style="padding-left:150px">
 
 <p><strong><u>[Source: Intellectual Frontiers Innovation Report]</u></strong></p>
 
