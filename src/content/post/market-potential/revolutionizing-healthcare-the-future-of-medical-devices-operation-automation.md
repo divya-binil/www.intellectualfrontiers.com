@@ -4,9 +4,6 @@ excerpt: Many medical devices still require manual setup and operation, which in
 sectiontype: article
 category: Market Potential
 publishDate: 2023-10-28
-tags:
-  - astro
-  - front-end
 patent-id: US11006920B2
 uspto-canonical-id-label: Patent
 uspto-patent-number: US11006920B2

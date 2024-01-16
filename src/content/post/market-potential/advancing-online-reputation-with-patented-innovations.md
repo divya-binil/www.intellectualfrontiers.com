@@ -4,9 +4,6 @@ excerpt: Businesses across the globe, recognizing the crucial role of trust in O
 sectiontype: article
 category: Market Potential
 publishDate: 2023-12-13
-tags:
-  - astro
-  - front-end
 patent-id: US10489830B2
 uspto-canonical-id-label: Patent
 uspto-patent-number: US10489830B2

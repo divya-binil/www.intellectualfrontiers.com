@@ -17,8 +17,6 @@ import FeaturedTopics from '../../support/featuredtopics.json';
 import MostViewedPatent from '../../support/mostviewpatent.json';
 import Faq from '../../support/faq.json';
 
-
-
 const metadata = {
   title: 'Welcome to Intellectual Frontiers',
   ignoreTitleTemplate: true,
@@ -40,22 +38,15 @@ const metadata = {
     ]}
     image={{ src: '', alt: 'AstroWind Hero Image' }}
   >
-    <Fragment slot="title">
-      Empower Your Innovation: Explore and 
-Acquire Our Breakthrough Patents
-    </Fragment>
+    <Fragment slot="title">Empower Your Innovation: Explore and Acquire Our Breakthrough Patents</Fragment>
 
     <Fragment slot="subtitle">
       <span class="hidden sm:inline">
-        Intellectual Frontiers presents a gateway to innovation through 
-our extensive advanced tech patent portfolio, offering 
-breakthrough solutions across various industries. Each patent 
-is an opportunity for your business to leap forward, combining 
-cutting-edge technology with strategic innovation. Discover, 
-explore, and acquire the keys to your future success and 
-industry leadership with our patent collection.</span
+        Intellectual Frontiers presents a gateway to innovation through our extensive advanced tech patent portfolio,
+        offering breakthrough solutions across various industries. Each patent is an opportunity for your business to
+        leap forward, combining cutting-edge technology with strategic innovation. Discover, explore, and acquire the
+        keys to your future success and industry leadership with our patent collection.</span
       >
-     
     </Fragment>
   </Hero>
 
@@ -63,29 +54,15 @@ industry leadership with our patent collection.</span
 
   <!-- <Note /> -->
 
-
-    <Features
-    id="features"
-    tagline=""
-    title="Featured Patents"
-    subtitle=""
-    items={FeaturedpatentContent}
-    >
+  <Features id="features" tagline="" title="Featured Patents" subtitle="" items={FeaturedpatentContent}>
     <Fragment slot="bg">
       <div class="absolute inset-0 bg-blue-50 dark:bg-transparent"></div>
     </Fragment>
-    
   </Features>
 
   <!-- Features Widget *************** -->
 
-  <Featurestopic
-    id="features"
-    tagline=""
-    title="Featured Topics"
-    subtitle=""
-    items={FeaturedTopics}
-  />
+  <Featurestopic id="features" tagline="" title="Featured Topics" subtitle="" items={FeaturedTopics} />
 
   <!-- Content Widget **************** -->
 
@@ -163,7 +140,7 @@ industry leadership with our patent collection.</span
   </Content> -->
 
   <!-- Content Widget **************** -->
-<!-- 
+  <!-- 
   <Content
     isReversed
     isAfterContent
@@ -201,7 +178,7 @@ industry leadership with our patent collection.</span
   </Content> -->
 
   <!-- Steps Widget ****************** -->
-<!-- 
+  <!-- 
   <Steps
     title="Get your dream website up and running in no time with AstroWind."
     items={[
@@ -236,12 +213,7 @@ industry leadership with our patent collection.</span
 
   <!-- Features2 Widget ************** -->
 
-  <Features2
-    title="Most viewed patents"
-    subtitle=""
-    tagline=""
-    items={MostViewedPatent}
-  >
+  <Features2 title="Most viewed patents" subtitle="" tagline="" items={MostViewedPatent}>
     <Fragment slot="bg">
       <div class="absolute inset-0 bg-blue-50 dark:bg-transparent"></div>
     </Fragment>
@@ -249,24 +221,18 @@ industry leadership with our patent collection.</span
 
   <!-- HighlightedPosts Widget ******* -->
 
-  <BlogLatestPosts
+  <!-- <BlogLatestPosts
     title="Blog"
     information={`
                 `}
-  />
+  /> -->
 
   <!-- FAQs Widget ******************* -->
 
- <FAQs
-    title="Frequently Asked Questions"
-    subtitle=""
-    tagline="FAQs"
-    classes={{ container: 'max-w-6xl' }}
-    items={Faq}
-  >
-  <Fragment slot="bg">
-    <div class="absolute inset-0 bg-blue-50 dark:bg-transparent"></div>
-  </Fragment>
+  <FAQs title="Frequently Asked Questions" subtitle="" tagline="FAQs" classes={{ container: 'max-w-6xl' }} items={Faq}>
+    <Fragment slot="bg">
+      <div class="absolute inset-0 bg-blue-50 dark:bg-transparent"></div>
+    </Fragment>
   </FAQs>
 
   <!-- Stats Widget ****************** -->

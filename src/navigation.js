@@ -36,10 +36,6 @@ export const headerData = {
       text: 'FAQs',
       href: '/faq',
     },
-    {
-      text: 'Download Center',
-      href: '/click-through',
-    },
     // {
     //   //text: 'Blog',
     //   //href: getPermalink('/blog'),
@@ -49,28 +45,28 @@ export const headerData = {
       href: getPermalink('/article'),
     }
   ],
-  actions: [{ text: 'Contact/Chatbot', href: '/contact' }],
+  // actions: [{ text: 'Contact/Chatbot', href: '/contact' }],
 };
 
 export const footerData = {
   links: [
     {
-      title: 'Quick Links',
+      title: 'Categoris',
       links: [
-        { text: 'Download Center', href: '#' },
-        { text: 'About us', href: '#' },
-        { text: 'Faq’s', href: '#' },
-        { text: 'Privacy Policy', href: '#' },
-        { text: 'Terms of Use', href: '#' },
+        { text: 'Patent Summaries', href: '/category/patent-summaries' },
+        { text: 'Market Potential', href: '/category/market-potential' },
+        { text: 'Blogs', href: '/category/blogs' },
+        // { text: 'Privacy Policy', href: '#' },
+        // { text: 'Terms of Use', href: '#' },
         // { text: 'Pricing', href: '#' },
         // { text: 'Resources', href: '#' },
       ],
     },
     {
-      title: 'Contact/Chatbot',
+      title: 'Contact',
       links: [
-        { text: 'consectetur adipiscing elit.', href: '#' },
-        { text: 'hello@intellectualfrontiers.com', href: '#' },
+        // { text: 'consectetur adipiscing elit.', href: '#' },
+        { text: 'hello@intellectualfrontiers.com', href: 'mailto:hello@intellectualfrontiers.com' },
       ],
     },
   ],

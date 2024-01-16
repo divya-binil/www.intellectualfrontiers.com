@@ -4,9 +4,6 @@ excerpt: The Digital Payments market is set to witness significant growth in the
 sectiontype: article
 category: Market Potential
 publishDate: 2023-12-19
-tags:
-  - astro
-  - front-end
 patent-id: US10643208B2
 uspto-canonical-id-label: Patent
 uspto-patent-number: US10643208B2

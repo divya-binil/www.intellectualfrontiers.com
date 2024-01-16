@@ -5,9 +5,6 @@ image: '/images/market-potential/market-potential-us11651459b2-1.jpg'
 sectiontype: article
 category: Market Potential
 publishDate: 2023-12-19
-tags:
-  - astro
-  - front-end
 patent-id: US11651459B2
 metadata:
   title: Advanced Precision Learning Techniques for Pioneering Innovations

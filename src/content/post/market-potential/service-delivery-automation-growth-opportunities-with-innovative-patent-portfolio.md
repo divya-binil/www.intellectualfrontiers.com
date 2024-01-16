@@ -4,9 +4,6 @@ excerpt: Service delivery market is poised for unprecedented growth with an astr
 sectiontype: article
 category: Market Potential
 publishDate: 2023-11-22
-tags:
-  - astro
-  - front-end
 patent-id: US11475441B2
 uspto-canonical-id-label: Patent
 uspto-patent-number: US11475441B2
