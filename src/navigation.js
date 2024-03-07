@@ -29,7 +29,7 @@ export const headerData = {
       href: '/about',
     },
     {
-      text: 'Patent Assets',
+      text: 'Patent Assets Test',
       href: getPatentPermalink('/patent'),
     },
     {
