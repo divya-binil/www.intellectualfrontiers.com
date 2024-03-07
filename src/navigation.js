@@ -27,6 +27,7 @@ export const headerData = {
     {
       text: 'About Us',
       href: '/about',
+      trailingSlash: "never"
     },
     {
       text: 'Patent Assets',
